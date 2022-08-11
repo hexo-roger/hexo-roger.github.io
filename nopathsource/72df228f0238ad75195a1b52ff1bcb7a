@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요? &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:NM2dofFHAQtGrqqPDs5m4VhjvLJAjs7h2f8uu0T_bOd5IhQIG8gzyHU_rj2s4c2GUcBWFfN-SvxNhuxVORu65Q" />
+
+  <meta name="description" content="2022년 9월 12일부로 Tumeng 연동이 종료됩니다. 이때 삭제되는 정보들은 다음과 같습니다. [계정을 연동하신 경우]  Tumeng에서 삭제되는 정보  유저 ID(프로필 페이지의 URL 끝부분에 표시되는 자동 발행 숫자입니다) 닉네임,..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요?" />
+<meta property="og:description" content="2022년 9월 12일부로 Tumeng 연동이 종료됩니다.
+이때 삭제되는 정보들은 다음과 같습니다.
+[계정을 연동하신 경우]
+
+Tumeng에서 삭제되는 정보
+
+유저 ID(프로필 페이지의 URL 끝부분에 표시되는 자동 발행 숫자입니다)
+닉네임, 자기소개글
+프로필 이미지
+
+pixiv에서 삭제되는 정보
+
+계정에 연동된 Tumeng 상의 팔로워 수
+
+
+[Tu..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/8862096131353" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/8862096131353-Tumeng-%E3%83%88%E3%82%A5%E3%83%A2%E3%83%B3-%E9%80%A3%E6%90%BA%E3%81%AE%E6%A9%9F%E8%83%BD%E6%8F%90%E4%BE%9B%E7%B5%82%E4%BA%86%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%83%85%E5%A0%B1%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6-%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%83%85%E5%A0%B1%E3%81%8C%E6%AE%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/8862096131353-%E5%9C%A8-%E7%BB%91%E5%AE%9ATumeng-%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9D%9F%E5%90%8E-%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E4%BC%9A%E5%88%A0%E9%99%A4-%E8%80%8C%E5%93%AA%E4%BA%9B%E4%BC%9A%E4%BF%9D%E7%95%99-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/8862096131353-%E5%9C%A8-%E7%B6%81%E5%AE%9ATumeng-%E5%8A%9F%E8%83%BD%E7%B5%90%E6%9D%9F%E5%BE%8C-%E5%93%AA%E4%BA%9B%E8%B3%87%E8%A8%8A%E5%B0%87%E6%9C%83%E5%88%AA%E9%99%A4-%E5%93%AA%E4%BA%9B%E8%B3%87%E8%A8%8A%E5%8F%88%E6%9C%83%E4%BF%9D%E7%95%99%E5%91%A2-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F8862096131353-Tumeng-%25E3%2583%2588%25E3%2582%25A5%25E3%2583%25A2%25E3%2583%25B3-%25E9%2580%25A3%25E6%2590%25BA%25E3%2581%25AE%25E6%25A9%259F%25E8%2583%25BD%25E6%258F%2590%25E4%25BE%259B%25E7%25B5%2582%25E4%25BA%2586%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2581%25A6-%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F8862096131353-%25E5%259C%25A8-%25E7%25BB%2591%25E5%25AE%259ATumeng-%25E5%258A%259F%25E8%2583%25BD%25E7%25BB%2593%25E6%259D%259F%25E5%2590%258E-%25E5%2593%25AA%25E4%25BA%259B%25E4%25BF%25A1%25E6%2581%25AF%25E4%25BC%259A%25E5%2588%25A0%25E9%2599%25A4-%25E8%2580%258C%25E5%2593%25AA%25E4%25BA%259B%25E4%25BC%259A%25E4%25BF%259D%25E7%2595%2599-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F8862096131353-%25E5%259C%25A8-%25E7%25B6%2581%25E5%25AE%259ATumeng-%25E5%258A%259F%25E8%2583%25BD%25E7%25B5%2590%25E6%259D%259F%25E5%25BE%258C-%25E5%2593%25AA%25E4%25BA%259B%25E8%25B3%2587%25E8%25A8%258A%25E5%25B0%2587%25E6%259C%2583%25E5%2588%25AA%25E9%2599%25A4-%25E5%2593%25AA%25E4%25BA%259B%25E8%25B3%2587%25E8%25A8%258A%25E5%258F%2588%25E6%259C%2583%25E4%25BF%259D%25E7%2595%2599%25E5%2591%25A2-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="외부 서비스 연동에 대하여">
+      
+        <a href="/hc/ko/categories/900000194306-%EC%99%B8%EB%B6%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EB%8F%99%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">외부 서비스 연동에 대하여</a>
+      
+    </li>
+  
+    <li title="외부 서비스 연동에 대하여">
+      
+        <a href="/hc/ko/sections/900000441143-%EC%99%B8%EB%B6%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EB%8F%99%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">외부 서비스 연동에 대하여</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000194306" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/900002647383-Tumeng-%ED%88%AC%EB%A9%8D-%EC%9D%B4%EB%9E%80-" class="sidenav-item ">Tumeng(투멍)이란?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-" class="sidenav-item current-article">Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002647403-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">Tumeng(투멍)연동으로 무엇을 할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002647503-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90-%EC%9E%91%ED%92%88%EC%9D%84-%EA%B2%8C%EC%9E%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">어떻게 하면 Tumeng(투멍)에 작품을 게재할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002710566-%EC%96%B4%EB%96%A0%ED%95%9C-%EC%9E%91%ED%92%88%EC%9D%84-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90-%EA%B2%8C%EC%9E%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">어떠한 작품을 Tumeng(투멍)에 게재할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002710626-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90%EC%84%9C%EC%9D%98-%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%95%EB%B3%B4%EC%99%80-%EC%9E%91%ED%92%88-%EA%B2%8C%EC%9E%AC-%EC%8B%AC%EC%82%AC%EB%8A%94-%EC%96%B4%EB%96%A0%ED%95%9C-%EA%B8%B0%EC%A4%80%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%A7%84%ED%96%89%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">Tumeng(투멍)에서의 프로필 정보와 작품 게재 심사는 어떠한 기준에 따라 진행되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002710866-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90%EC%84%9C%EC%9D%98-%EC%9E%91%ED%92%88-%EA%B2%8C%EC%9E%AC-%EC%83%81%ED%83%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">Tumeng(투멍)에서의 작품 게재 상태는 어떻게 확인할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002710826-%ED%95%9C%EB%B2%88-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90-%EA%B2%8C%EC%9E%AC%EB%90%9C-%EC%97%B0%EB%8F%99%EC%9A%A9-%EA%B3%84%EC%A0%95%EA%B3%BC-%EC%9E%91%ED%92%88%EC%9D%B4-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EB%B0%8F-%EC%9E%AC%EC%8B%AC%EC%82%AC-%EB%8C%80%EC%83%81%EC%9D%B4-%EB%90%A0-%EC%88%98%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">한번 Tumeng(투멍)에 게재된 연동용 계정과 작품이 비공개 및 재심사 대상이 될 수도 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002710766-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%9E%91%ED%92%88%EC%9D%B4-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90%EC%84%9C-%EA%B2%8C%EC%9E%AC%EB%90%98%EB%8A%94-%EB%AA%A8%EC%8A%B5%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">투고한 작품이 Tumeng(투멍)에서 게재되는 모습은 어떻게 확인할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002647603-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99%EC%9C%BC%EB%A1%9C-Tumeng%EC%97%90-%EC%96%B4%EB%96%A0%ED%95%9C-%EC%A0%95%EB%B3%B4%EA%B0%80-%ED%91%9C%EC%8B%9C%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">Tumeng(투멍) 연동으로 Tumeng에 어떠한 정보가 표시되나요?</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/ko/sections/900000441143-%EC%99%B8%EB%B6%80-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EB%8F%99%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" class="article-sidebar-item">더보기</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요?" class="article-title">
+          Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p><span>2022년 9월 12일부로 Tumeng 연동이 종료됩니다.</span></p>
+<p><span>이때 삭제되는 정보들은 다음과 같습니다.<br><br></span></p>
+<p><span>[계정을 연동하신 경우]</span></p>
+<ul>
+<li><span>Tumeng에서 삭제되는 정보</span></li>
+<ul>
+<li><span>유저 ID(프로필 페이지의 URL 끝부분에 표시되는 자동 발행 숫자입니다)</span></li>
+<li><span>닉네임, 자기소개글</span></li>
+<li><span>프로필 이미지</span></li>
+</ul>
+<li><span>pixiv에서 삭제되는 정보</span></li>
+<ul>
+<li><span>계정에 연동된 Tumeng 상의 팔로워 수</span></li>
+</ul>
+</ul>
+<p><span>[Tumeng용 프로필을 설정하신 경우]</span></p>
+<ul>
+<li><span>Tumeng과 pixiv 양쪽에서 아래의 정보들이 삭제됩니다</span></li>
+<ul>
+<li><span>Tumeng용으로 설정한 닉네임과 자기소개글</span></li>
+<li><span>Tumeng으로 설정한 프로필 이미지</span></li>
+</ul>
+</ul>
+<p><span>[작품을 Tumeng에 게재하신 경우]</span></p>
+<ul>
+<li><span>Tumeng에서 삭제되는 정보</span></li>
+<ul>
+<li><span>작품 ID(작품 상세 페이지의 URL 끝부분에 표시되는, 작품별로 자동 발행되는 숫자입니다)</span></li>
+<li><span>작품의 이미지, 타이틀, 캡션, 태그</span></li>
+<li><span>작품의 댓글 수, 북마크 수, Like! 수</span></li>
+</ul>
+<li><span>pixiv에서 삭제되는 정보</span></li>
+<ul>
+<li><span>작품에 연동된 Tumeng 상의 Like! 수, 댓글 수, 북마크 수<br></span></li>
+</ul>
+</ul>
+<p><span><br>Tumeng에 공유된 정보들 중 Tumeng에 남는 것은 없습니다.</span></p>
+<p><span>그리고 삭제되는 정보는 Tumeng 측에 공유된 정보들에 한하며, pixiv의 연동한 계정과 게재한 작품, pixiv 상의 리액션 수 등, 상기 이외 pixiv 상에서의 모든 정보는 삭제되지 않습니다.</span></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=Tumeng%28%ED%88%AC%EB%A9%8D%29+%EC%97%B0%EB%8F%99+%EA%B8%B0%EB%8A%A5+%EC%A0%9C%EA%B3%B5%EC%9D%B4+%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4%2C+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EB%82%A8%EB%82%98%EC%9A%94%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F8862096131353-Tumeng-%25ED%2588%25AC%25EB%25A9%258D-%25EC%2597%25B0%25EB%258F%2599-%25EA%25B8%25B0%25EB%258A%25A5-%25EC%25A0%259C%25EA%25B3%25B5%25EC%259D%25B4-%25EC%25A2%2585%25EB%25A3%258C%25EB%2590%2598%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EC%2582%25AC%25EB%259D%25BC%25EC%25A7%2580%25EA%25B3%25A0-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EB%2582%25A8%25EB%2582%2598%25EC%259A%2594-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=Tumeng%28%ED%88%AC%EB%A9%8D%29+%EC%97%B0%EB%8F%99+%EA%B8%B0%EB%8A%A5+%EC%A0%9C%EA%B3%B5%EC%9D%B4+%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4%2C+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EB%82%A8%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F8862096131353-Tumeng-%25ED%2588%25AC%25EB%25A9%258D-%25EC%2597%25B0%25EB%258F%2599-%25EA%25B8%25B0%25EB%258A%25A5-%25EC%25A0%259C%25EA%25B3%25B5%25EC%259D%25B4-%25EC%25A2%2585%25EB%25A3%258C%25EB%2590%2598%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EC%2582%25AC%25EB%259D%25BC%25EC%25A7%2580%25EA%25B3%25A0-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EB%2582%25A8%25EB%2582%2598%25EC%259A%2594-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=Tumeng%28%ED%88%AC%EB%A9%8D%29+%EC%97%B0%EB%8F%99+%EA%B8%B0%EB%8A%A5+%EC%A0%9C%EA%B3%B5%EC%9D%B4+%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4%2C+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0+%EC%96%B4%EB%96%A4+%EC%A0%95%EB%B3%B4%EA%B0%80+%EB%82%A8%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F8862096131353-Tumeng-%25ED%2588%25AC%25EB%25A9%258D-%25EC%2597%25B0%25EB%258F%2599-%25EA%25B8%25B0%25EB%258A%25A5-%25EC%25A0%259C%25EA%25B3%25B5%25EC%259D%25B4-%25EC%25A2%2585%25EB%25A3%258C%25EB%2590%2598%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EC%2582%25AC%25EB%259D%25BC%25EC%25A7%2580%25EA%25B3%25A0-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EB%2582%25A8%25EB%2582%2598%25EC%259A%2594-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/ko/articles/8862096131353/vote" data-value="null" data-label="0명 중 0명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/ko/articles/8862096131353/vote" data-value="null" data-label="0명 중 0명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/ko/articles/8862096131353/vote" data-value="null" data-label="0명 중 0명이 도움이 되었다고 했습니다.">0명 중 0명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCH%2BNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB0y9oYy9rby9hcnRpY2xlcy85MDAwMDI2NDc0MjMtVHVtZW5nLSVFRCU4OCVBQyVFQiVBOSU4RC0lRUElQjMlQkMtJUVDJTk3JUIwJUVCJThGJTk5JUVDJThCJTlDLSVFQyU5NiVCNCVFQiU5NiVBMCVFRCU5NSU5Qy0lRUMlQTAlOTUlRUIlQjMlQjQlRUElQjAlODAtVHVtZW5nJUVDJTk3JTkwLSVFQSVCMyVCNSVFQyU5QyVBMCVFQiU5MCU5OCVFQiU4MiU5OCVFQyU5QSU5NC0GOwhUOglyYW5raQY%3D--c1520c19be73e901a67b18671665a48b3366c298" rel="nofollow">Tumeng(투멍)과 연동시 어떠한 정보가 Tumeng에 공유되나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFeNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSJPL2hjL2tvL2FydGljbGVzLzkwMDAwMjY0NzM4My1UdW1lbmctJUVEJTg4JUFDJUVCJUE5JThELSVFQyU5RCVCNCVFQiU5RSU4MC0GOwhUOglyYW5raQc%3D--d6e561a909d468794c85c561ef466ad916bc1e43" rel="nofollow">Tumeng(투멍)이란?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCq5S4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBsy9oYy9rby9hcnRpY2xlcy85MDAwMDE5Mzc3MDYtJUVEJTg4JUFDJUVBJUIzJUEwJUVEJTk1JTlDLSVFQyU4NiU4QyVFQyU4NCVBNCVFQyU5RCU5OC0lRUQlOTElOUMlRUMlQTclODAlRUIlQTUlQkMtJUVCJUIzJTgwJUVBJUIyJUJEJUVEJTk1JUEwLSVFQyU4OCU5OC0lRUMlOUUlODglRUIlODIlOTglRUMlOUElOTQtBjsIVDoJcmFua2kI--ac10797638e02a0562cb2334391529e0a5da5b79" rel="nofollow">투고한 소설의 표지를 변경할 수 있나요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:nv2YeXsu-Md-eHubDqhzHYPE6o9DOxsshvnzKnHVtpTTEhHQkaHKBE3pfymsh9h6imcAKPDLnzESgDHEDDFglg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGwrCBmFF14PCDoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--046bd28e1cf9ab230144ecf262859d3ed1df3a37","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"8862096131353","current_record_url":"/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-","current_record_title":"Tumeng(투멍) 연동 기능 제공이 종료되면, 어떤 정보가 사라지고 어떤 정보가 남나요?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737ef520bc4f3cb2',m:'XON3rHIGLAO4MKa.XlaSx__kVFT3vg4G1WhRQhm9jK4-1660032020-0-AelOOPJuWE7eMyqsHiXcXmaXrdaOlY7PgTurkol7kq8O4rwkqoH2nhXB+NFodxxpSPtuCDg8ozI9II0P3qIKo3+1W7rokD0G8pgwkh2yHqsCnYInE/nve/U4522YrlJvDMyZ0WiEhh5GxQhR5+Rwfum0VfKANoN2gNiZ3EtUnzdAEmB0qXlAnhkXuj6W5Vx/5XhWaj/q6VE8ZITapTfxpVdgGD9jyoofZmZe+ScyFkCUkKl+9uc722KEAZXzKxOjFoDk36PqZzadizXS52Vamf2Ki1tJ9H6lzIcj6ykgYcywkmxG7qNW5pixgBG3+B8dVNPTZTbSX59c2z2k8pbgmiVZo1rvY1vOVbvH23nXRx6B3RSs3k4Fm7yDLDWn7wUpFqxPVnRR2aQauzAg7rvAiPHuVY61nhELbTWuumhJafGJxjq90TVCHWUbkFqrpWVzbdES/xIXgUTriFF0MYxbCcjw80vjdSsgAOlsnA9SfC9Cnz3JbuKNoUpNXR2IJXDlBJWx/v7ZKwdL/CCMIgQzgyM=',s:[0xba4cdf4a2a,0x796a89ad9c],}})();</script></body>
+</html>

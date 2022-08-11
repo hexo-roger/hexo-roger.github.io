@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>pixivヘルプセンター</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:I2nK5IqOuGHe1rwpUbt24M4t_UQIZVaDCEnl6VYJqh79VChBnzVXzr7jnpDo82BcDAzubc10xKTURDEVOl2FLQ" />
+
+  <link rel="canonical" href="https://www.pixiv.help/hc/ja" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+</head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="ホーム" href="/hc/ja">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="ロゴ">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">お問い合わせ</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">日本語</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fja%252Farticles%252F360000226574-%2525E3%252582%2525B7%2525E3%252583%2525A7%2525E3%252583%2525BC%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252581%2525A8%2525E3%252581%2525AF-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fja%252Farticles%252F360000226574-%2525E3%252582%2525B7%2525E3%252583%2525A7%2525E3%252583%2525BC%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252581%2525A8%2525E3%252581%2525AF-" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fja%252Farticles%252F360000226574-%2525E3%252582%2525B7%2525E3%252583%2525A7%2525E3%252583%2525BC%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252581%2525A8%2525E3%252581%2525AF-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fja%252Farticles%252F360000226574-%2525E3%252582%2525B7%2525E3%252583%2525A7%2525E3%252583%2525BC%2525E3%252582%2525B1%2525E3%252583%2525BC%2525E3%252582%2525B9%2525E3%252581%2525A8%2525E3%252581%2525AF-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixivに戻る</a>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="help-head">どんなことでお困りですか？</div>
+  <div class="hero-inner">
+    <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/ja/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"><input type="search" name="query" id="query" placeholder="ヘルプを検索（パスワード、プレミアム、投稿など）" autocomplete="off" aria-label="ヘルプを検索（パスワード、プレミアム、投稿など）"></form>
+  </div>
+</section>
+
+<ul class="search-topic"><h2>よくある質問</h2>：
+  <a href="/hc/search?utf8=✓&query=パスワード"><li>パスワードがわからない</li></a>
+  <a href="/hc/search?utf8=✓&query=プレミアム"><li>プレミアム機能が使えない</li></a>
+  <a href="/hc/search?utf8=✓&query=投稿ができない"><li>投稿できない</li></a>
+  <a href="/hc/search?utf8=✓&query=閲覧できない"><li>作品が表示されない</li></a>
+</ul>
+<div class="container">
+  <div class="top-questions"><h3>よくある質問</h3>
+    <ul>
+      <a href="/hc/articles/235583008"><li>パスワードを紛失してしまいました</li></a>
+      <a href="/hc/articles/115000679588"><li>「pixivへの新しいログインを検出しました」というメールが届いた</li></a>
+      <a href="/hc/articles/235727568"><li>プレミアム登録をしたアカウントの情報を忘れた</li></a>
+      <a href="/hc/articles/235582768"><li>pixivから新規登録時の認証用メールが届きません</li></a>
+      <a href="/hc/articles/235644187"><li>pixivのメールアドレス、パスワードを変更したい</li></a>
+      <a href="/hc/articles/231827788"><li>pixivプレミアムの支払い方法を変更したい</li></a>
+    </ul>
+  </div>
+  <section class="section knowledge-base">
+    <section class="categories blocks">
+      <ul class="blocks-list">
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065473-pixiv%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">pixivについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064314-%E4%BC%9A%E5%93%A1%E7%99%BB%E9%8C%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">会員登録について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065433-ID-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89-%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">ID/パスワード/ログインについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064034-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E7%99%BB%E9%8C%B2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">プレミアム登録について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064074-%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">プレミアム機能について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064114-%E4%BD%9C%E5%93%81%E3%81%AE%E6%8A%95%E7%A8%BF-%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">作品の投稿/管理について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064094-%E4%BD%9C%E5%93%81%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">作品の検索について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065173-%E4%BD%9C%E5%93%81%E3%81%AE%E9%96%B2%E8%A6%A7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">作品の閲覧について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065393-%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E7%B7%A8%E9%9B%86%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">プロフィール編集について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065453-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">セキュリティ/プライバシーについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064334-%E9%96%A2%E9%80%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">関連サービスについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064174--%E3%81%84%E3%81%84%E3%81%AD-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">「いいね！」について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065313-%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">ブックマークについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065293-%E9%80%9A%E7%9F%A5%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">通知について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065273-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">アクセスブロックについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001061033-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">フォローについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064154-%E3%83%9E%E3%82%A4%E3%83%94%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">マイピクについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065073-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">メッセージについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065093-%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">ランキングについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065373-%E7%BF%BB%E8%A8%B3%E3%81%AE%E6%8F%90%E6%A1%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">翻訳の提案について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/900000194306-%E5%A4%96%E9%83%A8%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E9%80%A3%E6%90%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">外部サービス連携について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001063974-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">イベント機能について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065113-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">グループについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001065133-%E3%83%A9%E3%82%A4%E3%83%96%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">ライブ機能について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064014-pixiv%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">pixivポイントについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/204234107-%E8%A6%8F%E7%B4%84%E9%81%95%E5%8F%8D%E3%81%AE%E5%A0%B1%E5%91%8A' class="blocks-item-link">
+                <h4 class="blocks-item-title">規約違反の報告</h4>
+                <p class="blocks-item-description">著作権の侵害・スパム・荒らしなどの報告</p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/360001064254-%E9%80%80%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">退会について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/900000133123-%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">リクエスト機能について</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/ja/categories/900001239443-%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6' class="blocks-item-link">
+                <h4 class="blocks-item-title">公式コンテストについて</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+      </ul>
+      
+    </section>
+
+    
+  </section>
+
+  
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>サービス</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixivコミック</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixivノベル</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">ピクシブ百科事典</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixivプレミアム</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>ご利用について</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">利用規約</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">ガイドライン</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">プライバシーポリシー</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">広告掲載</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">お問い合わせ</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>お知らせ</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">お知らせ</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>会社情報</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">運営会社</a></li>
+                    <li><a href="https://recruit.pixiv.net/" target="_blank">採用情報</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">人材募集</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ja.ce296e5fb369132f10c5.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ja/articles/360000226574-%E3%82%B7%E3%83%A7%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%81%AF-" data-theme="hc" data-locale="ja" data-action="signin" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ja","csrf_token":"hc:hcobject:server:j8OOaq4U86XX4yFyDunQKUMD0Vw5JSNAHS1zNbuRfIRR_mzPu68cCrfWA8u3ocaVgSLCdfw0sWfBIKfJ18VTtw","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"front_page_viewed","data":"BAh7BjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjoGRVQ6C2xvY2FsZUkiB2phBjsLVA==--2ce1b16b57aec4f7b3f399c3e48c6511443daffd","url":"https://www.pixiv.help/hc/activity"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":null,"authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ja","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ja","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ja","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ja","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){var js = "window['__CF$cv$params']={r:'737e8ec439970738',m:'BKXEP2g3o9OU7Q57THz4kSnCJhDWdRvyQezEvsevpIc-1660027828-0-AS+eVdCXZh44X8kvDVPbYbBCG4K4AVpshmkp+wxAfYGuFWTgzI6JWIPEYLJqQeJvnARgWypGrsIfrBMKFyOQ4PajPLD8mwHSZgP05OmIDQgmh3d/UubZWDAshDaRwdfHAf+KJJfcwloKd/OY0RkF92nzT+EnDFTantbC/xXK9hMKDIaKMJ9ZhZEO6/wXFKWq/HV9hAVQ3Xkw2bWLuZ6OsvCcI4vAbjWPkQSdtLJwEHj5COIEVqUzOo+co6zlzRIR2l71F4zYALBtHmSRxXugexHb2WB/nGbG1X3LgX8h1gzaV6NgBhLnuV5r8SuqZLTSO/pS3GBoSnkCel7pOz5a8XGIIJn7REZxOPH4UNYKKUYjK74+n+yZ+c0KGFrWP+LseQRsRXxk6uDZAOyayQjlAKM=',s:[0xdbc034c879,0xdfe6bc2a0c],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요? &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:I5jyCxbrnSkFExMsmyo8Qep1gAnRzhmCSYpSO1KZ_tO69wUZsdWOKQnuDtuCqYWNpXv2UoGSLlKP0SfOrXLd5g" />
+
+  <meta name="description" content="작품 상세 화면의 댓글란에 ‘작가가 댓글을 OFF로 설정해 놓았습니다’라는 문구가 나오는 경우, 과거에 남겨진 댓글은 전부 가려져 아무도 볼 수 없습니다. 작가가 ‘작품 댓글’ 설정을 ON으로 설정하면 다시 표시됩니다.  그리고 ‘작품 댓글’..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?" />
+<meta property="og:description" content="작품 상세 화면의 댓글란에 ‘작가가 댓글을 OFF로 설정해 놓았습니다’라는 문구가 나오는 경우, 과거에 남겨진 댓글은 전부 가려져 아무도 볼 수 없습니다.
+작가가 ‘작품 댓글’ 설정을 ON으로 설정하면 다시 표시됩니다.
+
+그리고 ‘작품 댓글’ 설정이 ON일 때 작가가 댓글을 삭제한 경우, ‘작품 댓글’ 설정과 상관없이 해당 댓글은 표시되지 않습니다.
+..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/4661542171289" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/4661542171289-What-happens-to-comments-I-ve-posted-when-comments-are-disabled-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/4661542171289-%E4%BD%9C%E5%93%81%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%81%8C%E3%82%AA%E3%83%95%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E6%99%82-%E8%87%AA%E5%88%86%E3%81%8C%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%9F%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AF%E3%81%A9%E3%81%86%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/4661542171289-%E4%BD%9C%E5%93%81%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD%E5%85%B3%E9%97%AD%E5%90%8E-%E4%BC%9A%E5%AF%B9%E8%BF%87%E5%BE%80%E7%9A%84%E8%AF%84%E8%AE%BA%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/4661542171289-%E4%BD%9C%E5%93%81%E7%95%99%E8%A8%80%E5%8A%9F%E8%83%BD%E9%97%9C%E9%96%89%E5%BE%8C-%E5%B0%8D%E4%BB%A5%E5%89%8D%E7%99%BC%E8%A1%A8%E9%81%8E%E7%9A%84%E7%95%99%E8%A8%80%E6%9C%89%E4%BB%80%E9%BA%BC%E5%BD%B1%E9%9F%BF-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F4661542171289-What-happens-to-comments-I-ve-posted-when-comments-are-disabled-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F4661542171289-%25E4%25BD%259C%25E5%2593%2581%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E3%2582%25AA%25E3%2583%2595%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E6%2599%2582-%25E8%2587%25AA%25E5%2588%2586%25E3%2581%258C%25E6%258A%2595%25E7%25A8%25BF%25E3%2581%2597%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F4661542171289-%25E4%25BD%259C%25E5%2593%2581%25E8%25AF%2584%25E8%25AE%25BA%25E5%258A%259F%25E8%2583%25BD%25E5%2585%25B3%25E9%2597%25AD%25E5%2590%258E-%25E4%25BC%259A%25E5%25AF%25B9%25E8%25BF%2587%25E5%25BE%2580%25E7%259A%2584%25E8%25AF%2584%25E8%25AE%25BA%25E6%259C%2589%25E4%25BD%2595%25E5%25BD%25B1%25E5%2593%258D-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F4661542171289-%25E4%25BD%259C%25E5%2593%2581%25E7%2595%2599%25E8%25A8%2580%25E5%258A%259F%25E8%2583%25BD%25E9%2597%259C%25E9%2596%2589%25E5%25BE%258C-%25E5%25B0%258D%25E4%25BB%25A5%25E5%2589%258D%25E7%2599%25BC%25E8%25A1%25A8%25E9%2581%258E%25E7%259A%2584%25E7%2595%2599%25E8%25A8%2580%25E6%259C%2589%25E4%25BB%2580%25E9%25BA%25BC%25E5%25BD%25B1%25E9%259F%25BF-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="작품의 열람에 대하여">
+      
+        <a href="/hc/ko/categories/360001065173-%EC%9E%91%ED%92%88%EC%9D%98-%EC%97%B4%EB%9E%8C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">작품의 열람에 대하여</a>
+      
+    </li>
+  
+    <li title="열람의 기본">
+      
+        <a href="/hc/ko/sections/360002419974-%EC%97%B4%EB%9E%8C%EC%9D%98-%EA%B8%B0%EB%B3%B8">열람의 기본</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001065173" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/235585268-%EC%9E%91%ED%92%88%EC%97%90-%EB%8C%93%EA%B8%80%EC%9D%B4%EB%82%98-%EC%8A%A4%ED%83%AC%ED%94%84%EB%A5%BC-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">작품에 댓글이나 스탬프를 남기고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4421418866457-%EC%9E%91%ED%92%88%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%93%EA%B8%80%EC%9D%B4%EB%82%98-%EC%8A%A4%ED%83%AC%ED%94%84%EB%A5%BC-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EB%A0%A4%EB%A9%B4-" class="sidenav-item ">작품에 대한 댓글이나 스탬프를 받지 않도록 설정하려면?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item current-article">작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900004833123-%EC%9B%8C%EC%B9%98%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%9E%80-%EC%96%B4%EB%96%A4-%EA%B8%B0%EB%8A%A5%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">워치리스트란 어떤 기능인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002576426-%EC%86%8C%EC%84%A4-%EB%B3%B8%EB%AC%B8%EC%97%90-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EB%B0%91%EC%A4%84-%ED%91%9C%EC%8B%9C-%EC%84%A4%EC%A0%95%EC%9E%90%EB%A3%8C-%EB%A7%81%ED%81%AC-%EB%A5%BC-%EC%BC%9C%EA%B1%B0%EB%82%98-%EB%81%84%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-" class="sidenav-item ">소설 본문에 표시되는 밑줄 표시(설정자료 링크)를 켜거나 끄려면 어떻게 해야 하나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" class="sidenav-item ">만화를 읽는 방법을 알려주세요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646447-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" class="sidenav-item ">소설 작품을 읽는 방법을 알려주세요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4407180819353-%EC%97%B4%EB%9E%8C-%EC%A3%BC%EC%9D%98-%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">열람 주의 기능이란 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646527-%EC%97%B4%EB%9E%8C-%EC%9D%B4%EB%A0%A5%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">열람 이력을 확인하고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4407182307481-%ED%94%BC%EB%93%9C-%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">피드 기능이란 무엇인가요?</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?" class="article-title">
+          작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>작품 상세 화면의 댓글란에 ‘작가가 댓글을 OFF로 설정해 놓았습니다’라는 문구가 나오는 경우, 과거에 남겨진 댓글은 전부 가려져 아무도 볼 수 없습니다.</p>
+<p>작가가 ‘작품 댓글’ 설정을 ON으로 설정하면 다시 표시됩니다.</p>
+<p><a href="/hc/article_attachments/4661748081817/__________2022-02-17_19.05.27.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/4661748081817/__________2022-02-17_19.05.27.png" alt="__________2022-02-17_19.05.27.png"></a></p>
+<p>그리고 ‘작품 댓글’ 설정이 ON일 때 작가가 댓글을 삭제한 경우, ‘작품 댓글’ 설정과 상관없이 해당 댓글은 표시되지 않습니다.</p>
+<h3>관련 도움말</h3>
+<ul>
+<li><a href="https://www.pixiv.help/hc/ko/articles/4421418866457" target="_blank" rel="noopener">작품에 대한 댓글이나 스탬프를 받지 않도록 설정하려면?</a></li>
+<li><a href="https://www.pixiv.help/hc/ko/articles/235585268" target="_blank" rel="noopener">작품에 댓글이나 스탬프를 남기고 싶어요</a></li>
+</ul></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%EC%9E%91%ED%92%88+%EB%8C%93%EA%B8%80%EC%9D%B4+OFF%EB%A1%9C+%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4+%EC%9E%88%EC%9D%84+%EA%B2%BD%EC%9A%B0%2C+%EB%82%B4%EA%B0%80+%EC%93%B4+%EB%8C%93%EA%B8%80%EC%9D%80+%EC%96%B4%EB%96%BB%EA%B2%8C+%EB%90%98%EB%82%98%EC%9A%94%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F4661542171289-%25EC%259E%2591%25ED%2592%2588-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%25B4-OFF%25EB%25A1%259C-%25EC%2584%25A4%25EC%25A0%2595%25EB%2590%2598%25EC%2596%25B4-%25EC%259E%2588%25EC%259D%2584-%25EA%25B2%25BD%25EC%259A%25B0-%25EB%2582%25B4%25EA%25B0%2580-%25EC%2593%25B4-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%2580-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=%EC%9E%91%ED%92%88+%EB%8C%93%EA%B8%80%EC%9D%B4+OFF%EB%A1%9C+%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4+%EC%9E%88%EC%9D%84+%EA%B2%BD%EC%9A%B0%2C+%EB%82%B4%EA%B0%80+%EC%93%B4+%EB%8C%93%EA%B8%80%EC%9D%80+%EC%96%B4%EB%96%BB%EA%B2%8C+%EB%90%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F4661542171289-%25EC%259E%2591%25ED%2592%2588-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%25B4-OFF%25EB%25A1%259C-%25EC%2584%25A4%25EC%25A0%2595%25EB%2590%2598%25EC%2596%25B4-%25EC%259E%2588%25EC%259D%2584-%25EA%25B2%25BD%25EC%259A%25B0-%25EB%2582%25B4%25EA%25B0%2580-%25EC%2593%25B4-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%2580-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%EC%9E%91%ED%92%88+%EB%8C%93%EA%B8%80%EC%9D%B4+OFF%EB%A1%9C+%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4+%EC%9E%88%EC%9D%84+%EA%B2%BD%EC%9A%B0%2C+%EB%82%B4%EA%B0%80+%EC%93%B4+%EB%8C%93%EA%B8%80%EC%9D%80+%EC%96%B4%EB%96%BB%EA%B2%8C+%EB%90%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F4661542171289-%25EC%259E%2591%25ED%2592%2588-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%25B4-OFF%25EB%25A1%259C-%25EC%2584%25A4%25EC%25A0%2595%25EB%2590%2598%25EC%2596%25B4-%25EC%259E%2588%25EC%259D%2584-%25EA%25B2%25BD%25EC%259A%25B0-%25EB%2582%25B4%25EA%25B0%2580-%25EC%2593%25B4-%25EB%258C%2593%25EA%25B8%2580%25EC%259D%2580-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="4661542171289" data-upvote-count="2" data-vote-count="3" data-vote-sum="1" data-vote-url="/hc/ko/articles/4661542171289/vote" data-value="null" data-label="3명 중 2명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="4661542171289" data-upvote-count="2" data-vote-count="3" data-vote-sum="1" data-vote-url="/hc/ko/articles/4661542171289/vote" data-value="null" data-label="3명 중 2명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="4661542171289" data-upvote-count="2" data-vote-count="3" data-vote-sum="1" data-vote-url="/hc/ko/articles/4661542171289/vote" data-value="null" data-label="3명 중 2명이 도움이 되었다고 했습니다.">3명 중 2명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCBnXGXEFBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmykFk9BDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB9C9oYy9rby9hcnRpY2xlcy80NDIxNDE4ODY2NDU3LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5NyU5MC0lRUIlOEMlODAlRUQlOTUlOUMtJUVCJThDJTkzJUVBJUI4JTgwJUVDJTlEJUI0JUVCJTgyJTk4LSVFQyU4QSVBNCVFRCU4MyVBQyVFRCU5NCU4NCVFQiVBNSVCQy0lRUIlQjAlOUIlRUMlQTclODAtJUVDJTk1JThBJUVCJThGJTg0JUVCJUExJTlELSVFQyU4NCVBNCVFQyVBMCU5NSVFRCU5NSU5OCVFQiVBMCVBNCVFQiVBOSVCNC0GOwhUOglyYW5raQY%3D--9e241021670eb79ee53f4b826f27b4da10465954" rel="nofollow">작품에 대한 댓글이나 스탬프를 받지 않도록 설정하려면?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE9L4KDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmykFk9BDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBty9oYy9rby9hcnRpY2xlcy8yMzU1ODUyNjgtJUVDJTlFJTkxJUVEJTkyJTg4JUVDJTk3JTkwLSVFQiU4QyU5MyVFQSVCOCU4MCVFQyU5RCVCNCVFQiU4MiU5OC0lRUMlOEElQTQlRUQlODMlQUMlRUQlOTQlODQlRUIlQTUlQkMtJUVCJTgyJUE4JUVBJUI4JUIwJUVBJUIzJUEwLSVFQyU4QiVCNiVFQyU5NiVCNCVFQyU5QSU5NAY7CFQ6CXJhbmtpBw%3D%3D--0c22cb5abb04fe6a61a4214c8d08aa9d8aadfb1d" rel="nofollow">작품에 댓글이나 스탬프를 남기고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGPnd4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmykFk9BDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBlS9oYy9rby9hcnRpY2xlcy85MDAwMDQ4MzMxMjMtJUVDJTlCJThDJUVDJUI5JTk4JUVCJUE2JUFDJUVDJThBJUE0JUVEJThBJUI4JUVCJTlFJTgwLSVFQyU5NiVCNCVFQiU5NiVBNC0lRUElQjglQjAlRUIlOEElQTUlRUMlOUQlQjglRUElQjAlODAlRUMlOUElOTQtBjsIVDoJcmFua2kI--e65740083c767ab512e690cc3936a6d0bc8d91f1" rel="nofollow">워치리스트란 어떤 기능인가요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJkwiSACBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmykFk9BDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBhC9oYy9rby9hcnRpY2xlcy80NDA3MTgyMzA3NDgxLSVFRCU5NCVCQyVFQiU5MyU5Qy0lRUElQjglQjAlRUIlOEElQTUlRUMlOUQlQjQlRUIlOUUlODAtJUVCJUFDJUI0JUVDJTk3JTg3JUVDJTlEJUI4JUVBJUIwJTgwJUVDJTlBJTk0LQY7CFQ6CXJhbmtpCQ%3D%3D--b61db100a4cdd05d606597cb58e733f33e1db9b2" rel="nofollow">피드 기능이란 무엇인가요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJl7ciACBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmykFk9BDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBly9oYy9rby9hcnRpY2xlcy80NDA3MTgwODE5MzUzLSVFQyU5NyVCNCVFQiU5RSU4Qy0lRUMlQTMlQkMlRUMlOUQlOTgtJUVBJUI4JUIwJUVCJThBJUE1JUVDJTlEJUI0JUVCJTlFJTgwLSVFQiVBQyVCNCVFQyU5NyU4NyVFQyU5RCVCOCVFQSVCMCU4MCVFQyU5QSU5NC0GOwhUOglyYW5raQo%3D--7f6a3e177ae9b0bfe57ef862e670a12698b386af" rel="nofollow">열람 주의 기능이란 무엇인가요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:h08CBYa8U5GylUCbe8eRNYVYwb0jCXf6ArNyomBXjyMeIPUXIYJAkb5oXWxiRCj5yla35nNVQCrE6AdXn7ysFg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGwrCJmykFk9BDoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--464ac5b34d3b46315e4e21f61255986786f86f7a","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"4661542171289","current_record_url":"/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-","current_record_title":"작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e7c6cc9d26a96',m:'_juxUNN_d1yAOuhAPMQSigx1O_jPfuLVy1Xknfbhgq8-1660027077-0-AfgWpaft5jtw1Tnaa+dv6GYpeCWnd89cNZcSRCxtzyyetmxTLtrry+0eo1LNhv668DTw7DZ5aBPfs+JKco9qamCs5LXwmzRGiNWwB8ZTYrB4JivxIQzi3vG9aFoM9SEkt8rCN8upwo6dNFVUZMEoHGiEB2vng28WHgkvepMG+qS++6P7R8deBBqbywYHz3op9uleU8IbnsT9xfwxe+R5P/HCSvQuzVevnQPPyLdaYJJ+YyThBPToGY4eDrOJ6M5vSv0DxxfDa3rDNDYEyiHVr5EW7wciMy28rNeYlqQiC9fWFpUShNuVNBqUSs1+Oa0E5wIy9px6eb1eA4n198HFIrlWG6n83F13tqZmiphq6bRMqBorLqsdEXKHhghMRVboAm7s98Pk6AtEhKOzLfuFXA2+id/h5aUTsEA8EcqwmssCnak61kugbBu+l4I4GG+VR3UwAzSkjdbSosjwoFXjTiI4+FtlaQQgNYqEupDL/KqJ',s:[0xf7314d0f34,0x2ff4f494cd],}})();</script></body>
+</html>

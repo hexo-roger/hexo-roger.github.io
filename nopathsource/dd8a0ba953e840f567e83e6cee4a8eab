@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>想删除已同步至Tumeng的作品或共享信息 &ndash; pixiv 帮助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:gwM6L1nac1PqRS151G0rF6R8kuof-YIJcghzWHLRVXQDBuUJzfWX0zP8J4BPYtt_eBUxTl8hbQ5zTFZQ-YIGDw" />
+
+  <meta name="description" content="若想删除已同步至Tumeng的作品或共享信息，可由下列方法对各作品进行单独设置。  从Tumeng同步管理页面选择「解除同步」 从Tumeng同步管理页面选择「删除信息」 从pixiv上删除该作品 ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 帮助" />
+<meta property="og:title" content="想删除已同步至Tumeng的作品或共享信息" />
+<meta property="og:description" content="若想删除已同步至Tumeng的作品或共享信息，可由下列方法对各作品进行单独设置。
+
+从Tumeng同步管理页面选择「解除同步」
+从Tumeng同步管理页面选择「删除信息」
+从pixiv上删除该作品
+
+或是依照以下方法删除所有已同步至Tumeng的所有作品、共享信息，以及用于同步的Tumeng账号。
+
+解除与Tumeng的绑定
+注销pixiv账号
+
+请注意，一旦使用以上方法删除信息，即使再次同..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/zh-cn/articles/900002710506" />
+<link rel="canonical" href="https://www.pixiv.help/hc/zh-cn/articles/900002710506-%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/900002710506-I-want-to-delete-information-shared-with-Tumeng-a-posted-work-etc-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/900002710506-%E6%8E%B2%E8%BC%89%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%9F%E4%BD%9C%E5%93%81%E3%82%84Tumeng-%E3%83%88%E3%82%A5%E3%83%A2%E3%83%B3-%E3%81%AB%E5%85%B1%E6%9C%89%E3%81%95%E3%82%8C%E3%81%9F%E6%83%85%E5%A0%B1%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%81%84" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/900002710506-%EA%B2%8C%EC%9E%AC-%EC%84%A4%EC%A0%95%ED%95%9C-%EC%9E%91%ED%92%88%EC%9D%B4%EB%82%98-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%90-%EA%B3%B5%EC%9C%A0%ED%95%9C-%EC%A0%95%EB%B3%B4%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/900002710506-%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/900002710506-%E6%83%B3%E5%88%AA%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E7%94%A8%E8%B3%87%E8%A8%8A" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主页" href="/hc/zh-cn">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="徽标">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">帮助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">简体中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F900002710506-I-want-to-delete-information-shared-with-Tumeng-a-posted-work-etc-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F900002710506-%25E6%258E%25B2%25E8%25BC%2589%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%2597%25E3%2581%259F%25E4%25BD%259C%25E5%2593%2581%25E3%2582%2584Tumeng-%25E3%2583%2588%25E3%2582%25A5%25E3%2583%25A2%25E3%2583%25B3-%25E3%2581%25AB%25E5%2585%25B1%25E6%259C%2589%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592%25E5%2589%258A%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F900002710506-%25EA%25B2%258C%25EC%259E%25AC-%25EC%2584%25A4%25EC%25A0%2595%25ED%2595%259C-%25EC%259E%2591%25ED%2592%2588%25EC%259D%25B4%25EB%2582%2598-Tumeng-%25ED%2588%25AC%25EB%25A9%258D-%25EC%2597%2590-%25EA%25B3%25B5%25EC%259C%25A0%25ED%2595%259C-%25EC%25A0%2595%25EB%25B3%25B4%25EB%25A5%25BC-%25EC%2582%25AD%25EC%25A0%259C%25ED%2595%2598%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F900002710506-%25E6%2583%25B3%25E5%2588%25AA%25E9%2599%25A4%25E5%25B7%25B2%25E5%2590%258C%25E6%25AD%25A5%25E8%2587%25B3Tumeng%25E7%259A%2584%25E4%25BD%259C%25E5%2593%2581%25E6%2588%2596%25E5%2585%25B1%25E7%2594%25A8%25E8%25B3%2587%25E8%25A8%258A" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 帮助">
+      
+        <a href="/hc/zh-cn">pixiv 帮助</a>
+      
+    </li>
+  
+    <li title="关于跨平台发布功能">
+      
+        <a href="/hc/zh-cn/categories/900000194306-%E5%85%B3%E4%BA%8E%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%B8%83%E5%8A%9F%E8%83%BD">关于跨平台发布功能</a>
+      
+    </li>
+  
+    <li title="关于绑定Tumeng">
+      
+        <a href="/hc/zh-cn/sections/900000441143-%E5%85%B3%E4%BA%8E%E7%BB%91%E5%AE%9ATumeng">关于绑定Tumeng</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000194306" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002647383-%E5%85%B3%E4%BA%8ETumeng" class="sidenav-item ">关于Tumeng</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/8862096131353-%E5%9C%A8-%E7%BB%91%E5%AE%9ATumeng-%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9D%9F%E5%90%8E-%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E4%BC%9A%E5%88%A0%E9%99%A4-%E8%80%8C%E5%93%AA%E4%BA%9B%E4%BC%9A%E4%BF%9D%E7%95%99-" class="sidenav-item ">在「绑定Tumeng」功能结束后，哪些信息会删除，而哪些会保留？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002647403-%E7%BB%91%E5%AE%9ATumeng%E5%90%8E%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E4%B9%88%E5%91%A2-" class="sidenav-item ">绑定Tumeng后可以做什么呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002647503-%E8%AF%A5%E5%A6%82%E4%BD%95%E6%8A%8A%E4%BD%9C%E5%93%81%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E5%91%A2-" class="sidenav-item ">该如何把作品同步至Tumeng呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002710566-%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%9C%E5%93%81%E5%8F%AF%E4%BB%A5%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E5%91%A2-" class="sidenav-item ">什么样的作品可以同步至Tumeng呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002710626-Tumeng%E6%98%AF%E4%BB%A5%E4%BB%80%E4%B9%88%E5%9F%BA%E5%87%86%E8%BF%9B%E8%A1%8C%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E4%B8%8E%E4%BD%9C%E5%93%81%E7%9A%84%E5%AE%A1%E6%9F%A5%E5%91%A2-" class="sidenav-item ">Tumeng是以什么基准进行个人资料与作品的审查呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002710866-%E8%A6%81%E5%A6%82%E4%BD%95%E7%A1%AE%E8%AE%A4%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E7%8A%B6%E6%80%81%E5%91%A2-" class="sidenav-item ">要如何确认同步至Tumeng的作品状态呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002710826-%E5%B7%B2%E7%BB%8F%E5%90%8C%E6%AD%A5%E8%87%B3Tuemng%E7%9A%84%E8%B4%A6%E5%8F%B7%E6%88%96%E4%BD%9C%E5%93%81%E4%BC%9A%E5%86%8D%E8%BF%9B%E5%85%A5%E5%AE%A1%E6%9F%A5%E6%88%96%E8%A2%AB%E8%A7%A3%E9%99%A4%E5%90%8C%E6%AD%A5%E5%90%97-" class="sidenav-item ">已经同步至Tuemng的账号或作品会再进入审查或被解除同步吗？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002710766-%E8%A6%81%E5%A6%82%E4%BD%95%E7%A1%AE%E8%AE%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E5%91%A2-" class="sidenav-item ">要如何确认已同步至Tumeng的作品呢？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002647603-%E7%BB%91%E5%AE%9ATumeng%E5%90%8E-%E4%BC%9A%E5%9C%A8Tumeng%E6%98%BE%E7%A4%BA%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%91%A2-" class="sidenav-item ">绑定Tumeng后，会在Tumeng显示哪些信息呢？</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/zh-cn/sections/900000441143-%E5%85%B3%E4%BA%8E%E7%BB%91%E5%AE%9ATumeng" class="article-sidebar-item">查看更多</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="想删除已同步至Tumeng的作品或共享信息" class="article-title">
+          想删除已同步至Tumeng的作品或共享信息
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>若想删除已同步至Tumeng的作品或共享信息，可由下列方法对各作品进行单独设置。</p>
+<ul>
+<li>从Tumeng同步管理页面选择「解除同步」</li>
+<li>从Tumeng同步管理页面选择「删除信息」</li>
+<li>从pixiv上删除该作品</li>
+</ul>
+<p>或是依照以下方法删除所有已同步至Tumeng的所有作品、共享信息，以及用于同步的Tumeng账号。</p>
+<ul>
+<li>解除与Tumeng的绑定</li>
+<li>注销pixiv账号</li>
+</ul>
+<p><span class="wysiwyg-underline"><strong>请注意，一旦使用以上方法删除信息，即使再次同步或绑定，过往的相关数据也无法继承。</strong></span></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002710506-%25E6%2583%25B3%25E5%2588%25A0%25E9%2599%25A4%25E5%25B7%25B2%25E5%2590%258C%25E6%25AD%25A5%25E8%2587%25B3Tumeng%25E7%259A%2584%25E4%25BD%259C%25E5%2593%2581%25E6%2588%2596%25E5%2585%25B1%25E4%25BA%25AB%25E4%25BF%25A1%25E6%2581%25AF" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002710506-%25E6%2583%25B3%25E5%2588%25A0%25E9%2599%25A4%25E5%25B7%25B2%25E5%2590%258C%25E6%25AD%25A5%25E8%2587%25B3Tumeng%25E7%259A%2584%25E4%25BD%259C%25E5%2593%2581%25E6%2588%2596%25E5%2585%25B1%25E4%25BA%25AB%25E4%25BF%25A1%25E6%2581%25AF" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002710506-%25E6%2583%25B3%25E5%2588%25A0%25E9%2599%25A4%25E5%25B7%25B2%25E5%2590%258C%25E6%25AD%25A5%25E8%2587%25B3Tumeng%25E7%259A%2584%25E4%25BD%259C%25E5%2593%2581%25E6%2588%2596%25E5%2585%25B1%25E4%25BA%25AB%25E4%25BF%25A1%25E6%2581%25AF" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="900002710506" data-upvote-count="3" data-vote-count="9" data-vote-sum="-3" data-vote-url="/hc/zh-cn/articles/900002710506/vote" data-value="null" data-label="9 人中有 3 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="是" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="900002710506" data-upvote-count="3" data-vote-count="9" data-vote-sum="-3" data-vote-url="/hc/zh-cn/articles/900002710506/vote" data-value="null" data-label="9 人中有 3 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="否" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="900002710506" data-upvote-count="3" data-vote-count="9" data-vote-sum="-3" data-vote-url="/hc/zh-cn/articles/900002710506/vote" data-value="null" data-label="9 人中有 3 人觉得有帮助">9 人中有 3 人觉得有帮助</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCC%2BNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOqDV4zRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSICTgEvaGMvemgtY24vYXJ0aWNsZXMvOTAwMDAyNjQ3MzQzLSVFNiU4MyVCMyVFOCVBNiU4MSVFNSU4OCVBMCVFOSU5OSVBNCVFNyU5NCVBOCVFNCVCQSU4RSVFNSU5MCU4QyVFNiVBRCVBNSVFNyU5QSU4NFR1bWVuZyVFOCVCNCVBNiVFNSU4RiVCNy0lRTglQTclQTMlRTklOTklQTQlRTYlODklODAlRTYlOUMlODklRTQlQkQlOUMlRTUlOTMlODElRTclOUElODQlRTUlOTAlOEMlRTYlQUQlQTUtJUU2JTg4JTk2JUU2JTk4JUFGJUU1JTg4JUEwJUU5JTk5JUE0JUU1JTkwJThDJUU2JUFEJUE1JUU4JTg3JUIzVHVtZW5nJUU3JTlBJTg0JUU2JTg5JTgwJUU2JTlDJTg5JUU0JUJGJUExJUU2JTgxJUFGBjsIVDoJcmFua2kG--6806e36367d7b4eb92020e2cde47bc67180c52b0" rel="nofollow">想要删除用于同步的Tumeng账号、解除所有作品的同步，或是删除同步至Tumeng的所有信息</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEF%2BgNDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOqDV4zRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJVL2hjL3poLWNuL2FydGljbGVzLzIzNTc5MjQwNy0tJUU2JTgzJUIzJUU2JUIzJUE4JUU5JTk0JTgwcGl4aXYlRTglQjQlQTYlRTUlOEYlQjcGOwhUOglyYW5raQc%3D--3976779afd495c974760b0bf85195e1b5853cd38" rel="nofollow"> 想注销pixiv账号</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEQLkKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOqDV4zRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBpy9oYy96aC1jbi9hcnRpY2xlcy8yMzU1ODM4MDgtJUU1JUE2JTgyJUU2JTlFJTlDJUU2JUIzJUE4JUU5JTk0JTgwcGl4aXYlRTglQjQlQTYlRTYlODglQjctcGl4aXYlRTklQUIlOTglRTclQkElQTclRTQlQkMlOUElRTUlOTElOTglRTQlQkMlOUElRTYlODAlOEUlRTQlQjklODglRTYlQTAlQjctBjsIVDoJcmFua2kI--72940cc011762101a53039d360396f1ca65a1c46" rel="nofollow">如果注销pixiv账户，pixiv高级会员会怎么样？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFeNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOqDV4zRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSI9L2hjL3poLWNuL2FydGljbGVzLzkwMDAwMjY0NzM4My0lRTUlODUlQjMlRTQlQkElOEVUdW1lbmcGOwhUOglyYW5raQk%3D--8c3aff5469226794d741211e8fd326bf527c34f3" rel="nofollow">关于Tumeng</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCH%2BNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOqDV4zRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoy9oYy96aC1jbi9hcnRpY2xlcy85MDAwMDI2NDc0MjMtJUU3JUJCJTkxJUU1JUFFJTlBVHVtZW5nJUU1JTkwJThFLSVFNiU5QyU4OSVFNSU5MyVBQSVFNCVCQSU5QiVFNCVCRiVBMSVFNiU4MSVBRiVFNCVCQyU5QSVFNCVCOCU4RVR1bWVuZyVFNSU4NSVCMSVFNCVCQSVBQiVFNSU5MSVBMi0GOwhUOglyYW5raQo%3D--5d866c90d67522ef6bf7f3aeb14d0215e665fb57" rel="nofollow">绑定Tumeng后，有哪些信息会与Tumeng共享呢？</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>如果仍无法解决，请您联系我们。</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">帮助中心</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服务</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫画</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小说</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全书</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高级会员</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>关于使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">使用条款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">本站方针</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">隐私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">刊登广告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">联系我们</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">运营公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.19d44ffc81c4de10f643.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-cn/articles/900002710506-%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF" data-theme="hc" data-locale="zh-cn" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:nKmQsW_AExZf8_anVZoYJBb867SNB7G2mh10KsHEIpscrE-X--_3loZK_F7OlehMypVIEM3fXrGbWVEiSpdx4A","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCOqDV4zRADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKemgtY24GOwZU--7f8639c4bc5f1dcf556fe4c1030c5938d5c24c5a","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"900002710506","current_record_url":"/hc/zh-cn/articles/900002710506-%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF","current_record_title":"想删除已同步至Tumeng的作品或共享信息","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/zh-cn/articles/900002710506-%E6%83%B3%E5%88%A0%E9%99%A4%E5%B7%B2%E5%90%8C%E6%AD%A5%E8%87%B3Tumeng%E7%9A%84%E4%BD%9C%E5%93%81%E6%88%96%E5%85%B1%E4%BA%AB%E4%BF%A1%E6%81%AF","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-cn","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737f08fb7ac92428',m:'G6ct.z906hxFnWSjYvvn4PCk4HZkVr0wYb7qyPf3.qI-1660032833-0-ARbXdyJb2bZyvE1pBW9WizpMfUyK1ciNchshOA4IZtS5poNa0eErYFNYl2wnrtBtLG/I9iJX3VWBWFJZC2kQxW/xTaOLfAxydD9Ci7M6eqTuKLOe2V60eYiUD2+0ooIiUB8ZUSFt2D+gqMlW6zaRZKPH98jQD7Yv7mGQFVxDS5ODCVKwGuZvZWEkFKcLGH79V9OzqrcWJvgjNLEpJuoifScndQ5Cj5vxRjQXWTR2Lc34/dEWOmOgs154CPVp2o8a5CcNV8zfxkhRO3BmJ0cqsiY0+vRtPoaBIUL38w2hSK4Mx3qo9gMnT/CCnKaejiJM7zS8t1y989SrgTrobNoR1jQ=',s:[0x509197c714,0x577f0af7ed],}})();</script></body>
+</html>

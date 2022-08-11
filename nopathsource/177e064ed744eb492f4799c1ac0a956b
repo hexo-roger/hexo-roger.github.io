@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>pixiv에 투고한 소설을 pixivFACTORY에 제출하려면 어떻게 하나요? &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:bn223H9BE4CrIjU9KRfXNirAPmpVuSUOmu7fPjG1ScAnVOHw2slxydR7ox6EazhBNMWHiv4xxEER-SG0LWV6ow" />
+
+  <meta name="description" content="pixiv에 투고한 소설로 제출용 원고 데이터를 작성하여, pixivFACTORY로 책을 만들 수 있습니다.아래의 주의사항을 확인한 다음, 순서에 따라 제출해 주세요.   주의사항  삽화의 삽입은 지원하지 않습니다. 특수 태그를 사용한 소설..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="pixiv에 투고한 소설을 pixivFACTORY에 제출하려면 어떻게 하나요?" />
+<meta property="og:description" content="pixiv에 투고한 소설로 제출용 원고 데이터를 작성하여, pixivFACTORY로 책을 만들 수 있습니다.아래의 주의사항을 확인한 다음, 순서에 따라 제출해 주세요.
+ 
+주의사항
+
+삽화의 삽입은 지원하지 않습니다.
+특수 태그를 사용한 소설 본문의 링크, 외부 페이지로의 링크, 설정자료의 링크는 지원하지 않습니다.
+시리즈 작품을 한데 모아 제출하는 기..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/5148178358937" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/5148178358937-pixiv%EC%97%90-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%84-pixivFACTORY%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/5148178358937-How-do-I-print-a-novel-I-ve-posted-to-pixiv-through-pixivFACTORY-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/5148178358937-pixiv%E3%81%AB%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%9F%E5%B0%8F%E8%AA%AC%E3%82%92pixivFACTORY%E3%81%AB%E5%85%A5%E7%A8%BF%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/5148178358937-pixiv%EC%97%90-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%84-pixivFACTORY%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/5148178358937-%E6%8A%95%E7%A8%BF%E5%88%B0pixiv%E7%9A%84%E5%B0%8F%E8%AF%B4%E8%A6%81%E6%80%8E%E4%B9%88%E4%BA%A4%E7%A8%BF%E8%87%B3pixivFACTORY-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/5148178358937-%E6%8A%95%E7%A8%BF%E5%88%B0pixiv%E7%9A%84%E5%B0%8F%E8%AA%AA%E8%A6%81%E6%80%8E%E9%BA%BC%E4%BA%A4%E7%A8%BF%E8%87%B3pixivFACTORY%E5%91%A2-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F5148178358937-How-do-I-print-a-novel-I-ve-posted-to-pixiv-through-pixivFACTORY-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F5148178358937-pixiv%25E3%2581%25AB%25E6%258A%2595%25E7%25A8%25BF%25E3%2581%2597%25E3%2581%259F%25E5%25B0%258F%25E8%25AA%25AC%25E3%2582%2592pixivFACTORY%25E3%2581%25AB%25E5%2585%25A5%25E7%25A8%25BF%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AB%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2581%2584%25E3%2581%2584%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258B-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F5148178358937-%25E6%258A%2595%25E7%25A8%25BF%25E5%2588%25B0pixiv%25E7%259A%2584%25E5%25B0%258F%25E8%25AF%25B4%25E8%25A6%2581%25E6%2580%258E%25E4%25B9%2588%25E4%25BA%25A4%25E7%25A8%25BF%25E8%2587%25B3pixivFACTORY-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F5148178358937-%25E6%258A%2595%25E7%25A8%25BF%25E5%2588%25B0pixiv%25E7%259A%2584%25E5%25B0%258F%25E8%25AA%25AA%25E8%25A6%2581%25E6%2580%258E%25E9%25BA%25BC%25E4%25BA%25A4%25E7%25A8%25BF%25E8%2587%25B3pixivFACTORY%25E5%2591%25A2-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="작품 투고/관리에 대하여">
+      
+        <a href="/hc/ko/categories/360001064114-%EC%9E%91%ED%92%88-%ED%88%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">작품 투고/관리에 대하여</a>
+      
+    </li>
+  
+    <li title="소설의 투고">
+      
+        <a href="/hc/ko/sections/360002539174-%EC%86%8C%EC%84%A4%EC%9D%98-%ED%88%AC%EA%B3%A0">소설의 투고</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064114" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/4409248974361-%EC%86%8C%EC%84%A4-%EB%B3%B8%EB%AC%B8%EC%9D%98-%EA%B8%B0%EB%B3%B8-%ED%98%95%EC%8B%9D%EC%9D%84-%EC%84%B8%EB%A1%9C%EC%93%B0%EA%B8%B0%EB%A1%9C-%ED%95%98%EB%A0%A4%EB%A9%B4-" class="sidenav-item ">소설 본문의 기본 형식을 세로쓰기로 하려면?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900006162003-%EC%B4%88%EC%95%88%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" class="sidenav-item ">초안에 대하여</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900004887143-%EC%82%BD%ED%99%94-%EC%97%85%EB%A1%9C%EB%93%9C-%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">삽화 업로드 기능이란 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900004333863-%EC%86%8C%EC%84%A4%EC%97%90%EC%84%9C-%EC%9E%91%ED%92%88-%EC%96%B8%EC%96%B4%EB%A5%BC-%EC%84%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설에서 작품 언어를 설정하고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235584228-pixiv%EC%97%90-%EC%86%8C%EC%84%A4%EC%9D%84-%ED%88%AC%EA%B3%A0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">pixiv에 소설을 투고하는 방법을 알고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900001935566-%EC%86%8C%EC%84%A4-%ED%91%9C%EC%A7%80%EC%97%90-%ED%83%80%EC%9D%B4%ED%8B%80%EC%9D%84-%EB%84%A3%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설 표지에 타이틀을 넣고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235584208-%EC%A7%81%EC%A0%91-%EA%B7%B8%EB%A6%B0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%86%8C%EC%84%A4-%ED%91%9C%EC%A7%80%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">직접 그린 일러스트를 소설 표지로 사용할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900001937706-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%98-%ED%91%9C%EC%A7%80%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">투고한 소설의 표지를 변경할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235584648-%EC%86%8C%EC%84%A4%EC%9D%98-%ED%8E%98%EC%9D%B4%EC%A7%80%EB%A5%BC-%EB%82%98%EB%88%84%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설의 페이지를 나누고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235647867-%EC%86%8C%EC%84%A4%EC%97%90-%EB%85%B8%EB%9E%98-%EA%B0%80%EC%82%AC%EB%A5%BC-%EC%9D%B8%EC%9A%A9%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설에 노래 가사를 인용하고 싶어요</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/ko/sections/360002539174-%EC%86%8C%EC%84%A4%EC%9D%98-%ED%88%AC%EA%B3%A0" class="article-sidebar-item">더보기</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="pixiv에 투고한 소설을 pixivFACTORY에 제출하려면 어떻게 하나요?" class="article-title">
+          pixiv에 투고한 소설을 pixivFACTORY에 제출하려면 어떻게 하나요?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>pixiv에 투고한 소설로 제출용 원고 데이터를 작성하여, pixivFACTORY로 책을 만들 수 있습니다.<br>아래의 주의사항을 확인한 다음, 순서에 따라 제출해 주세요.</p>
+<p>&nbsp;</p>
+<h3>주의사항</h3>
+<ul>
+<li>삽화의 삽입은 지원하지 않습니다.</li>
+<li>특수 태그를 사용한 소설 본문의 링크, 외부 페이지로의 링크, 설정자료의 링크는 지원하지 않습니다.</li>
+<li>시리즈 작품을 한데 모아 제출하는 기능은 현재 지원하지 않습니다.</li>
+<li>서체 및 글자 크기의 변경은 지원하지 않습니다.</li>
+<li>이모티콘이나 특수기호와 같은 기종별 특수문자는 올바르게 출력되지 않을 수 있습니다.</li>
+<li>일본어 이외의 언어로 작성된 데이터의 제출도 가능하나, pixivFACTORY 원고 제출 시점에서의 조작 안내 등은 일본어로만 진행됩니다.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>순서</h3>
+<p>▶<a href="#h_01FZAZZ1BTPXC63W8WNNFT5J33" target="_self">모바일 버전</a><br>▶<a href="#h_01FZB1E2G1NYN6WT9W3J7QYZCW" target="_self">PC 버전</a><br>▶<a href="#h_01FZB1EB5KTSZEYQT00HP4G9QX" target="_self">앱 버전</a></p>
+<p>&nbsp;</p>
+<h3 id="h_01FZAZZ1BTPXC63W8WNNFT5J33">모바일 버전</h3>
+<ol>
+<li>pixivFACTORY에 제출하려는 소설을 띄운 다음, ‘FACTORY로 만들기’를 탭합니다.<br><a href="/hc/article_attachments/5801037895065/____image9.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801037895065/____image9.png" alt="____image9.png" width="508" height="510"></a></li>
+<li>미리보기가 표시됩니다. 책 제목을 편집하거나 빈 행을 조정하려면 ‘사양 변경하기’를 탭합니다. 사양 변경하기에 대한 자세한 내용은 <a href="https://www.pixiv.help/hc/articles/5148345356953" target="_blank" rel="noopener noreferrer">이쪽</a>을 참조하세요. 표지는 자동으로 생성되며 사양 변경을 통한 변경이 불가능합니다. <strong>표지를 직접 설정하시려면 pixivFACTORY의 제출 화면을 통하여 설정하실 수 있습니다(8번 순서 참조).<br><a href="/hc/article_attachments/5801050729369/____image2.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801050729369/____image2.png" alt="____image2.png"></a><br></strong>[미리보기 주의사항]<br>
+<ul>
+<li>미리보기에 표시되는 본문은 펼쳐놓은 1페이지분에 한합니다. 다른 페이지는 다운로드하여 확인할 수 있습니다.</li>
+<li>본문은 표지를 포함하여 최대 200페이지까지 지원합니다(표지는 4페이지분으로 취급합니다). 200페이지를 초과한 경우 미리보기 아래쪽에 ‘최대 200페이지까지 지원합니다’라는 주의문구가 표시되며 ‘원고 제출하기’를 탭하실 수 없습니다.</li>
+<li>본문의 속표지, 목차, 판권 페이지에는 각각 오른쪽 위에 옅은 회색으로 페이지 번호가 들어가 있으나, 이는 인쇄시 반영되지 않습니다.</li>
+<li>표지용 원고와 본문의 속표지에는 각각 오른쪽 아래에 옅은 회색으로 생성정보가 들어가 있으나, 이는 인쇄시 반영되지 않습니다.</li>
+</ul>
+</li>
+<li>미리보기를 확인하여 ‘원고 제출하기’를 탭합니다.</li>
+<li>‘책 정보(판권 페이지) 확인’의 화면이 표시됩니다. 입력된 내용에 오류가 없는지 확인한 뒤 ‘다음’을 탭합니다.<br>※판권 페이지는 책의 저자명과 발행자, 발행소 등의 정보를 기재하는 마지막 페이지를 말합니다. 본 기능에서는 자동으로 생성됩니다(‘사양 변경하기’로 편집할 수 있습니다).</li>
+<li><strong>‘원고 제출하기’ 화면에서 ‘표지.png’와 ‘본문.pdf’ 데이터를 다운로드합니다.<br></strong>※다운로드가 시작되기까지 시간이 소요될 수 있습니다.<br>▶PDF 데이터를 저장하는 방법<br>※기기 및 OS 버전에 따라 저장 방법이 다를 수 있습니다.<br><strong>iPhone</strong>
+<ol>
+<li>PDF 다운로드시 저장할 장소의 지정이 가능한 경우가 있습니다. 임의의 저장할 곳을 탭하여 다운로드해 주세요. 여기서는 ‘파일로 저장하기’를 선택합니다.<br>저장할 곳을 지정하지 않고 다운로드한 경우, 일반적으로 ‘다운로드’ 폴더에 저장됩니다.<br><a href="/hc/article_attachments/5251910225817/image11.jpg" target="_blank" rel="noopener noreferrer"><img src="/hc/article_attachments/5251910225817/image11.jpg" alt="image11.jpg" width="314" height="534"></a></li>
+<li>‘파일로 저장하기’를 선택하여 임의의 저장할 곳에 데이터를 다운로드합니다.<br><a href="/hc/article_attachments/5251957338393/image3.png" target="_blank" rel="noopener noreferrer"><img src="/hc/article_attachments/5251957338393/image3.png" alt="image3.png" width="440" height="425"></a><br><strong>Android</strong>
+<ol>
+<li>기기 안의 ‘다운로드’ 폴더에 저장됩니다.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>다운로드가 완료되면 ‘pixivFACTORY의 원고 제출 화면 열기’를 탭합니다.<br>※제출 화면의 ‘책 사양’은 pixivFACTORY 원고 제출시 입력해야 하는 정보입니다. 탭을 닫는 경우가 없도록 주의하세요.<br><a href="/hc/article_attachments/5801040929689/____image4.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801040929689/____image4.png" alt="____image4.png" width="469" height="734"></a></li>
+<li>pixivFACTORY 제출 화면의 책 사양에다, 원고를 제출하는 화면의 ‘책 사양’과 동일한 정보를 입력한 다음 ‘원고 제출하기’를 탭하세요.<br>※pixiv의 ‘책 사양’ 페이지를 닫아버리신 경우, PDF의 페이지수+4의 값을 페이지수로 선택해 주세요.<br><a href="/hc/article_attachments/5252121605401/image7.jpg" target="_blank" rel="noopener noreferrer"><img src="/hc/article_attachments/5252121605401/image7.jpg" alt="image7.jpg" width="453" height="517"></a></li>
+<li>‘원고 제출하기’를 탭하면 제출용 원고 데이터의 업로드 화면이 표시됩니다. 5번 순서에서 다운로드한 표지 데이터와 본문 데이터를 각각 업로드합니다.<br>※자동으로 생성된 표지 이외의 것을 사용하는 경우, <a href="https://factory.pixiv.net/books/design_templates/doujinshi" target="_blank" rel="noopener noreferrer">이쪽</a>을 참고하여 사이즈에 맞는 데이터를 업로드하세요.<br>▶데이터 업로드 방법<br>※기기, OS 버전, 다운로드할 곳에 따라 업로드 방법이 다릅니다.<br><strong>iPhone</strong>
+<ol>
+<li>표지 데이터는 ‘표지용 원고’, 본문 데이터는 ‘본문용 원고’에서 업로드할 수 있습니다. 여기서는 ‘파일 선택’ → ‘다운로드’ 폴더 탭 → ‘표지.png’ ‘본문.pdf’를 각각 설정합니다.<br><a href="/hc/article_attachments/5801093277849/____image12.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801093277849/____image12.png" alt="____image12.png" width="488" height="480"></a><br>※iPad나 iPhone으로 클라우드 상에서 데이터 업로드가 불가능한 경우 <a href="https://factory-books.pixiv.help/hc/ja/articles/360006298873-iPad%E3%81%A7-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E4%B8%8A%E3%81%8B%E3%82%89%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93-%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-" target="_blank" rel="noopener noreferrer">이쪽</a>을 참조해 주세요.<br><strong>Android</strong>
+<ol>
+<li>표지용 원고의 드래그&amp;드롭을 탭한 다음, 표지 이미지가 저장될 곳을 선택하여 ‘파일’을 선택합니다.<br><a href="/hc/article_attachments/5800847929113/____________________.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5800847929113/____________________.png" alt="____________________.png" width="448" height="797"></a></li>
+<li>파일을 선택한 다음, 왼쪽 위의 ‘三’에서 ‘다운로드’를 탭합니다.<br><a href="/hc/article_attachments/5801193789593/____image10.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801193789593/____image10.png" alt="____image10.png"></a></li>
+<li>다운로드 폴더의 ‘표지.png’를 탭하여 업로드합니다.</li>
+<li>본문도 동일한 순서대로 ‘본문.pdf’를 업로드합니다.<br><a href="/hc/article_attachments/5802671965465/____image6.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5802671965465/____image6.png" alt="____image6.png" width="520" height="817"></a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>업로드가 끝나면 책의 제목을 입력하고 확인사항에 체크합니다(제목을 입력하지 않으면 미리보기가 생성되지 않습니다).</li>
+<li>‘미리보기’를 탭하여 마무리를 확인합니다. ‘미리보기’를 탭하면 ‘PDF 변환 소프트웨어를 확인하세요’, ‘프레임 디자인을 확인하세요’ 등의 주의문구가 표시됩니다. 각각 ‘확인’, ‘확인하고 진행’을 탭한 다음 미리보기 생성 단계로 진행해 주세요.<br>※페이지수가 많은 경우, 미리보기가 생성되기까지 시간이 소요될 수 있습니다.<br>※판권 페이지 뒤에는 페이지 숫자를 조정하기 위해 빈 페이지가 들어갑니다.<br><a href="/hc/article_attachments/5801208870169/____image8.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801208870169/____image8.png" alt="____image8.png"></a></li>
+<li>각 입력항목과 미리보기에 문제가 없으면 ‘제출하기’를 탭하여 ‘주문하기’, 또는 BOOTH에서 판매하려는 경우 ‘통판하기’로 넘어가 주세요.<br>‘주문하기’나 ‘통판하기’를 선택한 다음, 표지와 본문 용지의 종류를 선택할 수 있습니다. 용지를 고르는 방법에 대해서는 <a href="https://www.pixiv.help/hc/ko/articles/5148623565721" target="_blank" rel="noopener noreferrer">이쪽</a>을 참조하세요.<br>업로드한 책의 정보를 나중에 확인하려면 <a href="https://factory.pixiv.net/books/books" target="_blank" rel="noopener noreferrer">이쪽</a>을 확인하세요.</li>
+</ol>
+<p>&nbsp;</p>
+<h3 id="h_01FZB1E2G1NYN6WT9W3J7QYZCW">PC 버전</h3>
+<ol>
+<li>pixivFACTORY에 제출하려는 소설을 띄운 다음, ‘pixivFACTORY로 만들기’를 클릭합니다.<br><a href="/hc/article_attachments/5801191645081/____image14.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801191645081/____image14.png" alt="____image14.png" width="533" height="288"></a></li>
+<li>미리보기가 표시됩니다. 책 제목을 편집하거나 빈 행을 조정하려면 ‘사양 변경하기’를 클릭합니다. 사양 변경하기에 대한 자세한 내용은 <a href="https://www.pixiv.help/hc/ko/articles/5148345356953" target="_blank" rel="noopener noreferrer">이쪽</a>을 참조하세요. 표지는 자동으로 생성되며 사양 변경을 통한 변경이 불가능합니다. <strong>표지를 직접 설정하시려면 pixivFACTORY의 제출 화면을 통하여 설정하실 수 있습니다(7번 순서 참조).</strong><br><a href="/hc/article_attachments/5801243203737/____image16.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801243203737/____image16.png" alt="____image16.png"></a><br>[미리보기 주의사항]
+<ul>
+<li>미리보기에 표시되는 본문은 펼쳐놓은 1페이지분에 한합니다. 다른 페이지는 다운로드하여 확인할 수 있습니다.</li>
+<li>본문은 표지를 포함하여 최대 200페이지까지 지원합니다(표지는 4페이지분으로 취급합니다). 200페이지를 초과한 경우 미리보기 아래쪽에 ‘최대 200페이지까지 지원합니다’라는 주의문구가 표시되며 ‘원고 제출하기’를 클릭하실 수 없습니다.</li>
+<li>본문의 속표지, 목차, 판권 페이지에는 각각 오른쪽 위에 옅은 회색으로 페이지 번호가 들어가 있으나, 이는 인쇄시 반영되지 않습니다.</li>
+<li>표지용 원고와 본문의 속표지에는 각각 오른쪽 아래에 옅은 회색으로 생성정보가 들어가 있으나, 이는 인쇄시 반영되지 않습니다.</li>
+</ul>
+</li>
+<li>미리보기를 확인하여 ‘원고 제출하기’를 클릭합니다.</li>
+<li>‘책 정보(판권 페이지) 확인’의 화면이 표시됩니다. 입력된 내용에 오류가 없는지 확인한 뒤 ‘다음’을 클릭합니다.<br>※판권 페이지는 책의 저자명과 발행자, 발행소 등의 정보를 기재하는 마지막 페이지를 말합니다. 본 기능에서는 자동으로 생성됩니다(‘사양 변경하기’로 편집할 수 있습니다).</li>
+<li><strong>‘제출하기’ 화면에서 ‘표지.png’와 ‘본문.pdf’ 데이터를 다운로드합니다.</strong><br>다운로드가 완료되면 ‘pixivFACTORY 원고 제출 화면 열기’를 클릭합니다.<br>※다운로드가 시작되기까지 시간이 소요될 수 있습니다.<br>※제출 화면의 ‘책 사양’은 pixivFACTORY 원고 제출시 입력해야 하는 정보입니다. 탭을 닫는 경우가 없도록 주의하세요.<br><a href="/hc/article_attachments/5801239953177/____image4.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801239953177/____image4.png" alt="____image4.png" width="545" height="852"></a></li>
+<li>pixivFACTORY 원고 제출 화면의 책 사양에다, 원고를 제출하는 화면의 ‘책 사양’과 동일한 정보를 입력한 다음 ‘원고 제출하기’를 클릭하세요.<br>※pixiv의 ‘책 사양’ 페이지를 닫아버리신 경우, PDF의 페이지수+4의 값을 페이지수로 선택해 주세요.<br><a href="/hc/article_attachments/5252799935001/image5.png" target="_blank" rel="noopener noreferrer"><img src="/hc/article_attachments/5252799935001/image5.png" alt="image5.png" width="404" height="323"></a></li>
+<li>‘원고 제출하기’를 클릭하면 제출용 원고 데이터의 업로드 화면이 표시됩니다. 5번 순서에서 다운로드한 표지 데이터와 본문 데이터를 각각 업로드합니다.<br>※자동으로 생성된 표지 이외의 것을 사용하는 경우, <a href="https://factory.pixiv.net/books/design_templates/doujinshi" target="_blank" rel="noopener noreferrer">이쪽</a>을 참고하여 사이즈에 맞는 데이터를 업로드하세요.<br><a href="/hc/article_attachments/5252871664153/image13.png" target="_blank" rel="noopener noreferrer"><img src="/hc/article_attachments/5252871664153/image13.png" alt="image13.png" width="385" height="420"></a></li>
+<li>업로드가 끝나면 책의 제목을 입력하고 확인사항에 체크합니다(제목을 입력하지 않으면 미리보기가 생성되지 않습니다).</li>
+<li>‘미리보기’를 클릭하여 마무리를 확인합니다. ‘미리보기’를 탭하면 ‘PDF 변환 소프트웨어를 확인하세요’, ‘프레임 디자인을 확인하세요’ 등의 주의문구가 표시됩니다. 각각 ‘확인’, ‘확인하고 진행하기’를 클릭한 다음 미리보기 생성 단계로 진행해 주세요.<br>※페이지수가 많은 경우, 미리보기가 생성되기까지 시간이 소요될 수 있습니다.<br>※판권 페이지 뒤에는 페이지 숫자를 조정하기 위해 빈 페이지가 들어갑니다.<br><a href="/hc/article_attachments/5801208870169/____image8.png" target="_blank" rel="noopener"><img src="/hc/article_attachments/5801208870169/____image8.png" alt="____image8.png"></a></li>
+<li>각 입력항목과 미리보기에 문제가 없으면 ‘제출하기’를 클릭하여 ‘주문하기’, 또는 BOOTH에서 판매하려는 경우 ‘통판하기’로 넘어가 주세요.<br>‘주문하기’나 ‘통판하기’를 선택한 다음, 표지와 본문 용지의 종류를 선택할 수 있습니다. 용지를 고르는 방법에 대해서는 <a href="https://www.pixiv.help/hc/ko/articles/5148623565721" target="_blank" rel="noopener noreferrer">이쪽</a>을 참조하세요.<br>업로드한 책의 정보를 나중에 확인하려면 <a href="https://factory.pixiv.net/books/books" target="_blank" rel="noopener noreferrer">이쪽</a>을 확인하세요.</li>
+</ol>
+<p>&nbsp;</p>
+<h3 id="h_01FZB1EB5KTSZEYQT00HP4G9QX">앱 버전</h3>
+<p>현재 앱 버전은 pixivFACTORY로의 원고 제출을 지원하지 않습니다.</p>
+<p>&nbsp;</p>
+<h3>관련 도움말</h3>
+<p>▶pixivFACTORY에 대해서는 아래의 도움말을 확인하세요.<br><a href="https://www.pixiv.help/hc/ja/articles/235584688" target="_blank" rel="noopener noreferrer">https://www.pixiv.help/hc/articles/235584688</a></p>
+<p>▶pixiv에 투고한 소설을 pixivFACTORY에 제출할 때, 사양을 변경하는 방법은 아래의 도움말을 확인하세요.<br><a href="https://www.pixiv.help/hc/articles/5148345356953" target="_blank" rel="noopener noreferrer">https://www.pixiv.help/hc/articles/5148345356953</a></p>
+<p>▶pixivFACTORY에 소설 제본을 의뢰할 때 선택가능한 종이의 종류는, 아래의 도움말을 확인하세요.<br><a href="https://www.pixiv.help/hc/articles/5148623565721" target="_blank" rel="noopener noreferrer">https://www.pixiv.help/hc/articles/5148623565721</a></p>
+<p>▶pixivFACTORY로의 제출에 대해서는 아래의 도움말을 확인하세요. (일본어 페이지)<br><a href="https://factory-books.pixiv.help/hc/sections/115000489994" target="_blank" rel="noopener noreferrer">https://factory-books.pixiv.help/hc/sections/115000489994</a></p>
+<p>▶pixivFACTORY에서의 주문·결제에 대해서는 아래의 도움말을 확인하세요. (일본어 페이지)<br><a href="https://factory-books.pixiv.help/hc/ja/sections/115000490014" target="_blank" rel="noopener noreferrer">https://factory-books.pixiv.help/hc/sections/115000490014</a></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=pixiv%EC%97%90+%ED%88%AC%EA%B3%A0%ED%95%9C+%EC%86%8C%EC%84%A4%EC%9D%84+pixivFACTORY%EC%97%90+%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%98%EB%82%98%EC%9A%94%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F5148178358937-pixiv%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2595%259C-%25EC%2586%258C%25EC%2584%25A4%25EC%259D%2584-pixivFACTORY%25EC%2597%2590-%25EC%25A0%259C%25EC%25B6%259C%25ED%2595%2598%25EB%25A0%25A4%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25ED%2595%2598%25EB%2582%2598%25EC%259A%2594-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=pixiv%EC%97%90+%ED%88%AC%EA%B3%A0%ED%95%9C+%EC%86%8C%EC%84%A4%EC%9D%84+pixivFACTORY%EC%97%90+%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F5148178358937-pixiv%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2595%259C-%25EC%2586%258C%25EC%2584%25A4%25EC%259D%2584-pixivFACTORY%25EC%2597%2590-%25EC%25A0%259C%25EC%25B6%259C%25ED%2595%2598%25EB%25A0%25A4%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25ED%2595%2598%25EB%2582%2598%25EC%259A%2594-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=pixiv%EC%97%90+%ED%88%AC%EA%B3%A0%ED%95%9C+%EC%86%8C%EC%84%A4%EC%9D%84+pixivFACTORY%EC%97%90+%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F5148178358937-pixiv%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2595%259C-%25EC%2586%258C%25EC%2584%25A4%25EC%259D%2584-pixivFACTORY%25EC%2597%2590-%25EC%25A0%259C%25EC%25B6%259C%25ED%2595%2598%25EB%25A0%25A4%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25BB%25EA%25B2%258C-%25ED%2595%2598%25EB%2582%2598%25EC%259A%2594-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="5148178358937" data-upvote-count="65" data-vote-count="71" data-vote-sum="59" data-vote-url="/hc/ko/articles/5148178358937/vote" data-value="null" data-label="71명 중 65명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="5148178358937" data-upvote-count="65" data-vote-count="71" data-vote-sum="59" data-vote-url="/hc/ko/articles/5148178358937/vote" data-value="null" data-label="71명 중 65명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="5148178358937" data-upvote-count="65" data-vote-count="71" data-vote-sum="59" data-vote-url="/hc/ko/articles/5148178358937/vote" data-value="null" data-label="71명 중 65명이 도움이 되었다고 했습니다.">71명 중 65명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJnSS7GuBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmiV6euBDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB4i9oYy9rby9hcnRpY2xlcy81MTQ4MzQ1MzU2OTUzLXBpeGl2JUVDJTk3JTkwLSVFRCU4OCVBQyVFQSVCMyVBMCVFRCU5NSU5Qy0lRUMlODYlOEMlRUMlODQlQTQlRUMlOUQlODQtcGl4aXZGQUNUT1JZJUVDJTk3JTkwLSVFQyVBMCU5QyVFQyVCNiU5QyVFRCU5NSVBMC0lRUIlOTUlOEMtJUVDJTgyJUFDJUVDJTk2JTkxLSVFQiVCMyU4MCVFQSVCMiVCRCVFRCU5NSU5OCVFQSVCOCVCMCVFQiU5RSU4MC0GOwhUOglyYW5raQY%3D--7b881000b45e5483d595218a64ddea7727e1d3cc" rel="nofollow">pixiv에 투고한 소설을 pixivFACTORY에 제출할 때, 사양 변경하기란?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJnz4MGuBDoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmiV6euBDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB6C9oYy9rby9hcnRpY2xlcy81MTQ4NjIzNTY1NzIxLXBpeGl2LUZBQ1RPUlklRUIlQTElOUMtJUVDJTg2JThDJUVDJTg0JUE0JUVDJTlEJTg0LSVFQyVBMCU5QyVFQiVCMyVCOCVFRCU5NSVBMC0lRUIlOTUlOEMtJUVDJTg0JUEwJUVEJTgzJTlEJUVEJTk1JUEwLSVFQyU4OCU5OC0lRUMlOUUlODglRUIlOEElOTQtJUVDJUEyJTg1JUVDJTlEJUI0JUVDJTlEJTk4LSVFQyVBMiU4NSVFQiVBNSU5OCVFQiU4QSU5NC0GOwhUOglyYW5raQc%3D--858e82f20bb7696d0481ad282557d7c8300352bf" rel="nofollow">pixiv FACTORY로 소설을 제본할 때 선택할 수 있는 종이의 종류는?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEsLwKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmiV6euBDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBly9oYy9rby9hcnRpY2xlcy8yMzU1ODQ2ODgtcGl4aXZGQUNUT1JZLSVFRCU5NCVCRCVFQyU4QiU5QyVFQiVCOCU4Qy0lRUQlOEMlQTklRUQlODYlQTAlRUIlQTYlQUMtJUVCJThBJTk0LSVFQiVBQyVCNCVFQyU5NyU4NyVFQyU5RCVCOCVFQSVCMCU4MCVFQyU5QSU5NC0GOwhUOglyYW5raQg%3D--4a44cf24bdb8e44b525cf389e600ea6540069e57" rel="nofollow">pixivFACTORY(픽시브 팩토리)는 무엇인가요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEqLoKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmiV6euBDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB1i9oYy9rby9hcnRpY2xlcy8yMzU1ODQxNjgtJUVDJTg2JThDJUVDJTg0JUE0LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5RCU5OC0lRUIlQjMlQjglRUIlQUMlQjgtJUVDJTk1JTg4JUVDJTk3JTkwJUVDJTg0JTlDLSVFQyU4MiVBQyVFQyU5QSVBOS0lRUElQjAlODAlRUIlOEElQTUlRUQlOTUlOUMtJUVEJThBJUI5JUVDJTg4JTk4LSVFRCU4MyU5QyVFQSVCNyVCOCVFQiU5RSU4MC0GOwhUOglyYW5raQk%3D--a9d786767aebba664f8ce2b4511f06a3da52a8ab" rel="nofollow">소설 작품의 본문 안에서 사용 가능한 특수 태그란?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEf6ULDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCJmiV6euBDoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSJ7L2hjL2tvL2FydGljbGVzLzIzNTY0NDI4Ny0lRUIlQTclODglRUMlOUQlQjQlRUQlOTQlQkQlRUMlOUQlQjQlRUIlOUUlODAtJUVCJUFDJUI0JUVDJTk3JTg3JUVDJTlEJUI4JUVBJUIwJTgwJUVDJTlBJTk0LQY7CFQ6CXJhbmtpCg%3D%3D--95e28589e2a666eae25eb995feb8c192ad7462ea" rel="nofollow">마이픽이란 무엇인가요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/5148178358937-pixiv%EC%97%90-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%84-pixivFACTORY%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94-" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:moKOA8ZbTShWj21cbYooSKEOc8PVp0Bs6td-s7zJtqXTq9kvY9MvYSnW-3_A9sc_vwvKI34voSNhwIA5oBmFxg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGwrCJmiV6euBDoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--7bbc5dc4b65d68fdc5b63601c38e38a05a5f56d7","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"5148178358937","current_record_url":"/hc/ko/articles/5148178358937-pixiv%EC%97%90-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%84-pixivFACTORY%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94-","current_record_title":"pixiv에 투고한 소설을 pixivFACTORY에 제출하려면 어떻게 하나요?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/5148178358937-pixiv%EC%97%90-%ED%88%AC%EA%B3%A0%ED%95%9C-%EC%86%8C%EC%84%A4%EC%9D%84-pixivFACTORY%EC%97%90-%EC%A0%9C%EC%B6%9C%ED%95%98%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98%EC%9A%94-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737f0698bc5b6e34',m:'Cv_xVs1v82QRfjGMiwn6y.7l5MZwX6pcAGo5kwMtxjk-1660032736-0-AQX0XCJr12NRwvFfJEAE4jg2GMeOzfKL6B/+7U8XU2KJIM91FKwNHmSfNRpFJeiNNQsrmG1cQnzlqsGrepoWwC3CIdepBYPsI32g+oSE2iU0BDcVPLYo05ogqHhMGoM3IBcpTQE5SotLkM1Zj58IhhLp8H8wrTNzdPxAFvod9yDfZK8DMpOhXdaycrTBUGresJczOrgVw5MvP6ozKabQU6d2Ke5DC+U6IK1y/55pmorB/jdcVjXmseFb3/LLc0JBtWPuvzq4WThQCC0NR2hd/FmJyU67tDe76r8K37DzvrxVOQrINHCkhzXVgY1LZemAfFUrOLCqJZZox9k12fOuss9SHT5gxg2PVvZyi9KovXma9y73lsRn1rASWXZwlxzgXAXrRidJh7lyip73Zha4xsOhdghKBIC4Gvrc0LvuUOKJ',s:[0x513d98a4c5,0xfeca62b5aa],}})();</script></body>
+</html>

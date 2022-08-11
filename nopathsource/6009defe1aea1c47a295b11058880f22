@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>pixiv页面可能会因为某些原因出现以下等问题 &ndash; pixiv 帮助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:_e9G2oNSTTywPPJFOm7R8g3abFSpNBZdAXZolt_LBv2TicIZGBqTtabnvZjGBUhC9R_AQWZ8UWO53VL9pcYUjA" />
+
+  <meta name="description" content="【常见问题示例】  网页排版错位 网页无法正常显示 无法登录 无法投稿作品 网页卡顿  在浏览pixiv的过程中，若出现上述问题，首先请确认以下1〜3项。 1.请确认推荐环境。   详情请参考帮助中心的「pixiv的推荐环境是？」。 2.请确认使用的设备是否存在异常。  ..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 帮助" />
+<meta property="og:title" content="pixiv页面可能会因为某些原因出现以下等问题" />
+<meta property="og:description" content="【常见问题示例】
+
+网页排版错位
+网页无法正常显示
+无法登录
+无法投稿作品
+网页卡顿
+
+在浏览pixiv的过程中，若出现上述问题，首先请确认以下1〜3项。
+1.请确认推荐环境。   详情请参考帮助中心的「pixiv的推荐环境是？」。
+2.请确认使用的设备是否存在异常。   无论使用哪种设备，均请在其信息处理内存充足的情况下，进行以下尝试。
+　  ＜使用电脑浏览pixiv＞
+
+重启浏览器
+重启..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/zh-cn/articles/7026475470105" />
+<link rel="canonical" href="https://www.pixiv.help/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/7026475470105-If-you-encounter-an-issue-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/7026475470105-%E4%B8%8D%E5%85%B7%E5%90%88%E3%81%8B%E3%82%82%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/7026475470105-%EC%98%A4%EB%A5%98%EC%9D%B8-%EA%B2%83-%EA%B0%99%EB%8B%A4%EB%A9%B4-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/7026475470105-pixiv%E9%A0%81%E9%9D%A2%E5%8F%AF%E8%83%BD%E6%9C%83%E5%9B%A0%E7%82%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8F%BE%E4%BB%A5%E4%B8%8B%E7%AD%89%E5%95%8F%E9%A1%8C" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主页" href="/hc/zh-cn">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="徽标">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">帮助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">简体中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F7026475470105-If-you-encounter-an-issue-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F7026475470105-%25E4%25B8%258D%25E5%2585%25B7%25E5%2590%2588%25E3%2581%258B%25E3%2582%2582%25E3%2581%25A8%25E6%2580%259D%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F7026475470105-%25EC%2598%25A4%25EB%25A5%2598%25EC%259D%25B8-%25EA%25B2%2583-%25EA%25B0%2599%25EB%258B%25A4%25EB%25A9%25B4-" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F7026475470105-pixiv%25E9%25A0%2581%25E9%259D%25A2%25E5%258F%25AF%25E8%2583%25BD%25E6%259C%2583%25E5%259B%25A0%25E7%2582%25BA%25E6%259F%2590%25E4%25BA%259B%25E5%258E%259F%25E5%259B%25A0%25E5%2587%25BA%25E7%258F%25BE%25E4%25BB%25A5%25E4%25B8%258B%25E7%25AD%2589%25E5%2595%258F%25E9%25A1%258C" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 帮助">
+      
+        <a href="/hc/zh-cn">pixiv 帮助</a>
+      
+    </li>
+  
+    <li title="关于pixiv">
+      
+        <a href="/hc/zh-cn/categories/360001065473-%E5%85%B3%E4%BA%8Epixiv">关于pixiv</a>
+      
+    </li>
+  
+    <li title="关于异常问题">
+      
+        <a href="/hc/zh-cn/sections/7239642226841-%E5%85%B3%E4%BA%8E%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98">关于异常问题</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001065473" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98" class="sidenav-item current-article">pixiv页面可能会因为某些原因出现以下等问题</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="pixiv页面可能会因为某些原因出现以下等问题" class="article-title">
+          pixiv页面可能会因为某些原因出现以下等问题
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>【常见问题示例】</p>
+<ul>
+<li>网页排版错位</li>
+<li>网页无法正常显示</li>
+<li>无法登录</li>
+<li>无法投稿作品</li>
+<li>网页卡顿</li>
+</ul>
+<p>在浏览pixiv的过程中，若出现上述问题，首先请确认以下1〜3项。</p>
+<p>1.请确认推荐环境。<br>&nbsp; &nbsp;详情请参考帮助中心的「<a href="https://www.pixiv.help/hc/zh-cn/articles/229869507" target="_self">pixiv的推荐环境是？</a>」。</p>
+<p>2.请确认使用的设备是否存在异常。<br>&nbsp; &nbsp;无论使用哪种设备，均请在其信息处理内存充足的情况下，进行以下尝试。</p>
+<p><a href="https://www.pixiv.net/support">　&nbsp;</a> ＜使用电脑浏览pixiv＞</p>
+<ul>
+<li>重启浏览器</li>
+<li>重启电脑</li>
+<li>重新登录pixiv账号</li>
+<li>若同时开启了多个软件，则请暂时关闭其他软件</li>
+<li>删除书签以外的缓存、cookie等浏览器缓存文件</li>
+<li>关闭或卸载浏览器插件</li>
+<li>启用浏览器的引用（referer）设置<br>详情请参考帮助中心的「<a href="https://www.pixiv.help/hc/zh-cn/articles/235584528" target="_self">什么是引用（referer）？</a>」（仅日语）</li>
+<li>暂时关闭或修改防毒软件或防火墙的安全层级设置</li>
+<li>关闭拦截程序（广告拦截等）</li>
+<li>启用JavaScript</li>
+</ul>
+<p>　&nbsp; ＜使用手机浏览pixiv＞</p>
+<ul>
+<li>确认「使用电脑浏览pixiv」内的项目</li>
+<li>若使用Wi-Fi时能正常浏览，则请向电信公司确认所使用的移动网络是否有过滤浏览内容。</li>
+</ul>
+<p><a href="https://www.pixiv.net/support">　&nbsp;</a> ＜使用iOS、Android APP浏览pixiv＞</p>
+<ul>
+<li>重启APP</li>
+<li>重启设备</li>
+<li>重新安装APP</li>
+<li>删除缓存</li>
+</ul>
+<p>3.确认使用的网络环境是否存在异常</p>
+<p>　&nbsp; ＜使用Wi-Fi、有线网络浏览pixiv＞</p>
+<ul>
+<li>尝试连接其他更通畅的网络</li>
+<li>重新连接网络、Wi-Fi</li>
+<li>通过开启后再关闭设备的「飞行模式」，重新连网</li>
+<li>重启路由器</li>
+<li>重新接入网线</li>
+</ul>
+<p>　&nbsp; ＜使用移动流量浏览pixiv＞</p>
+<ul>
+<li>请确认网络连接是否稳定</li>
+<li>通过开启后再关闭设备的「移动流量上网」，重新连网</li>
+<li>请向电信公司确认所使用的移动网络是否有限速</li>
+</ul>
+<p>若在确认1〜3项后仍然无法解决，则有可能是因为pixiv服务器负荷过重，导致连接不稳定。请暂待1小时后再次尝试。<br>若经过一段时间后仍然无法正常浏览，烦请按照以下格式，将问题反馈至<a href="https://www.pixiv.net/support" target="_self">客服</a>。</p>
+<p>【咨询模板】</p>
+<ul>
+<li>问题发生的详情：</li>
+<li>上述1~3点中，已确认过的项目：</li>
+<li>发生问题的时间：　月　日　点　分</li>
+<li>发生问题的网址：</li>
+<li>发生问题的屏幕截图：</li>
+<li>到发生问题为止的操作步骤：</li>
+<li>网络环境：有线网络／Wi-Fi／移动流量</li>
+<li>发生问题时使用的设备：电脑／手机／平板／其他</li>
+<li>设备OS：Mac OS／Windows／iOS／Android／iPadOS／其他</li>
+<li>其他设备上是否发生同样的问题：是／否／没有其他设备<br>＜若问题发生于电脑、手机网页版pixiv＞</li>
+<li>发生问题时使用的浏览器：GoogleChrome／safari／firefox／MicrosoftEdge／其他</li>
+<li>浏览器版本：<br>＜若问题发生于iOS、Android APP版pixiv＞</li>
+<li>pixiv APP版本：</li>
+<li>iOS：可由pixiv APP的「设置」→「关于pixiv」→「使用版本」进行确认。</li>
+<li>Android：可由pixiv APP的「设置」→「使用版本」进行确认。操作步骤可能因设备而异。</li>
+</ul>
+<p>根据询问内容的详情，我们可能需要一定时间才能做出回复，或可能无法给予回复。敬请谅解。</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F7026475470105-pixiv%25E9%25A1%25B5%25E9%259D%25A2%25E5%258F%25AF%25E8%2583%25BD%25E4%25BC%259A%25E5%259B%25A0%25E4%25B8%25BA%25E6%259F%2590%25E4%25BA%259B%25E5%258E%259F%25E5%259B%25A0%25E5%2587%25BA%25E7%258E%25B0%25E4%25BB%25A5%25E4%25B8%258B%25E7%25AD%2589%25E9%2597%25AE%25E9%25A2%2598" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F7026475470105-pixiv%25E9%25A1%25B5%25E9%259D%25A2%25E5%258F%25AF%25E8%2583%25BD%25E4%25BC%259A%25E5%259B%25A0%25E4%25B8%25BA%25E6%259F%2590%25E4%25BA%259B%25E5%258E%259F%25E5%259B%25A0%25E5%2587%25BA%25E7%258E%25B0%25E4%25BB%25A5%25E4%25B8%258B%25E7%25AD%2589%25E9%2597%25AE%25E9%25A2%2598" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F7026475470105-pixiv%25E9%25A1%25B5%25E9%259D%25A2%25E5%258F%25AF%25E8%2583%25BD%25E4%25BC%259A%25E5%259B%25A0%25E4%25B8%25BA%25E6%259F%2590%25E4%25BA%259B%25E5%258E%259F%25E5%259B%25A0%25E5%2587%25BA%25E7%258E%25B0%25E4%25BB%25A5%25E4%25B8%258B%25E7%25AD%2589%25E9%2597%25AE%25E9%25A2%2598" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="7026475470105" data-upvote-count="7" data-vote-count="14" data-vote-sum="0" data-vote-url="/hc/zh-cn/articles/7026475470105/vote" data-value="null" data-label="14 人中有 7 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="是" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="7026475470105" data-upvote-count="7" data-vote-count="14" data-vote-sum="0" data-vote-url="/hc/zh-cn/articles/7026475470105/vote" data-value="null" data-label="14 人中有 7 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="否" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="7026475470105" data-upvote-count="7" data-vote-count="14" data-vote-sum="0" data-vote-url="/hc/zh-cn/articles/7026475470105/vote" data-value="null" data-label="14 人中有 7 人觉得有帮助">14 人中有 7 人觉得有帮助</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEw4ezDToYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBkNk%2FpjBjoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJeL2hjL3poLWNuL2FydGljbGVzLzIyOTg2OTUwNy1waXhpdiVFNyU5QSU4NCVFNiU4RSVBOCVFOCU4RCU5MCVFNyU4RSVBRiVFNSVBMiU4MyVFNiU5OCVBRi0GOwhUOglyYW5raQY%3D--a41a0d2266d82b80959ec027d5982ee7502a90ad" rel="nofollow">pixiv的推荐环境是？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE864LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBkNk%2FpjBjoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBii9oYy96aC1jbi9hcnRpY2xlcy8yMzU2NDY3MDctJUU1JUE2JTgyJUU2JTlFJTlDJUU2JTk3JUEwJUU2JUIzJTk1JUU2JUI1JThGJUU4JUE3JTg4Ui0xOCVFNCVCRCU5QyVFNSU5MyU4MS0lRTYlODglOTZSLTE4RyVFNCVCRCU5QyVFNSU5MyU4MQY7CFQ6CXJhbmtpBw%3D%3D--8c29caaa7546ee042691845f228faa8cbc7fe3e4" rel="nofollow">如果无法浏览R-18作品、或R-18G作品</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEH6sLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBkNk%2FpjBjoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJXL2hjL3poLWNuL2FydGljbGVzLzIzNTY0NTcyNy0tcGl4aXYtJUU4JUFGJUE1JUU2JTgwJThFJUU0JUI5JTg4JUU4JUFGJUJCJUU1JTkxJUEyLQY7CFQ6CXJhbmtpCA%3D%3D--06b57f14114c10e680dee11ee0099b81760daff6" rel="nofollow">「pixiv」该怎么读呢？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEF%2BgNDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBkNk%2FpjBjoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJVL2hjL3poLWNuL2FydGljbGVzLzIzNTc5MjQwNy0tJUU2JTgzJUIzJUU2JUIzJUE4JUU5JTk0JTgwcGl4aXYlRTglQjQlQTYlRTUlOEYlQjcGOwhUOglyYW5raQk%3D--0e96900e24c24e39441cac5610d0e6e198d04843" rel="nofollow"> 想注销pixiv账号</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEX6cLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBkNk%2FpjBjoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJnL2hjL3poLWNuL2FydGljbGVzLzIzNTY0NDc2Ny1waXhpdiVFNyU5QSU4NCVFOSVCQiU5MSVFNSU5MCU4RCVFNSU4RCU5NSVFNiU5OCVBRiVFNCVCQiU4MCVFNCVCOSU4OC0GOwhUOglyYW5raQo%3D--302c2946184cae68f9871f21924964cb7dcd1c0c" rel="nofollow">pixiv的黑名单是什么？</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>如果仍无法解决，请您联系我们。</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">帮助中心</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服务</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫画</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小说</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全书</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高级会员</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>关于使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">使用条款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">本站方针</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">隐私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">刊登广告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">联系我们</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">运营公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.19d44ffc81c4de10f643.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98" data-theme="hc" data-locale="zh-cn" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:uViTf644eZbGx3HUVJqh2fVFbYl8v0LD6A7aS8bCffDXPhe8NXCnH9AcPgmo8ThpDYDBnLP3Bf1QpeAgvM9vgQ","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCBkNk/pjBjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKemgtY24GOwZU--45ce281a3983292aef35e33fe719f846e11c9a75","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"7026475470105","current_record_url":"/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98","current_record_title":"pixiv页面可能会因为某些原因出现以下等问题","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/zh-cn/articles/7026475470105-pixiv%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%9B%A0%E4%B8%BA%E6%9F%90%E4%BA%9B%E5%8E%9F%E5%9B%A0%E5%87%BA%E7%8E%B0%E4%BB%A5%E4%B8%8B%E7%AD%89%E9%97%AE%E9%A2%98","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-cn","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e78f9bbe1a9bb',m:'IfjyoV2rGFb9lKfJn9ek3BXVRVisuA.SEcW.9JSZ3u8-1660026935-0-AcOXd/+1hcV3lMjsEl9PB0cbr0d2xmbygILy3CUzW5Dk8JsmVqo9RP0aWbYWStKm1cD3mTSeEv4dVJ7ak4idkocIZCTM+cG0a/yyXfrZJlzJafZevYmZ1PcR4v19dq1DPCf0dA2Vrg6uwG4vRrohrh4Hn+N1xBwBGRMXTynW+EGYehTBzl7z6XC/g4xAa3J5CdVSV45l6/OE+XXj+Pys+1lFvJYGWjcJg9+CbHRIEPov0++VWsGmahE6s1eVPB/oBHQYA0GVz/+q5MkkIC4+oZIQBEcnrNS7vKQSTvlKRRnzxm6UTkxTdx2eItjal1QMyFL9Vo+w2evQMjCrh2nHjyDjUUppfLerH3YrqgCNy/zSleLQBa52/Dmqpp+v0nTwkA==',s:[0x613f70c2b0,0x3d342086f1],}})();</script></body>
+</html>

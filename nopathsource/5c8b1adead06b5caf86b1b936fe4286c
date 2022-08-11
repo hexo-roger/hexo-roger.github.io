@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21487 -->
+
+  <title>리퀘스트한 상품을 상업적 목적으로 이용해도 되나요? &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:zc2fRgXRAw3Hc4604LGYBFV2S_G9UTr3Xr2Au9JAx_m-Rgbnw4N3IF8do7a4OXMlNVoMfxmlPgC2EDdpLj4wbQ" />
+
+  <meta name="description" content="원칙상 리퀘스트를 의뢰한 팬은 상업적 목적으로 그 작품을 이용할 수 없습니다.작품의 저작권과 그 외의 모든 권리는 크리에이터에 귀속되므로, 크리에이터 자신이 상업적으로 작품을 이용하는 것은 가능합니다." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="리퀘스트한 상품을 상업적 목적으로 이용해도 되나요?" />
+<meta property="og:description" content="원칙상 리퀘스트를 의뢰한 팬은 상업적 목적으로 그 작품을 이용할 수 없습니다.작품의 저작권과 그 외의 모든 권리는 크리에이터에 귀속되므로, 크리에이터 자신이 상업적으로 작품을 이용하는 것은 가능합니다." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/900002309546" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/900002309546-Can-I-use-a-requested-work-for-business-purposes-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/900002309546-%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%97%E3%81%9F%E4%BD%9C%E5%93%81%E3%82%92%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%82%82%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/900002309546-%E5%8F%AF%E4%BB%A5%E6%8A%8A%E7%BA%A6%E7%A8%BF%E4%BD%9C%E5%93%81%E7%94%A8%E4%BA%8E%E5%95%86%E4%B8%9A%E7%94%A8%E9%80%94%E5%90%97-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/900002309546-%E5%8F%AF%E4%BB%A5%E6%8A%8A%E7%B4%84%E7%A8%BF%E4%BD%9C%E5%93%81%E7%94%A8%E6%96%BC%E5%95%86%E6%A5%AD%E7%94%A8%E9%80%94%E5%97%8E-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F900002309546-Can-I-use-a-requested-work-for-business-purposes-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F900002309546-%25E3%2583%25AA%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2588%25E3%2581%2597%25E3%2581%259F%25E4%25BD%259C%25E5%2593%2581%25E3%2582%2592%25E5%2595%2586%25E7%2594%25A8%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2582%25E3%2581%2584%25E3%2581%2584%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258B-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F900002309546-%25E5%258F%25AF%25E4%25BB%25A5%25E6%258A%258A%25E7%25BA%25A6%25E7%25A8%25BF%25E4%25BD%259C%25E5%2593%2581%25E7%2594%25A8%25E4%25BA%258E%25E5%2595%2586%25E4%25B8%259A%25E7%2594%25A8%25E9%2580%2594%25E5%2590%2597-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F900002309546-%25E5%258F%25AF%25E4%25BB%25A5%25E6%258A%258A%25E7%25B4%2584%25E7%25A8%25BF%25E4%25BD%259C%25E5%2593%2581%25E7%2594%25A8%25E6%2596%25BC%25E5%2595%2586%25E6%25A5%25AD%25E7%2594%25A8%25E9%2580%2594%25E5%2597%258E-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="리퀘스트 기능에 대하여">
+      
+        <a href="/hc/ko/categories/900000133123-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">리퀘스트 기능에 대하여</a>
+      
+    </li>
+  
+    <li title="의뢰에 대하여">
+      
+        <a href="/hc/ko/sections/900000308746-%EC%9D%98%EB%A2%B0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">의뢰에 대하여</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000133123" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/900001640046-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8-%EB%82%B4%EC%9A%A9%EC%97%90%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-" class="sidenav-item ">리퀘스트 내용에는 무엇을 써야 하나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002309506-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8-%EA%B8%88%EC%95%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%95%ED%95%98%EB%82%98%EC%9A%94-" class="sidenav-item ">리퀘스트 금액은 어떻게 정하나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002872183-%EB%B3%B4%EB%82%B8-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%EA%B0%80-%EC%8A%B9%EC%9D%B8%EB%90%98%EC%A7%80-%EC%95%8A%EA%B3%A0-%EB%A7%88%EA%B0%90%EC%9D%BC%EC%9D%B4-%EC%A7%80%EB%82%98%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">보낸 리퀘스트가 승인되지 않고 마감일이 지나면 어떻게 되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002872203-%EB%B3%B4%EB%82%B8-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%EB%8A%94-%EC%B7%A8%EC%86%8C%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">보낸 리퀘스트는 취소할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002294223-%EC%9D%B5%EB%AA%85-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80%EC%9A%94-" class="sidenav-item ">익명 리퀘스트는 가능한가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900003084906-R-18-R-18G%EC%9D%98-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%B3%B4%EB%82%BC-%EC%88%98-%EC%97%86%EC%96%B4%EC%9A%94" class="sidenav-item ">R-18·R-18G의 리퀘스트를 보낼 수 없어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002950566-%EC%9E%91%ED%92%88%EC%9D%80-%EC%96%B8%EC%A0%9C-%ED%88%AC%EA%B3%A0%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">작품은 언제 투고되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900004244203-%EA%B8%88%EC%95%A1-%EB%B0%98%ED%99%98%EC%9D%80-%EC%96%B8%EC%A0%9C-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">금액 반환은 언제 되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002308166-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8-%EC%9E%91%ED%92%88%EC%9D%84-%EB%A6%AC%ED%85%8C%EC%9D%B4%ED%81%AC%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">리퀘스트 작품을 리테이크할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item current-article">리퀘스트한 상품을 상업적 목적으로 이용해도 되나요?</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/ko/sections/900000308746-%EC%9D%98%EB%A2%B0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" class="article-sidebar-item">더보기</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="리퀘스트한 상품을 상업적 목적으로 이용해도 되나요?" class="article-title">
+          리퀘스트한 상품을 상업적 목적으로 이용해도 되나요?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p><span>원칙상 리퀘스트를 의뢰한 팬은 상업적 목적으로 그 작품을 이용할 수 없습니다.<br>작품의 저작권과 그 외의 모든 권리는 크리에이터에 귀속되므로, 크리에이터 자신이 상업적으로 작품을 이용하는 것은 가능합니다.</span></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C+%EC%83%81%ED%92%88%EC%9D%84+%EC%83%81%EC%97%85%EC%A0%81+%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C+%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84+%EB%90%98%EB%82%98%EC%9A%94%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F900002309546-%25EB%25A6%25AC%25ED%2580%2598%25EC%258A%25A4%25ED%258A%25B8%25ED%2595%259C-%25EC%2583%2581%25ED%2592%2588%25EC%259D%2584-%25EC%2583%2581%25EC%2597%2585%25EC%25A0%2581-%25EB%25AA%25A9%25EC%25A0%2581%25EC%259C%25BC%25EB%25A1%259C-%25EC%259D%25B4%25EC%259A%25A9%25ED%2595%25B4%25EB%258F%2584-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C+%EC%83%81%ED%92%88%EC%9D%84+%EC%83%81%EC%97%85%EC%A0%81+%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C+%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84+%EB%90%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F900002309546-%25EB%25A6%25AC%25ED%2580%2598%25EC%258A%25A4%25ED%258A%25B8%25ED%2595%259C-%25EC%2583%2581%25ED%2592%2588%25EC%259D%2584-%25EC%2583%2581%25EC%2597%2585%25EC%25A0%2581-%25EB%25AA%25A9%25EC%25A0%2581%25EC%259C%25BC%25EB%25A1%259C-%25EC%259D%25B4%25EC%259A%25A9%25ED%2595%25B4%25EB%258F%2584-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C+%EC%83%81%ED%92%88%EC%9D%84+%EC%83%81%EC%97%85%EC%A0%81+%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C+%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84+%EB%90%98%EB%82%98%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F900002309546-%25EB%25A6%25AC%25ED%2580%2598%25EC%258A%25A4%25ED%258A%25B8%25ED%2595%259C-%25EC%2583%2581%25ED%2592%2588%25EC%259D%2584-%25EC%2583%2581%25EC%2597%2585%25EC%25A0%2581-%25EB%25AA%25A9%25EC%25A0%2581%25EC%259C%25BC%25EB%25A1%259C-%25EC%259D%25B4%25EC%259A%25A9%25ED%2595%25B4%25EB%258F%2584-%25EB%2590%2598%25EB%2582%2598%25EC%259A%2594-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="900002309546" data-upvote-count="29" data-vote-count="33" data-vote-sum="25" data-vote-url="/hc/ko/articles/900002309546/vote" data-value="null" data-label="33명 중 29명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="900002309546" data-upvote-count="29" data-vote-count="33" data-vote-sum="25" data-vote-url="/hc/ko/articles/900002309546/vote" data-value="null" data-label="33명 중 29명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="900002309546" data-upvote-count="29" data-vote-count="33" data-vote-sum="25" data-vote-url="/hc/ko/articles/900002309546/vote" data-value="null" data-label="33명 중 29명이 도움이 되었다고 했습니다.">33명 중 29명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCL8qUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCKplUYzRADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSICHAEvaGMva28vYXJ0aWNsZXMvOTAwMDAyMjk0NDYzLSVFQSVCMCU5QyVFQyU5RCVCOCVFQyVBMCU4MSVFQyU5QyVCQyVFQiVBMSU5Qy0lRUMlODIlQUMlRUMlOUElQTklRUQlOTUlQTAtU05TLSVFQyU5NSU4NCVFQyU5RCVCNCVFQyVCRCU5OC0lRUIlOTMlQjEtJUVCJUI5JTg0JUVDJTgzJTgxJUVDJTk3JTg1JUVDJTlBJUE5LSVFQiVBQSVBOSVFQyVBMCU4MSVFQyU5RCU5OC0lRUMlOUQlOTglRUIlQTIlQjAlRUIlOEYlODQtJUVBJUIwJTgwJUVCJThBJUE1JUVEJTk1JTlDJUVBJUIwJTgwJUVDJTlBJTk0LQY7CFQ6CXJhbmtpBg%3D%3D--15c5a27cd615b50fc51e35ed60f7c5370b7dc197" rel="nofollow">개인적으로 사용할 SNS 아이콘 등, 비상업용 목적의 의뢰도 가능한가요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEZgUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCKplUYzRADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBsi9oYy9rby9hcnRpY2xlcy85MDAwMDIzMDgxNjYtJUVCJUE2JUFDJUVEJTgwJTk4JUVDJThBJUE0JUVEJThBJUI4LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5RCU4NC0lRUIlQTYlQUMlRUQlODUlOEMlRUMlOUQlQjQlRUQlODElQUMlRUQlOTUlQTAtJUVDJTg4JTk4LSVFQyU5RSU4OCVFQiU4MiU5OCVFQyU5QSU5NC0GOwhUOglyYW5raQc%3D--48dd8c79b5c4869e0a6ffc556cc37b9c7e106f69" rel="nofollow">리퀘스트 작품을 리테이크할 수 있나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCPslUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCKplUYzRADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBxS9oYy9rby9hcnRpY2xlcy85MDAwMDIyOTMyNDMtJUVCJUE2JUFDJUVEJTgwJTk4JUVDJThBJUE0JUVEJThBJUI4LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5NyU5MC0lRUIlOEMlODAlRUQlOTUlOUMtJUVBJUI2JThDJUVCJUE2JUFDJUVCJThBJTk0LSVFQyU5NiVCNCVFQiU5NiVCQiVFQSVCMiU4Qy0lRUIlOTAlOTglRUIlODIlOTglRUMlOUElOTQtBjsIVDoJcmFua2kI--0119995dc64ecfb372f965a7ea5978a1ce710bf8" rel="nofollow">리퀘스트 작품에 대한 권리는 어떻게 되나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCIJlUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCKplUYzRADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBny9oYy9rby9hcnRpY2xlcy85MDAwMDIzMDk1MDYtJUVCJUE2JUFDJUVEJTgwJTk4JUVDJThBJUE0JUVEJThBJUI4LSVFQSVCOCU4OCVFQyU5NSVBMSVFQyU5RCU4MC0lRUMlOTYlQjQlRUIlOTYlQkIlRUElQjIlOEMtJUVDJUEwJTk1JUVEJTk1JTk4JUVCJTgyJTk4JUVDJTlBJTk0LQY7CFQ6CXJhbmtpCQ%3D%3D--5d2f37cdd4f333721441056261e88ea1bb124711" rel="nofollow">리퀘스트 금액은 어떻게 정하나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEpmUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCKplUYzRADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBoC9oYy9rby9hcnRpY2xlcy85MDAwMDIzMDk3MDYtJUVDJTk2JUI0JUVCJTk2JUE0LSVFQyVBNyU4MCVFQiVCNiU4OCVFQiVCMCVBOSVFQiVCMiU5NSVFQyU5RCU4NC0lRUMlODIlQUMlRUMlOUElQTklRUQlOTUlQTAtJUVDJTg4JTk4LSVFQyU5RSU4OCVFQiU4MiU5OCVFQyU5QSU5NC0GOwhUOglyYW5raQo%3D--eb5f8bb51d8008904baf87358583c1f5ef43892b" rel="nofollow">어떤 지불방법을 사용할 수 있나요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:C1_W3ehHF9NhXV6tvYIjb27cLNRK8ozMTkp1mNMR9Nd41E98LhVj_vkzc6_lCshODvBrWu4GiDum58JKL28DQw","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGwrCKplUYzRADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--30492ac4d97de8a0bfab6b580a0a451b9813dfe1","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"900002309546","current_record_url":"/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-","current_record_title":"리퀘스트한 상품을 상업적 목적으로 이용해도 되나요?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/900002309546-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%ED%95%9C-%EC%83%81%ED%92%88%EC%9D%84-%EC%83%81%EC%97%85%EC%A0%81-%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%98%EB%82%98%EC%9A%94-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21487"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'738555665bcd8b47',m:'MLdRC4ShYLD2KjsuyRpVNdOus0z4sJKR2VnJ4yBTFZU-1660098878-0-AR9ZeonfIluOwN3pdYSZ9i1BZ/pHPXs70sp9QoqgmQ4aKlVcEDu+LIYXusO5xDYTRYWKN3nXKrulkLjeMJ7CCAclZCV296Od1+KDNZWDjnh6XUwD0u/I/DJoFqc3yAN4LcDQQGDyZbJ2AFykHGgu4uyxgqM2ZZJgOzViT24/rZO2fOscuo+ofDKZg9q82EWs8rNLOPzhaQOJA89sTrD57YULZivY7O5s3hMU4Rs4J+/wQDZ524yt0D5jGy9t+fxr4F5KCr+SRHCiEmj41Ocr1hqzguXdsfB+frktX9Y2S+1tLqT00v2UdLirW7X0QyXfQe4khnnI6LzRUvorpjMGX91tznQRf2tCNyIJmG+KbwTexggcV1Zc6YAFG58+aYqyy6WZFlelu3hMdoGib4hFVfSjPb4T/sImksiCZ+UX48Sr',s:[0x6df49f869e,0xdf9fbdf1a8],}})();</script></body>
+</html>

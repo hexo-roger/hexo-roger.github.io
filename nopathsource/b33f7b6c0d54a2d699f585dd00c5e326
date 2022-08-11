@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>만화를 읽는 방법을 알려주세요 &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:_0mejcAGpuMDuaVFpbPkxXpD67IGqIjoC8bcS0qJ65PWBRkK1XXP8yntCJ3vSjPaWM8zklaHvFpHiXiYE-254Q" />
+
+  <meta name="description" content="만화 작품의 표지, 또는 &quot;전부 보기&quot;를 클릭하면 만화 뷰어가 열리면서 작품을 읽을 수 있게 됩니다. 만화 뷰어 사용법은 아래와 같습니다." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="만화를 읽는 방법을 알려주세요" />
+<meta property="og:description" content="만화 작품의 표지, 또는 &quot;전부 보기&quot;를 클릭하면 만화 뷰어가 열리면서 작품을 읽을 수 있게 됩니다.
+만화 뷰어 사용법은 아래와 같습니다.
+
+ " />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/235646487" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/235646487-I-want-to-know-how-to-read-manga" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/235646487-%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%92%E8%AA%AD%E3%82%80%E6%96%B9%E6%B3%95%E3%82%92%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/235646487-%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%BC%AB%E7%94%BB-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/235646487-%E5%A6%82%E4%BD%95%E9%96%B1%E8%AE%80%E6%BC%AB%E7%95%AB-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F235646487-I-want-to-know-how-to-read-manga" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F235646487-%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25AC%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E6%2596%25B9%25E6%25B3%2595%25E3%2582%2592%25E7%259F%25A5%25E3%2582%258A%25E3%2581%259F%25E3%2581%2584" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F235646487-%25E5%25A6%2582%25E4%25BD%2595%25E9%2598%2585%25E8%25AF%25BB%25E6%25BC%25AB%25E7%2594%25BB-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F235646487-%25E5%25A6%2582%25E4%25BD%2595%25E9%2596%25B1%25E8%25AE%2580%25E6%25BC%25AB%25E7%2595%25AB-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="작품의 열람에 대하여">
+      
+        <a href="/hc/ko/categories/360001065173-%EC%9E%91%ED%92%88%EC%9D%98-%EC%97%B4%EB%9E%8C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">작품의 열람에 대하여</a>
+      
+    </li>
+  
+    <li title="열람의 기본">
+      
+        <a href="/hc/ko/sections/360002419974-%EC%97%B4%EB%9E%8C%EC%9D%98-%EA%B8%B0%EB%B3%B8">열람의 기본</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001065173" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/235585268-%EC%9E%91%ED%92%88%EC%97%90-%EB%8C%93%EA%B8%80%EC%9D%B4%EB%82%98-%EC%8A%A4%ED%83%AC%ED%94%84%EB%A5%BC-%EB%82%A8%EA%B8%B0%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">작품에 댓글이나 스탬프를 남기고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4421418866457-%EC%9E%91%ED%92%88%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8C%93%EA%B8%80%EC%9D%B4%EB%82%98-%EC%8A%A4%ED%83%AC%ED%94%84%EB%A5%BC-%EB%B0%9B%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EC%84%A4%EC%A0%95%ED%95%98%EB%A0%A4%EB%A9%B4-" class="sidenav-item ">작품에 대한 댓글이나 스탬프를 받지 않도록 설정하려면?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4661542171289-%EC%9E%91%ED%92%88-%EB%8C%93%EA%B8%80%EC%9D%B4-OFF%EB%A1%9C-%EC%84%A4%EC%A0%95%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84-%EA%B2%BD%EC%9A%B0-%EB%82%B4%EA%B0%80-%EC%93%B4-%EB%8C%93%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">작품 댓글이 OFF로 설정되어 있을 경우, 내가 쓴 댓글은 어떻게 되나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900004833123-%EC%9B%8C%EC%B9%98%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%9E%80-%EC%96%B4%EB%96%A4-%EA%B8%B0%EB%8A%A5%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">워치리스트란 어떤 기능인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900002576426-%EC%86%8C%EC%84%A4-%EB%B3%B8%EB%AC%B8%EC%97%90-%ED%91%9C%EC%8B%9C%EB%90%98%EB%8A%94-%EB%B0%91%EC%A4%84-%ED%91%9C%EC%8B%9C-%EC%84%A4%EC%A0%95%EC%9E%90%EB%A3%8C-%EB%A7%81%ED%81%AC-%EB%A5%BC-%EC%BC%9C%EA%B1%B0%EB%82%98-%EB%81%84%EB%A0%A4%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94-" class="sidenav-item ">소설 본문에 표시되는 밑줄 표시(설정자료 링크)를 켜거나 끄려면 어떻게 해야 하나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" class="sidenav-item current-article">만화를 읽는 방법을 알려주세요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646447-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" class="sidenav-item ">소설 작품을 읽는 방법을 알려주세요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4407180819353-%EC%97%B4%EB%9E%8C-%EC%A3%BC%EC%9D%98-%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">열람 주의 기능이란 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235646527-%EC%97%B4%EB%9E%8C-%EC%9D%B4%EB%A0%A5%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">열람 이력을 확인하고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/4407182307481-%ED%94%BC%EB%93%9C-%EA%B8%B0%EB%8A%A5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">피드 기능이란 무엇인가요?</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="만화를 읽는 방법을 알려주세요" class="article-title">
+          만화를 읽는 방법을 알려주세요
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>만화 작품의 표지, 또는 "전부 보기"를 클릭하면 만화 뷰어가 열리면서 작품을 읽을 수 있게 됩니다.</p>
+<p>만화 뷰어 사용법은 아래와 같습니다.</p>
+<p><img src="https://www.pixiv.help/hc/article_attachments/360000384142/190418000.PNG" alt="190418000.PNG" width="693" height="665"></p>
+<p>&nbsp;</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%EB%A7%8C%ED%99%94%EB%A5%BC+%EC%9D%BD%EB%8A%94+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646487-%25EB%25A7%258C%25ED%2599%2594%25EB%25A5%25BC-%25EC%259D%25BD%25EB%258A%2594-%25EB%25B0%25A9%25EB%25B2%2595%25EC%259D%2584-%25EC%2595%258C%25EB%25A0%25A4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=%EB%A7%8C%ED%99%94%EB%A5%BC+%EC%9D%BD%EB%8A%94+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646487-%25EB%25A7%258C%25ED%2599%2594%25EB%25A5%25BC-%25EC%259D%25BD%25EB%258A%2594-%25EB%25B0%25A9%25EB%25B2%2595%25EC%259D%2584-%25EC%2595%258C%25EB%25A0%25A4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%EB%A7%8C%ED%99%94%EB%A5%BC+%EC%9D%BD%EB%8A%94+%EB%B0%A9%EB%B2%95%EC%9D%84+%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646487-%25EB%25A7%258C%25ED%2599%2594%25EB%25A5%25BC-%25EC%259D%25BD%25EB%258A%2594-%25EB%25B0%25A9%25EB%25B2%2595%25EC%259D%2584-%25EC%2595%258C%25EB%25A0%25A4%25EC%25A3%25BC%25EC%2584%25B8%25EC%259A%2594" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="235646487" data-upvote-count="352" data-vote-count="628" data-vote-sum="76" data-vote-url="/hc/ko/articles/235646487/vote" data-value="null" data-label="628명 중 352명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="235646487" data-upvote-count="352" data-vote-count="628" data-vote-sum="76" data-vote-url="/hc/ko/articles/235646487/vote" data-value="null" data-label="628명 중 352명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="235646487" data-upvote-count="352" data-vote-count="628" data-vote-sum="76" data-vote-url="/hc/ko/articles/235646487/vote" data-value="null" data-label="628명 중 352명이 도움이 되었다고 했습니다.">628명 중 352명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE760LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEF64LDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBpS9oYy9rby9hcnRpY2xlcy8yMzU2NDY0NDctJUVDJTg2JThDJUVDJTg0JUE0LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5RCU4NC0lRUMlOUQlQkQlRUIlOEElOTQtJUVCJUIwJUE5JUVCJUIyJTk1JUVDJTlEJTg0LSVFQyU5NSU4QyVFQiVBMCVBNCVFQyVBMyVCQyVFQyU4NCVCOCVFQyU5QSU5NAY7CFQ6CXJhbmtpBg%3D%3D--ed91fe74b23b18fecc4664784a9493bf66c40bda" rel="nofollow">소설 작품을 읽는 방법을 알려주세요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEP64LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEF64LDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBiS9oYy9rby9hcnRpY2xlcy8yMzU2NDY1MjctJUVDJTk3JUI0JUVCJTlFJThDLSVFQyU5RCVCNCVFQiVBMCVBNSVFQyU5RCU4NC0lRUQlOTklOTUlRUMlOUQlQjglRUQlOTUlOTglRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kH--e3035b9f823ca61296c86c221c96d89cfd1229e5" rel="nofollow">열람 이력을 확인하고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGPnd4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEF64LDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBlS9oYy9rby9hcnRpY2xlcy85MDAwMDQ4MzMxMjMtJUVDJTlCJThDJUVDJUI5JTk4JUVCJUE2JUFDJUVDJThBJUE0JUVEJThBJUI4JUVCJTlFJTgwLSVFQyU5NiVCNCVFQiU5NiVBNC0lRUElQjglQjAlRUIlOEElQTUlRUMlOUQlQjglRUElQjAlODAlRUMlOUElOTQtBjsIVDoJcmFua2kI--33e0e2d5cd7634f21fa761ef1a42d5c66f61b8e0" rel="nofollow">워치리스트란 어떤 기능인가요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCp4VYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEF64LDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSICXAEvaGMva28vYXJ0aWNsZXMvOTAwMDAyNTc2NDI2LSVFQyU4NiU4QyVFQyU4NCVBNC0lRUIlQjMlQjglRUIlQUMlQjglRUMlOTclOTAtJUVEJTkxJTlDJUVDJThCJTlDJUVCJTkwJTk4JUVCJThBJTk0LSVFQiVCMCU5MSVFQyVBNCU4NC0lRUQlOTElOUMlRUMlOEIlOUMtJUVDJTg0JUE0JUVDJUEwJTk1JUVDJTlFJTkwJUVCJUEzJThDLSVFQiVBNyU4MSVFRCU4MSVBQy0lRUIlQTUlQkMtJUVDJUJDJTlDJUVBJUIxJUIwJUVCJTgyJTk4LSVFQiU4MSU4NCVFQiVBMCVBNCVFQiVBOSVCNC0lRUMlOTYlQjQlRUIlOTYlQkIlRUElQjIlOEMtJUVEJTk1JUI0JUVDJTk1JUJDLSVFRCU5NSU5OCVFQiU4MiU5OCVFQyU5QSU5NC0GOwhUOglyYW5raQk%3D--79f448c7b1cca13d0b6fe63b93acc4ca237f3527" rel="nofollow">소설 본문에 표시되는 밑줄 표시(설정자료 링크)를 켜거나 끄려면 어떻게 해야 하나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEF%2BgNDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEF64LDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSJuL2hjL2tvL2FydGljbGVzLzIzNTc5MjQwNy1waXhpdiVFQiVBNSVCQy0lRUQlODMlODglRUQlODclQjQlRUQlOTUlOTglRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kK--4fe50dc75032f9b2a5b20da517f244e71f60e299" rel="nofollow">pixiv를 탈퇴하고 싶어요</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:IzGa_4sP7BGbvrhibEiL1omZg8-pdFXmFxh_xrhQ1e8KfR14nnyFAbHqFbomsVzJqxVb7_lbYVRbV9sV4TSHnQ","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGkEF64LDjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--c939e97e1b54985b8e7e8d7201313dea44b7f773","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"235646487","current_record_url":"/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94","current_record_title":"만화를 읽는 방법을 알려주세요","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/235646487-%EB%A7%8C%ED%99%94%EB%A5%BC-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EB%A0%A4%EC%A3%BC%EC%84%B8%EC%9A%94","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e7c86ce27a9d1',m:'K3dM3k5uG51sOOTig.7GPux6OKP7hoK2mfaYghka5ZI-1660027081-0-AUb3I6QvruuLhFARI86DWlAXn8DrLAgEdLannDyPGHadnitInqyHVgxmoBk+Kih25MnAHSTIuRJ7IjmVmujjoODSpOJPINVkrPqdI6o+HmmSmz6dMNvxdagZyKlYzeUv8WMf6IcWjGkdvjDL3usNTZyy8AfOp9AAma4MllkR71Km0NpzVL4b1YwXo6vFmdBr0R14R7QcBwHOqPq0tXLzcTOCU8kj2k0+12yd21yI4lNY1RZUzM+t3Pgv+CbGhVAn+Wo1fSEhJrtxTIsAb4daOZEPQ65bUUWMTE5otTud5qXql7qgdDN/kVzqhNYqRNWn7Q==',s:[0x9f73ae53c0,0xd7613dc404],}})();</script></body>
+</html>

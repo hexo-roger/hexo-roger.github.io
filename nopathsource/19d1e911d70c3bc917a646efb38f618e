@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>연령제한이란 무엇인가요? &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:tC8Uqz7AjJ-91qLU8Vw-q9WcAtdGlIuV33kxPe_OyIVVvY5MtgIhxDXxccVRwx74aHfPkreteHoT4_xxcgacUw" />
+
+  <meta name="description" content="연령제한이란 18세 미만자의 열람이 부적합한 작품을 pixiv에 투고할 경우 열람하는 유저의 연령에 따라 작품의 열람 여부를 적절히 제한하는 기능입니다. 18세 미만이신 분이 열람하기에 부적절한 작품을 투고할 때는 아래의 조건을 만족시켜야..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="연령제한이란 무엇인가요?" />
+<meta property="og:description" content="연령제한이란 18세 미만자의 열람이 부적합한 작품을 pixiv에 투고할 경우 열람하는 유저의 연령에 따라 작품의 열람 여부를 적절히 제한하는 기능입니다.
+18세 미만이신 분이 열람하기에 부적절한 작품을 투고할 때는 아래의 조건을 만족시켜야 합니다.
+・본인이 18세 이상일 것・이용 계정의 열람 제한 설정에서 열람 제한 작품(R-18) 또는 그로테스크한 ..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/235646007" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/235646007-What-s-age-restriction-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/235646007-%E5%B9%B4%E9%BD%A2%E5%88%B6%E9%99%90%E3%81%A8%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/235646007-%E4%BB%80%E4%B9%88%E6%98%AF%E6%B5%8F%E8%A7%88%E9%99%90%E5%88%B6" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/235646007-%E4%BB%80%E9%BA%BC%E6%98%AF%E7%80%8F%E8%A6%BD%E9%99%90%E5%88%B6" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F235646007-What-s-age-restriction-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F235646007-%25E5%25B9%25B4%25E9%25BD%25A2%25E5%2588%25B6%25E9%2599%2590%25E3%2581%25A8%25E3%2581%25AF%25E3%2581%25AA%25E3%2582%2593%25E3%2581%25A7%25E3%2581%2599%25E3%2581%258B" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F235646007-%25E4%25BB%2580%25E4%25B9%2588%25E6%2598%25AF%25E6%25B5%258F%25E8%25A7%2588%25E9%2599%2590%25E5%2588%25B6" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F235646007-%25E4%25BB%2580%25E9%25BA%25BC%25E6%2598%25AF%25E7%2580%258F%25E8%25A6%25BD%25E9%2599%2590%25E5%2588%25B6" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="작품 투고/관리에 대하여">
+      
+        <a href="/hc/ko/categories/360001064114-%EC%9E%91%ED%92%88-%ED%88%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">작품 투고/관리에 대하여</a>
+      
+    </li>
+  
+    <li title="연령 제한에 대하여">
+      
+        <a href="/hc/ko/sections/360002539154-%EC%97%B0%EB%A0%B9-%EC%A0%9C%ED%95%9C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">연령 제한에 대하여</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064114" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item current-article">연령제한이란 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235645907-R-18%EC%9E%91%ED%92%88%EC%9D%84-%ED%88%AC%EA%B3%A0%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-" class="sidenav-item ">R-18작품을 투고할 수 있나요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/235645987-R-18%ED%83%9C%EA%B7%B8%EB%82%98-R-18G%ED%83%9C%EA%B7%B8%EB%A5%BC-%EB%8B%AC%EB%A9%B4-%EC%97%B4%EB%9E%8C-%EC%A0%9C%ED%95%9C-%EC%9E%91%ED%92%88%EC%9D%B4-%EB%90%98%EB%82%98%EC%9A%94-" class="sidenav-item ">R-18태그나 R-18G태그를 달면 열람 제한 작품이 되나요?</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="연령제한이란 무엇인가요?" class="article-title">
+          연령제한이란 무엇인가요?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>연령제한이란 18세 미만자의 열람이 부적합한 작품을 pixiv에 투고할 경우 열람하는 유저의 연령에 따라 작품의 열람 여부를 적절히 제한하는 기능입니다.</p>
+<p>18세 미만이신 분이 열람하기에 부적절한 작품을 투고할 때는 아래의 조건을 만족시켜야 합니다.</p>
+<p>・본인이 18세 이상일 것<br>・이용 계정의 열람 제한 설정에서 열람 제한 작품(R-18) 또는 그로테스크한 작품(R-18G)을 ‘보기’로 설정해 놓을 것</p>
+<p>※열람 설정을 변경하려면 생년월일을 설정하셔야 합니다.</p>
+<p>작품을 투고할 때는 아래 항목에서 투고하고 싶은 작품의 정보에 가장 적합한 것을 선택해 주세요.</p>
+<p>■ 전연령<br>・작품을 열람할 때 특별히 연령에 의한 제한을 할 필요가 없는 것</p>
+<p>■ 성적 묘사(소설 작품은 설정할 필요가 없습니다)<br>・연령·성별을 불문하고 성적인 것을 상기시키는 키스·포옹, 속옷의 노출이나 성행위 및 그 전후를 연상시키는 표현·표정, 또는 이를 본뜬 표현을 포함하는 것<br>・가슴·가슴골, 젖꼭지, 엉덩이, 사타구니 등의 강조, 또는 그러한 노출이 아슬아슬한 표현이나 구도<br>・극단적으로 면적이 적은 의복이나 수영복을 입은 인물에 대한 묘사나, 노출도가 매우 높은 인물 묘사, 시스루 옷을 입은 인물 묘사, 또는 확실히 나체로 보이는 인물 묘사 등</p>
+<p>■ R-18(성적인 표현)<br>・성에 관련된 것, 혹은 성을 표현하며, 성기의 결합·접합, 혹은 성행위를 상기시키는 것을 표현한 것</p>
+<p>■ R-18G(그로테스크한 표현)<br>・폭력적인 장면이나 사상, 모방적 표현이라도 위험성이 높거나 자극성이 강한 것</p>
+<p><br>‘R-18’ 또는 ‘R-18G’를 설정한 작품을 아래의 유저는 열람할 수 없습니다.</p>
+<p>・18세 미만의 유저<br>・계정의 연령 제한 설정에서 연령 제한 작품(R-18)또는 그로테스크한 작품(R-18G)을 ‘숨기기’로 설정하고 있는 유저</p>
+<p>작품에 ‘R-18’ 태그나 ‘R-18G’ 태그를 다는 것만으로는 연령 제한이 설정되지 않아, 적절한 열람 제한을 할 수 없습니다. 반드시 연령 제한을 설정해 주세요.</p>
+<p>그리고, 가이드라인에 따라 모자이크가 필요한 표현을 포함하는 경우 반드시 모자이크 처리를 해주시기 바랍니다.</p>
+<p>pixiv에서 필요한 모자이크 처리가 되어 있지 않다고 판단했을 경우, 계정 정지 등의 조치를 취할 수 있습니다.</p>
+<p>&nbsp;</p>
+<h4>소설 시리즈의 연령 제한에 대하여</h4>
+<p>소설 시리즈의 연령 제한에서는 시리즈에 소속되는 작품의 연령 제한에 따라, 선택 가능한 항목이 제한됩니다.</p>
+<p>■R-18 작품이 포함된 경우</p>
+<p>・소설 시리즈의 연령 제한에서 ‘전연령’을 선택할 수 없습니다.</p>
+<p>■R-18G 작품이 포함된 경우<br>・소설 시리즈의 연령 제한에서 ‘전연령’, ‘R-18’을 선택할 수 없습니다.</p>
+<p>&nbsp;</p>
+<p>선택이 불가능한 연령 제한을 설정에 반영하시려면 ‘R-18’, ‘R-18G’ 작품을 시리즈에서 제외해 주세요.</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80+%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646007-%25EC%2597%25B0%25EB%25A0%25B9%25EC%25A0%259C%25ED%2595%259C%25EC%259D%25B4%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B8%25EA%25B0%2580%25EC%259A%2594-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80+%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646007-%25EC%2597%25B0%25EB%25A0%25B9%25EC%25A0%259C%25ED%2595%259C%25EC%259D%25B4%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B8%25EA%25B0%2580%25EC%259A%2594-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80+%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F235646007-%25EC%2597%25B0%25EB%25A0%25B9%25EC%25A0%259C%25ED%2595%259C%25EC%259D%25B4%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B8%25EA%25B0%2580%25EC%259A%2594-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="235646007" data-upvote-count="5890" data-vote-count="6220" data-vote-sum="5560" data-vote-url="/hc/ko/articles/235646007/vote" data-value="null" data-label="6220명 중 5890명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="235646007" data-upvote-count="5890" data-vote-count="6220" data-vote-sum="5560" data-vote-url="/hc/ko/articles/235646007/vote" data-value="null" data-label="6220명 중 5890명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="235646007" data-upvote-count="5890" data-vote-count="6220" data-vote-sum="5560" data-vote-url="/hc/ko/articles/235646007/vote" data-value="null" data-label="6220명 중 5890명이 도움이 되었다고 했습니다.">6220명 중 5890명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEqLoKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEN6wLDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB1i9oYy9rby9hcnRpY2xlcy8yMzU1ODQxNjgtJUVDJTg2JThDJUVDJTg0JUE0LSVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5RCU5OC0lRUIlQjMlQjglRUIlQUMlQjgtJUVDJTk1JTg4JUVDJTk3JTkwJUVDJTg0JTlDLSVFQyU4MiVBQyVFQyU5QSVBOS0lRUElQjAlODAlRUIlOEElQTUlRUQlOTUlOUMtJUVEJThBJUI5JUVDJTg4JTk4LSVFRCU4MyU5QyVFQSVCNyVCOCVFQiU5RSU4MC0GOwhUOglyYW5raQY%3D--0cb9e8fee8e9b881aa68528477a100ef069d91c1" rel="nofollow">소설 작품의 본문 안에서 사용 가능한 특수 태그란?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE06sLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEN6wLDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBfC9oYy9rby9hcnRpY2xlcy8yMzU2NDU5MDctUi0xOCVFQyU5RSU5MSVFRCU5MiU4OCVFQyU5RCU4NC0lRUQlODglQUMlRUElQjMlQTAlRUQlOTUlQTAtJUVDJTg4JTk4LSVFQyU5RSU4OCVFQiU4MiU5OCVFQyU5QSU5NC0GOwhUOglyYW5raQc%3D--45b5fc00095045496f5aa2ce7cc88a52f98aac88" rel="nofollow">R-18작품을 투고할 수 있나요?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEF%2BgNDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEN6wLDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSJuL2hjL2tvL2FydGljbGVzLzIzNTc5MjQwNy1waXhpdiVFQiVBNSVCQy0lRUQlODMlODglRUQlODclQjQlRUQlOTUlOTglRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kI--25ab8efc9235c80f43edee246c61a8c1c89a1802" rel="nofollow">pixiv를 탈퇴하고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEiLwKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEN6wLDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBki9oYy9rby9hcnRpY2xlcy8yMzU1ODQ2NDgtJUVDJTg2JThDJUVDJTg0JUE0JUVDJTlEJTk4LSVFRCU4RSU5OCVFQyU5RCVCNCVFQyVBNyU4MCVFQiVBNSVCQy0lRUIlODIlOTglRUIlODglODQlRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kJ--a3c404ccd8843b064ca1b2620e9f78d1d9d9beac" rel="nofollow">소설의 페이지를 나누고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE968LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEN6wLDjoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSJyL2hjL2tvL2FydGljbGVzLzIzNTY0Njk2Ny0lRUIlQjYlODElRUIlQTclODglRUQlODElQUMlRUIlOUUlODAtJUVCJUFDJUI0JUVDJTk3JTg3JUVDJTlEJUI4JUVBJUIwJTgwJUVDJTlBJTk0LQY7CFQ6CXJhbmtpCg%3D%3D--100c4f9e13abd7461984046b581d7eff0f5f4198" rel="nofollow">북마크란 무엇인가요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:STxvG9Yy2H9pMMnxhh8agQl8vbUY5HSBh9nNsPRVcWKorvX8XvB1JOEXGuAmgDrStJdw8Ondh25LQwD8aZ0ltA","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGkEN6wLDjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--60c7bff843eaf137e286335c6a1cbdf6d6c6ac5e","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"235646007","current_record_url":"/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-","current_record_title":"연령제한이란 무엇인가요?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/235646007-%EC%97%B0%EB%A0%B9%EC%A0%9C%ED%95%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e7bb71b44a3ab',m:'FO7L5OOlA.HDRYaMZqwR2Uc6JYlWWM9imA3oOejhElw-1660027047-0-AZC5YOK7wafktN+/KFw6VI9RND0bcfyDJBgQe8morBB15Jsys109nE627oUfk3p7ACUK/z6BexmkTz3/7SmEW8411CGUVdliUIgT/oSVxm9x9EEHux5lC/ThI1iOHUGVwwMZTM+dOnvb9YzG2sLKCdh6iLgVSFXIP71hpCx/Jade2i9MGjEa2tkTOVJNC1Hn0K4awvpBMpsPbVwUTG2dS1IW70vQzNXSS2Z2SpkAz4+CA3+ykrzNpU1kviJ+GQFRRV4t1nNWy3fKfF4czJwqECw=',s:[0x9ea3e5c123,0xb19d0d0a6d],}})();</script></body>
+</html>

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>Examples of prohibited conduct regarding requests &ndash; pixiv Help Center</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:p8xXcaTDVlO0flPwa8t7N2EcWxKudecUWzTuw1TInOBFeeFudUEfsV0ntyuG0s37sQksbCPomFiqM1g-gvp3Ew" />
+
+  <meta name="description" content="In order to keep creative activities enjoyable for both fans and creators, it's possible that pixiv may cancel or block the sending of..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv Help Center" />
+<meta property="og:title" content="Examples of prohibited conduct regarding requests" />
+<meta property="og:description" content="In order to keep creative activities enjoyable for both fans and creators, it's possible that pixiv may cancel or block the sending of requests and/or fan letters, depending on their content.
+We ap..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests" />
+<link rel="canonical" href="https://www.pixiv.help/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/900003012323-%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E4%BB%A3%E8%A1%A8%E7%9A%84%E3%81%AA%E7%A6%81%E6%AD%A2%E8%A1%8C%E7%82%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/900003012323-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8%EC%97%90-%EA%B4%80%ED%95%9C-%EB%8C%80%ED%91%9C%EC%A0%81%EC%9D%B8-%EA%B8%88%EC%A7%80%ED%96%89%EC%9C%84%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/900003012323-%E5%85%B3%E4%BA%8E%E7%BA%A6%E7%A8%BF%E4%B8%AD%E5%85%B7%E6%9C%89%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E7%A6%81%E6%AD%A2%E4%BA%8B%E9%A1%B9" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/900003012323-%E9%97%9C%E6%96%BC%E7%B4%84%E7%A8%BF%E4%B8%AD%E5%8C%85%E5%90%AB%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E7%A6%81%E6%AD%A2%E4%BA%8B%E9%A0%85" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="Home" href="/hc/en-us">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="Logo">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">Contact Us</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">English (US)</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F900003012323-%25E3%2583%25AA%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%2596%25A2%25E3%2581%2599%25E3%2582%258B%25E4%25BB%25A3%25E8%25A1%25A8%25E7%259A%2584%25E3%2581%25AA%25E7%25A6%2581%25E6%25AD%25A2%25E8%25A1%258C%25E7%2582%25BA%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F900003012323-%25EB%25A6%25AC%25ED%2580%2598%25EC%258A%25A4%25ED%258A%25B8%25EC%2597%2590-%25EA%25B4%2580%25ED%2595%259C-%25EB%258C%2580%25ED%2591%259C%25EC%25A0%2581%25EC%259D%25B8-%25EA%25B8%2588%25EC%25A7%2580%25ED%2596%2589%25EC%259C%2584%25EC%2597%2590-%25EB%258C%2580%25ED%2595%2598%25EC%2597%25AC" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F900003012323-%25E5%2585%25B3%25E4%25BA%258E%25E7%25BA%25A6%25E7%25A8%25BF%25E4%25B8%25AD%25E5%2585%25B7%25E6%259C%2589%25E4%25BB%25A3%25E8%25A1%25A8%25E6%2580%25A7%25E7%259A%2584%25E7%25A6%2581%25E6%25AD%25A2%25E4%25BA%258B%25E9%25A1%25B9" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F900003012323-%25E9%2597%259C%25E6%2596%25BC%25E7%25B4%2584%25E7%25A8%25BF%25E4%25B8%25AD%25E5%258C%2585%25E5%2590%25AB%25E4%25BB%25A3%25E8%25A1%25A8%25E6%2580%25A7%25E7%259A%2584%25E7%25A6%2581%25E6%25AD%25A2%25E4%25BA%258B%25E9%25A0%2585" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">Back to pixiv.net</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv Help Center">
+      
+        <a href="/hc/en-us">pixiv Help Center</a>
+      
+    </li>
+  
+    <li title="About the Requests feature">
+      
+        <a href="/hc/en-us/categories/900000133123-About-the-Requests-feature">About the Requests feature</a>
+      
+    </li>
+  
+    <li title="About the Requests feature">
+      
+        <a href="/hc/en-us/sections/900000308706-About-the-Requests-feature">About the Requests feature</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000133123" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">Articles in this section</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/en-us/articles/4402730619033-How-do-I-manage-requests-" class="sidenav-item ">How do I manage requests?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002679206-Request-flow" class="sidenav-item ">Request flow</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900004161046-The-process-for-resending-requests" class="sidenav-item ">The process for resending requests</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002307686-What-is-the-Requests-feature-" class="sidenav-item ">What is the Requests feature?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002292803-Can-anyone-accept-requests-" class="sidenav-item ">Can anyone accept requests?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002293063-How-to-use-the-Requests-feature-for-creators-" class="sidenav-item ">How to use the Requests feature (for creators)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002308026-How-to-use-the-Requests-feature-for-fans-" class="sidenav-item ">How to use the Requests feature (for fans)</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002293203-What-is-the-maximum-and-minimum-price-I-can-set-for-my-request-terms-" class="sidenav-item ">What is the maximum and minimum price I can set for my request terms?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002949426-The-maximum-price-I-can-set-for-requests-and-request-terms-has-changed-why-" class="sidenav-item ">The maximum price I can set for requests and request terms has changed, why?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002308106-What-are-public-and-private-requests-" class="sidenav-item ">What are public and private requests?</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/en-us/sections/900000308706-About-the-Requests-feature" class="article-sidebar-item">See more</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="Examples of prohibited conduct regarding requests" class="article-title">
+          Examples of prohibited conduct regarding requests
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>In order to keep creative activities enjoyable for both fans and creators, it's possible that pixiv may cancel or block the sending of requests and/or fan letters, depending on their content.</p>
+<p>We apologize for the inconvenience but please thoroughly review the content of your requests and fan letters before sending them.</p>
+<h3><span><br><strong>Examples of prohibited conduct that may result in the cancelation of the request</strong></span></h3>
+<ul>
+<li><span>The content of the request results obscure to a third party.<br>If the content of a request cannot be made out from the submitted text (e.g. "AAAAAAAAA", "About that thing we discussed", "I'll send you the details via DM"), the transaction will be considered as a personal money transfer and the request may be canceled.<br><br>Although the Requests Guidelines prohibit any prior consultation regarding the request, please transcribe all the details of the request even if they have already been discussed.<br><br>However, rest assured that the request will not be canceled if the text is short but understandable by a third party or if the content is intentionally obscure because it leaves a certain degree of freedom to the creator.<br><br></span></li>
+<li><span>Sending requests to yourself<br>Please note that sending requests to yourself by using multiple accounts or otherwise abusing the Requests feature for the purpose of fraudulent payments or money laundering may result in the cancellation of the request or suspension of your account.<br><br></span></li>
+<li><span>Inappropriate age restriction settings<br>Requests that are substantially R-18 or R-18G in nature but do not have R-18 or R-18G checked may be canceled.<br><br>Please be sure to check the R-18 or R-18G box when requesting R-18 or R-18G content. However, please note that you may not be able to send R-18 or R-18 requests depending on your region and viewing settings. Thank you for your understanding.</span></li>
+</ul>
+<h3><strong>Examples of fan letters blocked on account of containing prohibited conduct:</strong></h3>
+<ul>
+<li>Actions that cause intentional harm, in forms like slander, threats, financial damage, or otherwise mental and emotional<br><br></li>
+<li>Demands for a posted request or gift file to be redone, amended, or supplemented<br>(Creators who receive such messages are under no obligation to respond or meet the demands.)<br><br></li>
+<li>Anything else that infringes on the Terms of Use or Guidelines</li>
+</ul>
+<p>Fan letters that have been blocked and are undelivered to the creator cannot be resent.</p>
+<p>&nbsp;</p>
+<h3><strong>Examples of co-request messages blocked on account of containing prohibited conduct:</strong></h3>
+<ul>
+<li>Actions that could cause intentional harm, in forms like slander, threats, financial damage, or otherwise mental and emotional to the creator and/or other fans<br><br></li>
+<li>Demands for a posted request or gift file to be redone, amended, or supplemented <br>(Creators who receive such messages are under no obligation to respond or meet the demands.)<br><br></li>
+<li>Anything else that infringes on the Terms of Use or Guidelines</li>
+</ul>
+<p>Co-request messages containing prohibited conduct will be made private and/or the co-request will be blocked.<br>When a co-request is blocked, the co-request amount is returned to the person who sent the co-request.<br>Fans with blocked co-requests will become the same as third parties, and their co-request will no longer be displayed on their Requests page. Their refund history will be on the Manage Payments page.<br>Additionally, they will be unable to send the same co-request again.</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=Examples+of+prohibited+conduct+regarding+requests&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F900003012323-Examples-of-prohibited-conduct-regarding-requests" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=en&text=Examples+of+prohibited+conduct+regarding+requests&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F900003012323-Examples-of-prohibited-conduct-regarding-requests" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=Examples+of+prohibited+conduct+regarding+requests&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F900003012323-Examples-of-prohibited-conduct-regarding-requests" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">Was this article helpful?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="900003012323" data-upvote-count="263" data-vote-count="300" data-vote-sum="226" data-vote-url="/hc/en-us/articles/900003012323/vote" data-value="null" data-label="263 out of 300 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="900003012323" data-upvote-count="263" data-vote-count="300" data-vote-sum="226" data-vote-url="/hc/en-us/articles/900003012323/vote" data-value="null" data-label="263 out of 300 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="900003012323" data-upvote-count="263" data-vote-count="300" data-vote-sum="226" data-vote-url="/hc/en-us/articles/900003012323/vote" data-value="null" data-label="263 out of 300 found this helpful">263 out of 300 found this helpful</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">Return to top<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Related articles</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCKYJV4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOMeXIzRADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIxL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMjY3OTIwNi1SZXF1ZXN0LWZsb3cGOwhUOglyYW5raQY%3D--2ba24c65e9b820e325edc60cafbf63ef0a3e8cd7" rel="nofollow">Request flow</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCA8mUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOMeXIzRADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIBiy9oYy9lbi11cy9hcnRpY2xlcy85MDAwMDIyOTMyNjMtSS1kLWxpa2UtdG8taGF2ZS1hbi1pbi1kZXB0aC1kaXNjdXNzaW9uLWFib3V0LWEtcmVxdWVzdC1DYW4tSS11c2UtdGhlLXBpeGl2LU1lc3NhZ2UtZmVhdHVyZS10by1jb21tdW5pY2F0ZS0GOwhUOglyYW5raQc%3D--4f228349bcfd68ae6749d40e70b0e6321a0ef9fd" rel="nofollow">I&#39;d like to have an in-depth discussion about a request. Can I use the pixiv Message feature to communicate?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCOvqbozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOMeXIzRADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI%2FL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwNDI0NDIwMy1XaGVuLXdpbGwtSS1nZXQtbXktcmVmdW5kLQY7CFQ6CXJhbmtpCA%3D%3D--136ebf45a4593fe9bdfef9fd1af036b0cf636267" rel="nofollow">When will I get my refund?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJYuR4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOMeXIzRADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJLL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMTY0MDA4Ni1Ib3ctZG8tSS1zZXQtYS1yZWFsaXN0aWMtdGFyZ2V0LXByaWNlLQY7CFQ6CXJhbmtpCQ%3D%3D--359bb402bd933ff12a538341f6e06f9206679130" rel="nofollow">How do I set a realistic target price?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCE57W4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCOMeXIzRADoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJbL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMjk3MDQ0Ni1Ib3ctZG8tSS1oaWRlLXRoZS1wcmljZS1vZi1hLXJlcXVlc3QtZnJvbS1vdGhlci11c2Vycy0GOwhUOglyYW5raQo%3D--39ac97b1f52de9653009afd52f1ef1869c5903e2" rel="nofollow">How do I hide the price of a request from other users?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>Please contact us if you do not solve problem</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">Contact Us</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>Services</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv Comic</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv Novel</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv Encyclopedia</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv Premium</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>About pixiv</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">Terms of Use</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">Guideline</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">Privacy Policy</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">Advertise on pixiv</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">Contact us</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Info</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">Info</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Company Info</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">About pixiv Inc.</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">Careers</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.f4ae3571388f5dcd34cd.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests" data-theme="hc" data-locale="en-us" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:STWwXPWKJH_UNvQ3mWCgs6wa_Y2ht1eLX0gzAbzuZp-rgAZDJAhtnT1vEOx0eRZ_fA-K8ywqKMeuT4X8atyNbA","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCOMeXIzRADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZU--123cf74bfb358a5ad033c5810b31e7f46442c43f","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"900003012323","current_record_url":"/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests","current_record_title":"Examples of prohibited conduct regarding requests","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/en-us/articles/900003012323-Examples-of-prohibited-conduct-regarding-requests","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/en-us","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=en-us","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e96edcdf16b68',m:'.oQq7JB1WlbS5Tia2FwH8Rmm4Gu5Zk8.c6NIDLCxGWw-1660028162-0-AXrNUqgZPoaFUxHedm/OG3EbeON9lubPl7R0OuIpHTJ7+dspGmMAtYXJCFfHN077ATKeghOVsYk3oDkuIfkDNyuCTaOhqPKwl2W0jIOlE0kqq/seoDf9Bb+UQmIbkpJGhxlGEPwRXjPZucaZxLJX73aiZFDfrpIb7ED3yB8x87V7DwBsxXXB0BB1ms1Kj6mJFKB8FI3fT6A3YDXU6WswAtuqBVnEVxw/mlikNwBLal9K',s:[0x58830b81a9,0xd13088ac45],}})();</script></body>
+</html>

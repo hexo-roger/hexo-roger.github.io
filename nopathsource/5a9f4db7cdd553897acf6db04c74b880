@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>我解约了用于支付pixiv高级会员的付款工具 &ndash; pixiv 帮助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:Pqx9mZVYctRhcVJ6qh1k616N-M_Yttc94O9cjoQWAQJ1mOSg_FQqdpc8n0B3BOEBx8aHv7mzmATBTntmwvJqHw" />
+
+  <meta name="description" content="若正在使用信用卡支付若是不小心删除或解约了绑定的信用卡，只需在pixiv高级会员下一个更新日的一天前，于高级会员注册信息确认页面内重新绑定一张有效的信用卡，即可继续享用高级会员资格。若未能在pixiv高级会员下一个更新日的一天前重新绑定一张有效的信用卡，高级会员资格即会自动..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 帮助" />
+<meta property="og:title" content="我解约了用于支付pixiv高级会员的付款工具" />
+<meta property="og:description" content="若正在使用信用卡支付若是不小心删除或解约了绑定的信用卡，只需在pixiv高级会员下一个更新日的一天前，于高级会员注册信息确认页面内重新绑定一张有效的信用卡，即可继续享用高级会员资格。若未能在pixiv高级会员下一个更新日的一天前重新绑定一张有效的信用卡，高级会员资格即会自动解除。
+
+
+若正在使用PayPal、Google Play、App Store支付若是不小心解约了绑定的PayPal、G..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/zh-cn/articles/360010820993" />
+<link rel="canonical" href="https://www.pixiv.help/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/360010820993-The-payment-method-I-m-using-for-pixiv-Premium-has-expired" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/360010820993-pixiv%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%81%AE%E6%94%AF%E6%89%95%E3%81%84%E3%81%AB%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%B1%BA%E6%B8%88%E6%89%8B%E6%AE%B5%E3%82%92%E8%A7%A3%E7%B4%84%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/360010820993-pixiv%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%9D%98-%EC%A7%80%EB%B6%88%EC%97%90-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%B0%EC%A0%9C%EC%88%98%EB%8B%A8%EC%9D%84-%EC%8B%A4%EC%88%98%EB%A1%9C-%ED%95%B4%EC%95%BD%ED%96%88%EC%96%B4%EC%9A%94" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/360010820993-%E6%88%91%E8%A7%A3%E7%B4%84%E4%BA%86%E7%94%A8%E6%96%BC%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%B4%9A%E6%9C%83%E5%93%A1%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主页" href="/hc/zh-cn">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="徽标">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">帮助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">简体中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360010820993-The-payment-method-I-m-using-for-pixiv-Premium-has-expired" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F360010820993-pixiv%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E6%2594%25AF%25E6%2589%2595%25E3%2581%2584%25E3%2581%25AB%25E5%2588%25A9%25E7%2594%25A8%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E6%25B1%25BA%25E6%25B8%2588%25E6%2589%258B%25E6%25AE%25B5%25E3%2582%2592%25E8%25A7%25A3%25E7%25B4%2584%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F360010820993-pixiv%25ED%2594%2584%25EB%25A6%25AC%25EB%25AF%25B8%25EC%2597%2584%25EC%259D%2598-%25EC%25A7%2580%25EB%25B6%2588%25EC%2597%2590-%25EC%2582%25AC%25EC%259A%25A9%25ED%2595%2598%25EB%258A%2594-%25EA%25B2%25B0%25EC%25A0%259C%25EC%2588%2598%25EB%258B%25A8%25EC%259D%2584-%25EC%258B%25A4%25EC%2588%2598%25EB%25A1%259C-%25ED%2595%25B4%25EC%2595%25BD%25ED%2596%2588%25EC%2596%25B4%25EC%259A%2594" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F360010820993-%25E6%2588%2591%25E8%25A7%25A3%25E7%25B4%2584%25E4%25BA%2586%25E7%2594%25A8%25E6%2596%25BC%25E6%2594%25AF%25E4%25BB%2598pixiv%25E9%25AB%2598%25E7%25B4%259A%25E6%259C%2583%25E5%2593%25A1%25E7%259A%2584%25E4%25BB%2598%25E6%25AC%25BE%25E5%25B7%25A5%25E5%2585%25B7" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 帮助">
+      
+        <a href="/hc/zh-cn">pixiv 帮助</a>
+      
+    </li>
+  
+    <li title="关于pixiv高级会员">
+      
+        <a href="/hc/zh-cn/categories/360001064034-%E5%85%B3%E4%BA%8Epixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98">关于pixiv高级会员</a>
+      
+    </li>
+  
+    <li title="疑难排解">
+      
+        <a href="/hc/zh-cn/sections/360002419294-%E7%96%91%E9%9A%BE%E6%8E%92%E8%A7%A3">疑难排解</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064034" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/235727568-%E5%BF%98%E8%AE%B0%E4%BA%86%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E8%B4%A6%E5%8F%B7%E6%80%8E%E4%B9%88%E5%8A%9E-" class="sidenav-item ">忘记了高级会员账号怎么办？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/235644927-%E6%98%8E%E6%98%8E%E8%A7%A3%E9%99%A4%E4%BA%86pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98-%E4%BB%8D%E8%A2%AB%E6%89%A3%E6%AC%BE%E4%BA%86" class="sidenav-item ">明明解除了pixiv高级会员，仍被扣款了</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/235583708-%E6%98%8E%E6%98%8E%E5%AE%8C%E6%88%90%E4%BA%86%E6%94%AF%E4%BB%98%E6%89%8B%E7%BB%AD-%E5%8D%B4%E6%9C%AA%E6%88%90%E4%B8%BA%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98" class="sidenav-item ">明明完成了支付手续，却未成为高级会员</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360010745333-%E6%88%91%E4%BD%BF%E7%94%A8iOSAPP%E6%94%AF%E4%BB%98%E4%BA%86%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98-%E5%8F%AF%E6%98%AF%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E4%BC%9A%E5%91%98%E5%8A%9F%E8%83%BD" class="sidenav-item ">我使用iOSAPP支付了高级会员，可是无法使用会员功能</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/231827788-%E5%A6%82%E6%9E%9C%E6%83%B3%E5%8F%98%E6%9B%B4pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E6%94%AF%E4%BB%98%E6%96%B9%E5%BC%8F" class="sidenav-item ">如果想变更pixiv高级会员的支付方式</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/115003607648-%E5%A6%82%E6%9E%9C%E6%83%B3%E8%A6%81%E5%8F%98%E6%9B%B4pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%BB%91%E5%AE%9A%E7%9A%84%E4%BF%A1%E7%94%A8%E5%8D%A1" class="sidenav-item ">如果想要变更pixiv高级会员绑定的信用卡</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7" class="sidenav-item current-article">我解约了用于支付pixiv高级会员的付款工具</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="我解约了用于支付pixiv高级会员的付款工具" class="article-title">
+          我解约了用于支付pixiv高级会员的付款工具
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><ul>
+<li><strong>若正在使用信用卡支付<br></strong>若是不小心删除或解约了绑定的信用卡，只需在pixiv高级会员下一个更新日的一天前，于<a href="https://www.pixiv.net/premium/edit/" target="_blank" rel="noopener">高级会员注册信息确认页面</a><span>内重新绑定一张有效的信用卡，即可继续享用高级会员资格。<br><br></span>若未能在pixiv高级会员下一个更新日的一天前重新绑定一张有效的信用卡，高级会员资格即会自动解除。<br><br><br></li>
+<li><strong>若正在使用PayPal、Google Play、App Store支付<br></strong>若是不小心解约了绑定的PayPal、Google Play、App Store账号，pixiv高级会员资格将会在下一个更新日因无法完成支付而自动解除。<br><br>若希望继续享用高级会员资格，还请于高级会员资格解除后，选择其他支付方式重新注册。</li>
+</ul></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F360010820993-%25E6%2588%2591%25E8%25A7%25A3%25E7%25BA%25A6%25E4%25BA%2586%25E7%2594%25A8%25E4%25BA%258E%25E6%2594%25AF%25E4%25BB%2598pixiv%25E9%25AB%2598%25E7%25BA%25A7%25E4%25BC%259A%25E5%2591%2598%25E7%259A%2584%25E4%25BB%2598%25E6%25AC%25BE%25E5%25B7%25A5%25E5%2585%25B7" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F360010820993-%25E6%2588%2591%25E8%25A7%25A3%25E7%25BA%25A6%25E4%25BA%2586%25E7%2594%25A8%25E4%25BA%258E%25E6%2594%25AF%25E4%25BB%2598pixiv%25E9%25AB%2598%25E7%25BA%25A7%25E4%25BC%259A%25E5%2591%2598%25E7%259A%2584%25E4%25BB%2598%25E6%25AC%25BE%25E5%25B7%25A5%25E5%2585%25B7" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F360010820993-%25E6%2588%2591%25E8%25A7%25A3%25E7%25BA%25A6%25E4%25BA%2586%25E7%2594%25A8%25E4%25BA%258E%25E6%2594%25AF%25E4%25BB%2598pixiv%25E9%25AB%2598%25E7%25BA%25A7%25E4%25BC%259A%25E5%2591%2598%25E7%259A%2584%25E4%25BB%2598%25E6%25AC%25BE%25E5%25B7%25A5%25E5%2585%25B7" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360010820993" data-upvote-count="30" data-vote-count="53" data-vote-sum="7" data-vote-url="/hc/zh-cn/articles/360010820993/vote" data-value="null" data-label="53 人中有 30 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="是" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360010820993" data-upvote-count="30" data-vote-count="53" data-vote-sum="7" data-vote-url="/hc/zh-cn/articles/360010820993/vote" data-value="null" data-label="53 人中有 30 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="否" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360010820993" data-upvote-count="30" data-vote-count="53" data-vote-sum="7" data-vote-url="/hc/zh-cn/articles/360010820993/vote" data-value="null" data-label="53 人中有 30 人觉得有帮助">53 人中有 30 人觉得有帮助</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGDKv8YaADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCIEtUdJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBtS9oYy96aC1jbi9hcnRpY2xlcy8xMTUwMDM2MDc2NDgtJUU1JUE2JTgyJUU2JTlFJTlDJUU2JTgzJUIzJUU4JUE2JTgxJUU1JThGJTk4JUU2JTlCJUI0cGl4aXYlRTklQUIlOTglRTclQkElQTclRTQlQkMlOUElRTUlOTElOTglRTclQkIlOTElRTUlQUUlOUElRTclOUElODQlRTQlQkYlQTElRTclOTQlQTglRTUlOEQlQTEGOwhUOglyYW5raQY%3D--9debe9c25211f98f58ce1c79076c32c1b2b17d94" rel="nofollow">如果想要变更pixiv高级会员绑定的信用卡</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkETGnRDToYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCIEtUdJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoC9oYy96aC1jbi9hcnRpY2xlcy8yMzE4Mjc3ODgtJUU1JUE2JTgyJUU2JTlFJTlDJUU2JTgzJUIzJUU1JThGJTk4JUU2JTlCJUI0cGl4aXYlRTklQUIlOTglRTclQkElQTclRTQlQkMlOUElRTUlOTElOTglRTclOUElODQlRTYlOTQlQUYlRTQlQkIlOTglRTYlOTYlQjklRTUlQkMlOEYGOwhUOglyYW5raQc%3D--d127584887bb6f79320339e1529715106322ed62" rel="nofollow">如果想变更pixiv高级会员的支付方式</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE%2F6cLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCIEtUdJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBoS9oYy96aC1jbi9hcnRpY2xlcy8yMzU2NDQ5MjctJUU2JTk4JThFJUU2JTk4JThFJUU4JUE3JUEzJUU5JTk5JUE0JUU0JUJBJTg2cGl4aXYlRTklQUIlOTglRTclQkElQTclRTQlQkMlOUElRTUlOTElOTgtJUU0JUJCJThEJUU4JUEyJUFCJUU2JTg5JUEzJUU2JUFDJUJFJUU0JUJBJTg2BjsIVDoJcmFua2kI--71d047342e62333058ce3513baa20dd1d77a0df3" rel="nofollow">明明解除了pixiv高级会员，仍被扣款了</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEJ6gLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCIEtUdJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJwL2hjL3poLWNuL2FydGljbGVzLzIzNTY0NDk2Ny0lRTUlQTYlODIlRTQlQkQlOTUlRTglQTclQTMlRTklOTklQTRwaXhpdiVFOSVBQiU5OCVFNyVCQSVBNyVFNCVCQyU5QSVFNSU5MSU5OC0GOwhUOglyYW5raQk%3D--b26d58cb71accbc7e6cf3e7837a894034847bd05" rel="nofollow">如何解除pixiv高级会员？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCVmFdJTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCIEtUdJTADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBjC9oYy96aC1jbi9hcnRpY2xlcy8zNjAwMDY5MDMzMzMtJUU1JUE2JTgyJUU0JUJEJTk1JUU2JTlCJUI0JUU2JTk0JUI5JUU2JTg4JTk2JUU1JTg4JUEwJUU5JTk5JUE0JUU0JUJGJUExJUU3JTk0JUE4JUU1JThEJUExJUU0JUJGJUExJUU2JTgxJUFGBjsIVDoJcmFua2kK--fecafd7ead17ad42030682929eacf3fdcea31508" rel="nofollow">如何更改或删除信用卡信息</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>如果仍无法解决，请您联系我们。</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">帮助中心</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服务</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫画</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小说</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全书</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高级会员</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>关于使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">使用条款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">本站方针</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">隐私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">刊登广告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">联系我们</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">运营公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.19d44ffc81c4de10f643.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7" data-theme="hc" data-locale="zh-cn" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:1dxIRE5jbI_v8deiyxpkJfB7k_EJMUU4L9ecA8-FEW-e6NF9J280LRm8GpgWA-HPaTDsgWg0CgEOdrvriWF6cg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCIEtUdJTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKemgtY24GOwZU--b85f69f9b94f5dba3004657edffd39989ac9d860","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"360010820993","current_record_url":"/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7","current_record_title":"我解约了用于支付pixiv高级会员的付款工具","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/zh-cn/articles/360010820993-%E6%88%91%E8%A7%A3%E7%BA%A6%E4%BA%86%E7%94%A8%E4%BA%8E%E6%94%AF%E4%BB%98pixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98%E7%9A%84%E4%BB%98%E6%AC%BE%E5%B7%A5%E5%85%B7","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-cn","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e74e8d843a9b5',m:'lF.Czu_HIS8H5LOk9_W7NRN9hkUrA6Y.ZgKYnU2xPwg-1660026769-0-AaUbPO+2vCHrC7wMGUaZ343eh+uPf4maRuKMlPQydFs93ggO6AISX6yh2KcPEWTG0uesRwX7BO5GXq1Uv6HBs6iZUDr7dCMzQu1VG/Bnh2qJrvKGmtgusrHU0nsyFUoWjkDcnGPx9xmiR4oe3EP5W/Lx2cdGUVs9saG/u98aIRJaWqlrvYRE2DFIa7z7SULF5+Z7+8JcHWqmoIW1i0jcl3LX9RYdN2OMbH+iXT6Yun02x/GR4kKb8TwlLQV770q94+DqNENkjgwqxuRzBQfmT0PB51wrqH/Anw30Pxii5vd+yVBtxG+ERkTlRuBE2UNdIYOcChleFnXHmVDz+nLFTrPd8zX9JJvBB8wA3jpEDnnK',s:[0xff92aded27,0xadf781ddf7],}})();</script></body>
+</html>

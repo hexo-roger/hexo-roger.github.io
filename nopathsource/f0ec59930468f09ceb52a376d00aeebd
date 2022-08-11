@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>约稿功能的使用方法（粉丝） &ndash; pixiv 帮助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:LL1gPkuPk3_O_z7SZIDAAYiOqLN7iNfJEkomOHt2bzZjSO-1wzpbcngQ9btsxFnO-AUKX1RxDQZNaazHboRBkg" />
+
+  <meta name="description" content="用户可为「接稿中」状态的创作者发送约稿申请，发送时需决定约稿内容及金额。在收到申请的创作者确认接受约稿时，相关支付手续才会被确定。在创作者制作作品时，款项会先由pixiv暂时保管，待约稿作品被投稿后才会汇款给创作者。" /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 帮助" />
+<meta property="og:title" content="约稿功能的使用方法（粉丝）" />
+<meta property="og:description" content="用户可为「接稿中」状态的创作者发送约稿申请，发送时需决定约稿内容及金额。在收到申请的创作者确认接受约稿时，相关支付手续才会被确定。在创作者制作作品时，款项会先由pixiv暂时保管，待约稿作品被投稿后才会汇款给创作者。" />
+<meta property="og:url" content="https://www.pixiv.help/hc/zh-cn/articles/900002308026" />
+<link rel="canonical" href="https://www.pixiv.help/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/900002308026-How-to-use-the-Requests-feature-for-fans-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/900002308026-%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E6%A9%9F%E8%83%BD%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-%E3%83%95%E3%82%A1%E3%83%B3-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/900002308026-%EB%A6%AC%ED%80%98%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%8C%AC-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/900002308026-%E7%B4%84%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E7%B5%B2-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主页" href="/hc/zh-cn">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="徽标">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">帮助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">简体中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F900002308026-How-to-use-the-Requests-feature-for-fans-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F900002308026-%25E3%2583%25AA%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2588%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9-%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F900002308026-%25EB%25A6%25AC%25ED%2580%2598%25EC%258A%25A4%25ED%258A%25B8-%25EA%25B8%25B0%25EB%258A%25A5-%25EC%2582%25AC%25EC%259A%25A9%25EB%25B2%2595-%25ED%258C%25AC-" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F900002308026-%25E7%25B4%2584%25E7%25A8%25BF%25E5%258A%259F%25E8%2583%25BD%25E7%259A%2584%25E4%25BD%25BF%25E7%2594%25A8%25E6%2596%25B9%25E6%25B3%2595-%25E7%25B2%2589%25E7%25B5%25B2-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 帮助">
+      
+        <a href="/hc/zh-cn">pixiv 帮助</a>
+      
+    </li>
+  
+    <li title="关于约稿功能">
+      
+        <a href="/hc/zh-cn/categories/900000133123-%E5%85%B3%E4%BA%8E%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD">关于约稿功能</a>
+      
+    </li>
+  
+    <li title="关于约稿功能">
+      
+        <a href="/hc/zh-cn/sections/900000308706-%E5%85%B3%E4%BA%8E%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD">关于约稿功能</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000133123" />
+<input type="search" name="query" id="query" placeholder="搜索" aria-label="搜索" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此组别内的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/4402730619033-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%A6%E7%A8%BF%E7%AE%A1%E7%90%86-" class="sidenav-item ">什么是约稿管理？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002679206-%E7%BA%A6%E7%A8%BF%E7%9A%84%E6%B5%81%E7%A8%8B" class="sidenav-item ">约稿的流程</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900004161046-%E6%97%A7%E7%A8%BF%E5%86%8D%E7%BA%A6%E7%9A%84%E6%B5%81%E7%A8%8B" class="sidenav-item ">旧稿再约的流程</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002307686-%E4%BB%80%E4%B9%88%E6%98%AF%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD-" class="sidenav-item ">什么是约稿功能？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002292803-%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%90%97-" class="sidenav-item ">任何人都可以使用吗？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002293063-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E5%88%9B%E4%BD%9C%E8%80%85-" class="sidenav-item ">约稿功能的使用方法（创作者）</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-" class="sidenav-item current-article">约稿功能的使用方法（粉丝）</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002293203-%E6%96%B9%E6%A1%88%E4%B8%AD%E5%8F%AF%E5%88%B6%E5%AE%9A%E9%87%91%E9%A2%9D%E7%9A%84%E4%B8%8A%E9%99%90%E4%B8%8E%E4%B8%8B%E9%99%90%E5%88%86%E5%88%AB%E6%98%AF%E5%A4%9A%E5%B0%91-" class="sidenav-item ">方案中可制定金额的上限与下限分别是多少？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002949426-%E6%96%B9%E6%A1%88%E6%88%96%E6%98%AF%E7%BA%A6%E7%A8%BF%E7%9A%84%E4%B8%8A%E9%99%90%E9%87%91%E9%A2%9D%E5%8F%91%E7%94%9F%E4%BA%86%E5%8F%98%E5%8C%96-%E6%98%AF%E6%BB%A1%E8%B6%B3%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%89%8D%E4%BC%9A%E5%8F%98%E5%8C%96-" class="sidenav-item ">方案或是约稿的上限金额发生了变化，是满足了怎样的条件才会变化？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-cn/articles/900002308106-%E7%BA%A6%E7%A8%BF%E7%9A%84%E5%85%AC%E5%BC%80-%E4%B8%8D%E5%85%AC%E5%BC%80%E5%88%86%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88-" class="sidenav-item ">约稿的公开・不公开分别是什么？</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/zh-cn/sections/900000308706-%E5%85%B3%E4%BA%8E%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD" class="article-sidebar-item">查看更多</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="约稿功能的使用方法（粉丝）" class="article-title">
+          约稿功能的使用方法（粉丝）
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>用户可为「接稿中」状态的创作者发送约稿申请，发送时需决定约稿内容及金额。<br>在收到申请的创作者确认接受约稿时，相关支付手续才会被确定。<br>在创作者制作作品时，款项会先由pixiv暂时保管，待约稿作品被投稿后才会汇款给创作者。</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%EF%BC%88%E7%B2%89%E4%B8%9D%EF%BC%89&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002308026-%25E7%25BA%25A6%25E7%25A8%25BF%25E5%258A%259F%25E8%2583%25BD%25E7%259A%2584%25E4%25BD%25BF%25E7%2594%25A8%25E6%2596%25B9%25E6%25B3%2595-%25E7%25B2%2589%25E4%25B8%259D-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%EF%BC%88%E7%B2%89%E4%B8%9D%EF%BC%89&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002308026-%25E7%25BA%25A6%25E7%25A8%25BF%25E5%258A%259F%25E8%2583%25BD%25E7%259A%2584%25E4%25BD%25BF%25E7%2594%25A8%25E6%2596%25B9%25E6%25B3%2595-%25E7%25B2%2589%25E4%25B8%259D-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%EF%BC%88%E7%B2%89%E4%B8%9D%EF%BC%89&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-cn%2Farticles%2F900002308026-%25E7%25BA%25A6%25E7%25A8%25BF%25E5%258A%259F%25E8%2583%25BD%25E7%259A%2584%25E4%25BD%25BF%25E7%2594%25A8%25E6%2596%25B9%25E6%25B3%2595-%25E7%25B2%2589%25E4%25B8%259D-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">这篇文章有帮助吗？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="900002308026" data-upvote-count="56" data-vote-count="74" data-vote-sum="38" data-vote-url="/hc/zh-cn/articles/900002308026/vote" data-value="null" data-label="74 人中有 56 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="是" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="900002308026" data-upvote-count="56" data-vote-count="74" data-vote-sum="38" data-vote-url="/hc/zh-cn/articles/900002308026/vote" data-value="null" data-label="74 人中有 56 人觉得有帮助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="否" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="900002308026" data-upvote-count="56" data-vote-count="74" data-vote-sum="38" data-vote-url="/hc/zh-cn/articles/900002308026/vote" data-value="null" data-label="74 人中有 56 人觉得有帮助">74 人中有 56 人觉得有帮助</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">返回页首<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相关文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEpmUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLpfUYzRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBhC9oYy96aC1jbi9hcnRpY2xlcy85MDAwMDIzMDk3MDYtJUU1JThGJUFGJUU0JUJCJUE1JUU0JUJEJUJGJUU3JTk0JUE4JUU0JUJCJTgwJUU0JUI5JTg4JUU2JTk0JUFGJUU0JUJCJTk4JUU2JTk2JUI5JUU1JUJDJThGJUU1JTkxJUEyLQY7CFQ6CXJhbmtpBg%3D%3D--84f00ce603abcf027d9fb2f336535ffd2a9380f3" rel="nofollow">可以使用什么支付方式呢？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCNMlUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLpfUYzRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBzC9oYy96aC1jbi9hcnRpY2xlcy85MDAwMDIyOTMyMDMtJUU2JTk2JUI5JUU2JUExJTg4JUU0JUI4JUFEJUU1JThGJUFGJUU1JTg4JUI2JUU1JUFFJTlBJUU5JTg3JTkxJUU5JUEyJTlEJUU3JTlBJTg0JUU0JUI4JThBJUU5JTk5JTkwJUU0JUI4JThFJUU0JUI4JThCJUU5JTk5JTkwJUU1JTg4JTg2JUU1JTg4JUFCJUU2JTk4JUFGJUU1JUE0JTlBJUU1JUIwJTkxLQY7CFQ6CXJhbmtpBw%3D%3D--5d6ed09de19b65712b9da4a04ea8cc0ee4c5495d" rel="nofollow">方案中可制定金额的上限与下限分别是多少？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEclUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLpfUYzRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBji9oYy96aC1jbi9hcnRpY2xlcy85MDAwMDIyOTMwNjMtJUU3JUJBJUE2JUU3JUE4JUJGJUU1JThBJTlGJUU4JTgzJUJEJUU3JTlBJTg0JUU0JUJEJUJGJUU3JTk0JUE4JUU2JTk2JUI5JUU2JUIzJTk1LSVFNSU4OCU5QiVFNCVCRCU5QyVFOCU4MCU4NS0GOwhUOglyYW5raQg%3D--bef7956b9abae88b497b8871fda559ca940ca6f4" rel="nofollow">约稿功能的使用方法（创作者）</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCApgUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLpfUYzRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSIBly9oYy96aC1jbi9hcnRpY2xlcy85MDAwMDIzMDgxMDYtJUU3JUJBJUE2JUU3JUE4JUJGJUU3JTlBJTg0JUU1JTg1JUFDJUU1JUJDJTgwLSVFNCVCOCU4RCVFNSU4NSVBQyVFNSVCQyU4MCVFNSU4OCU4NiVFNSU4OCVBQiVFNiU5OCVBRiVFNCVCQiU4MCVFNCVCOSU4OC0GOwhUOglyYW5raQk%3D--9cbbac1def68cad2004bded1904e2ddc0a13489d" rel="nofollow">约稿的公开・不公开分别是什么？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-cn/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCGZeUYzRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCLpfUYzRADoLbG9jYWxlSSIKemgtY24GOgZFVDoIdXJsSSJlL2hjL3poLWNuL2FydGljbGVzLzkwMDAwMjMwNzY4Ni0lRTQlQkIlODAlRTQlQjklODglRTYlOTglQUYlRTclQkElQTYlRTclQTglQkYlRTUlOEElOUYlRTglODMlQkQtBjsIVDoJcmFua2kK--7ec49da2d747ded343cff30d0aa6d5bbabcfb638" rel="nofollow">什么是约稿功能？</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>如果仍无法解决，请您联系我们。</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">帮助中心</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服务</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫画</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小说</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全书</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高级会员</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>关于使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">使用条款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">本站方针</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">隐私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">刊登广告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">联系我们</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">运营公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.19d44ffc81c4de10f643.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-" data-theme="hc" data-locale="zh-cn" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:IDn3sV6J0q4aHnwPV8yTy209ECPc1UnjnWndFn5hr81vzHg61jwao6zxt2ZfiAoEHbayz_MskyzCSlfpa5OBaQ","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtY24GOgZFVDoPYXJ0aWNsZV9pZGwrCLpfUYzRADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKemgtY24GOwZU--5b08850c0b32ec4f9ed6009496b1c57c13d67628","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"900002308026","current_record_url":"/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-","current_record_title":"约稿功能的使用方法（粉丝）","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/zh-cn/articles/900002308026-%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E7%B2%89%E4%B8%9D-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-cn","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e96e409cba33d',m:'ICELi3qLSKXY.MwWOu2Vm8EMfjFDOREPXmG1HUQ1bUA-1660028161-0-AepGr7T37CvAyjfUoBkZL08HyA/sE2A1yccUz3J2ksnIMr1PV63r7J4mOK/oobJrCx+J4xl9yK+LAYGV/5dcCAWA+I8DC6A/OT327gA1of981AVGFwty56Suk4s8PUiTsQ+1Lm5gVJ1VanzSYLPhO9g0JZGIUTsMFm/P9sou5wizYlPvdWln6LUsnQtNPqw9kYMZNCEwTRjyEJ638wng+pVLdSY9wdlqqNV87X0JK/Zz34vDGLJvGKViGmkznSDnpb9DkJDJGz5kYnQfm90VbcFHdfvmAuONg0Xvj18YJJqu',s:[0x24151d4b68,0x96979fa160],}})();</script></body>
+</html>

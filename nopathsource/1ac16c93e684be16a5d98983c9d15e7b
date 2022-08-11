@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>What are Polls on works? &ndash; pixiv Help Center</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:t4Nu1I2hi1qaJNzvyPY_S3iN-6G46BZ6fTfCivdffloxzXLUsEd8Rax6OX5N5zIlUUPDW5bTYvx539f3iVmFCw" />
+
+  <meta name="description" content="Polls are a way to set a survey at the time a work is posted.The poll will display under the caption of the work.You can add whatever..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv Help Center" />
+<meta property="og:title" content="What are Polls on works?" />
+<meta property="og:description" content="Polls are a way to set a survey at the time a work is posted.The poll will display under the caption of the work.You can add whatever question content and answers that you like. However, the questi..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/en-us/articles/235585068-What-are-Polls-on-works-" />
+<link rel="canonical" href="https://www.pixiv.help/hc/en-us/articles/235585068-What-are-Polls-on-works-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/235585068-What-are-Polls-on-works-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/235585068-%E4%BD%9C%E5%93%81%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%A8%E3%81%AF-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/235585068-%EC%9E%91%ED%92%88%EC%95%99%EC%BC%80%EC%9D%B4%ED%8A%B8-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/235585068-%E4%BD%9C%E5%93%81%E9%97%AE%E5%8D%B7%E8%B0%83%E6%9F%A5%E6%98%AF%E4%BB%80%E4%B9%88-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/235585068-%E4%BD%9C%E5%93%81%E5%95%8F%E5%8D%B7%E8%AA%BF%E6%9F%A5%E6%98%AF%E4%BB%80%E9%BA%BC-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="Home" href="/hc/en-us">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="Logo">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">Contact Us</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">English (US)</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F235585068-%25E4%25BD%259C%25E5%2593%2581%25E3%2582%25A2%25E3%2583%25B3%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%2588%25E3%2581%25A8%25E3%2581%25AF-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F235585068-%25EC%259E%2591%25ED%2592%2588%25EC%2595%2599%25EC%25BC%2580%25EC%259D%25B4%25ED%258A%25B8-%25EC%2584%25A4%25EB%25AC%25B8%25EC%25A1%25B0%25EC%2582%25AC-%25EB%259E%2580-%25EB%25AC%25B4%25EC%2597%2587%25EC%259D%25B8%25EA%25B0%2580%25EC%259A%2594-" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F235585068-%25E4%25BD%259C%25E5%2593%2581%25E9%2597%25AE%25E5%258D%25B7%25E8%25B0%2583%25E6%259F%25A5%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F235585068-%25E4%25BD%259C%25E5%2593%2581%25E5%2595%258F%25E5%258D%25B7%25E8%25AA%25BF%25E6%259F%25A5%25E6%2598%25AF%25E4%25BB%2580%25E9%25BA%25BC-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">Back to pixiv.net</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv Help Center">
+      
+        <a href="/hc/en-us">pixiv Help Center</a>
+      
+    </li>
+  
+    <li title="Posting and managing works">
+      
+        <a href="/hc/en-us/categories/360001064114-Posting-and-managing-works">Posting and managing works</a>
+      
+    </li>
+  
+    <li title="About submission">
+      
+        <a href="/hc/en-us/sections/360002539234-About-submission">About submission</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064114" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">Articles in this section</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/en-us/articles/235645927-Can-I-set-the-privacy-settings-for-my-work-" class="sidenav-item ">Can I set the privacy settings for my work?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235645887-I-want-to-edit-a-work-I-posted-to-pixiv" class="sidenav-item ">I want to edit a work I posted to pixiv</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235646067-What-is-a-caption-" class="sidenav-item ">What is a caption?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235585008-What-are-the-tags-on-works-posted-to-pixiv-" class="sidenav-item ">What are the tags on works posted to pixiv?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235585068-What-are-Polls-on-works-" class="sidenav-item current-article">What are Polls on works?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235584868-What-are-Image-Responses-" class="sidenav-item ">What are Image Responses?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235647567-I-haven-t-gotten-an-approval-notification-for-an-Image-Response-illustration" class="sidenav-item ">I haven&#39;t gotten an approval notification for an Image Response/illustration</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/360010823253-I-updated-one-of-my-works-but-the-update-isn-t-reflected-yet-on-linked-websites" class="sidenav-item ">I updated one of my works, but the update isn&#39;t reflected yet on linked websites</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235585108-I-can-t-delete-a-comment" class="sidenav-item ">I can&#39;t delete a comment</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/235584468-I-want-to-delete-a-work-I-posted-to-pixiv" class="sidenav-item ">I want to delete a work I posted to pixiv</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/en-us/sections/360002539234-About-submission" class="article-sidebar-item">See more</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="What are Polls on works?" class="article-title">
+          What are Polls on works?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>Polls are a way to set a survey at the time a work is posted.<br>The poll will display under the caption of the work.<br>You can add whatever question content and answers that you like. However, the question is limited to 140 characters, and answers are limited to 20 characters. Additionally, you can only have 5 answers. Setting a poll is optional, and if you don't add one to your work, no poll will be displayed.<br>The results of the poll will only be displayed to the creator and users who responded.<br><br>▼What works can use Polls?</p>
+<table style="width: 722px; height: 302px;">
+<tbody>
+<tr>
+<td style="width: 69.5718px;">
+<p><span>&nbsp;</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 149.115px;" colspan="2">
+<p>Illustrations</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 149.12px;" colspan="2">
+<p><span>Ugoira</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 149.126px;" colspan="2">
+<p><span>Manga</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 149.149px;" colspan="2">
+<p>Novels</p>
+</td>
+</tr>
+<tr>
+<td style="width: 69.5718px;">&nbsp;</td>
+<td class="wysiwyg-text-align-center" style="width: 77.6273px;">
+<p>Set a poll</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 60.5035px;">
+<p><span>Answer</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 75.6134px;">
+<p>Set a poll</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 62.5232px;">
+<p><span>Answer</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 79.647px;">
+<p>Set a poll</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 58.4954px;">
+<p><span>Answer</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 78.6401px;">
+<p>Set a poll</p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 59.5255px;">
+<p><span>Answer</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 69.5718px;">
+<p><span>On desktop</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 77.6273px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 60.5035px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 75.6134px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 62.5232px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 79.647px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 58.4954px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 78.6401px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 59.5255px;">
+<p><span>◯</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 69.5718px;">
+<p><span>On mobile</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 77.6273px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 60.5035px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 75.6134px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 62.5232px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 79.647px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 58.4954px;">
+<p><span>〇</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 78.6401px;">
+<p><span>◯</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 59.5255px;">
+<p><span>◯</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 69.5718px;">
+<p><span>On the app</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 77.6273px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 60.5035px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 75.6134px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 62.5232px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 79.647px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 58.4954px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 78.6401px;">
+<p><span>×</span></p>
+</td>
+<td class="wysiwyg-text-align-center" style="width: 59.5255px;">
+<p><span>◯</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2><span>How to add a poll to your work</span></h2>
+<h2 id="h_01EJG84VP2JNZRTJRKF54FMMA2">On desktop</h2>
+<h3>For illustrations and manga</h3>
+<p><span>1.Click the section labeled Poll &gt; Image Response &gt; Tools used &gt; Content.</span></p>
+<p><img src="/hc/article_attachments/4402654309785/image10.png" alt="image10.png"></p>
+<p><span>2.Please add a question in the entry field. </span></p>
+<p><img src="/hc/article_attachments/4402654321689/image4.png" alt="image4.png"><br><span>3.Once a question is added, you'll be able to use the answer entry fields.</span></p>
+<h3><img src="/hc/article_attachments/4402654331033/image9.png" alt="image9.png"></h3>
+<h3>&nbsp;</h3>
+<h3>For Ugoira</h3>
+<p><span>1.Next to "Poll", please check the box for "Set up and enter information".</span></p>
+<h3><img src="/hc/article_attachments/4402654384153/image7.png" alt="image7.png"></h3>
+<p>2.You'll then be able to add the question and answers.</p>
+<h3><img src="/hc/article_attachments/4402660385305/image12.png" alt="image12.png"></h3>
+<h3>&nbsp;</h3>
+<h3>For novels</h3>
+<p>1. Click on "Advanced settings".</p>
+<p><img src="/hc/article_attachments/4402654413593/image17.png" alt="image17.png"></p>
+<p>2.Please add a question in the entry field.</p>
+<p><img src="/hc/article_attachments/4402660401049/image1.png" alt="image1.png"></p>
+<p>3.Once a question is added, you'll be able to use the answer entry fields.</p>
+<h2><img src="/hc/article_attachments/4402654422425/image2.png" alt="image2.png"></h2>
+<h2>&nbsp;</h2>
+<h2 id="h_01EJG853FCYHXR2B96PWGH7YDA">On mobile</h2>
+<h3>For illustrations, manga, and Ugoira</h3>
+<p>You cannot add a poll using the mobile version of pixiv.<br>If you'd like to add one, please do so using the desktop version when posting.</p>
+<p>&nbsp;</p>
+<h3 id="h_01EJG85BP17G2B5N1R21ERFMM0">For novels</h3>
+<p>1.Tap "Other settings".<br>2.Please enable "Create survey".<br>3.You'll then be able to add the question and answers.</p>
+<p><img src="/hc/article_attachments/4402654451225/image14.png" alt="image14.png" width="324" height="542"></p>
+<h3>&nbsp;</h3>
+<h3 id="h_01EJG9X49AFSHTDYY6W8PXMANJ">On the app</h3>
+<p>You cannot add polls from the pixiv app.</p>
+<p>&nbsp;</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=What+are+Polls+on+works%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F235585068-What-are-Polls-on-works-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=en&text=What+are+Polls+on+works%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F235585068-What-are-Polls-on-works-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=What+are+Polls+on+works%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F235585068-What-are-Polls-on-works-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">Was this article helpful?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="235585068" data-upvote-count="521" data-vote-count="774" data-vote-sum="268" data-vote-url="/hc/en-us/articles/235585068/vote" data-value="null" data-label="521 out of 774 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="235585068" data-upvote-count="521" data-vote-count="774" data-vote-sum="268" data-vote-url="/hc/en-us/articles/235585068/vote" data-value="null" data-label="521 out of 774 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="235585068" data-upvote-count="521" data-vote-count="774" data-vote-sum="268" data-vote-url="/hc/en-us/articles/235585068/vote" data-value="null" data-label="521 out of 774 found this helpful">521 out of 774 found this helpful</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">Return to top<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Related articles</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEZL0KDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkELL4KDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI7L2hjL2VuLXVzL2FydGljbGVzLzIzNTU4NDg2OC1XaGF0LWFyZS1JbWFnZS1SZXNwb25zZXMtBjsIVDoJcmFua2kG--df80946551da097daf1a5ae2f03a7cb2580325cd" rel="nofollow">What are Image Responses?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEN6wLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkELL4KDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI5L2hjL2VuLXVzL2FydGljbGVzLzIzNTY0NjAwNy1XaGF0LXMtYWdlLXJlc3RyaWN0aW9uLQY7CFQ6CXJhbmtpBw%3D%3D--056f0520501a8daccb5fb7351eb803405d880ff8" rel="nofollow">What&#39;s age restriction?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkECL8KDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkELL4KDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJaL2hjL2VuLXVzL2FydGljbGVzLzIzNTU4NTI4OC1JLXdvdWxkLWxpa2UtdG8tdmlldy1hZ2UtcmVzdHJpY3RlZC1jb250ZW50cy1SLTE4LVItMThHLQY7CFQ6CXJhbmtpCA%3D%3D--30abdf84feb695962678335e6e05be55c2e29ac6" rel="nofollow">I would like to view age restricted contents. (R-18/R-18G)</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE968LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkELL4KDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSIzL2hjL2VuLXVzL2FydGljbGVzLzIzNTY0Njk2Ny1XaGF0LWlzLWJvb2ttYXJrLQY7CFQ6CXJhbmtpCQ%3D%3D--c322bdc05088faf9adfff85b2b9eeadd8c263ce1" rel="nofollow">What is bookmark?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE56sLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkELL4KDjoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJNL2hjL2VuLXVzL2FydGljbGVzLzIzNTY0NTkyNy1DYW4tSS1zZXQtdGhlLXByaXZhY3ktc2V0dGluZ3MtZm9yLW15LXdvcmstBjsIVDoJcmFua2kK--7259b64f104050c047862c72a69e50ddf9d7a828" rel="nofollow">Can I set the privacy settings for my work?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>Please contact us if you do not solve problem</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">Contact Us</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>Services</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv Comic</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv Novel</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv Encyclopedia</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv Premium</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>About pixiv</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">Terms of Use</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">Guideline</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">Privacy Policy</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">Advertise on pixiv</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">Contact us</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Info</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">Info</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Company Info</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">About pixiv Inc.</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">Careers</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.f4ae3571388f5dcd34cd.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/en-us/articles/235585068-What-are-Polls-on-works-" data-theme="hc" data-locale="en-us" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:mqk6KLlBkmJzJo1oiWLeZNNyckawnesTFxTz1U2lcgQc5yYohKdlfUV4aPkMc9MK-rxKvJ6mn5UT_OaoM6OJVQ","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGkELL4KDjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZU--b4040bb8a48ed2c4bbf80ad5925297c7b186c4e1","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"235585068","current_record_url":"/hc/en-us/articles/235585068-What-are-Polls-on-works-","current_record_title":"What are Polls on works?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/en-us/articles/235585068-What-are-Polls-on-works-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/en-us","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=en-us","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737e80635d40a33d',m:'UqQz6LhhW6npBTxahdWFSg41WloNLKUy.AvGuLpZsuQ-1660027239-0-AeZIFG8VGC1laxD+f5v47mdR7eAMZIbaxXQJp2sYaQCYvP/Yr/YwWZfYoigtGI2Ij9Tn0oTRyjD8QeJiYQmQS+8UZvtGzwGmfko3F/O+IKqdLG57WCFBFUWjmhbEXAAfKt4yZ8kcHHzSRUuxVVqy4I/fYaRJbCpilHBbpURs31V5FGiNzowCKyXhHAgKUMFmHg==',s:[0xa6cef7663d,0x771a669710],}})();</script></body>
+</html>

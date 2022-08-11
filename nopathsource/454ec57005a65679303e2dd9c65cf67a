@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed? &ndash; pixiv Help Center</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:_scpZabuOVmJwETEUD9cHpKqB9Oqjt_ItgKQvwikDV3xAbE6j-8oj86r6pEV6lvemTg1sY25DX3pmDvlMjdI6A" />
+
+  <meta name="description" content="Account linking with Tumeng will end on September 12th, 2022. The following information will be deleted at that time.If you are linking..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv Help Center" />
+<meta property="og:title" content="What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed?" />
+<meta property="og:description" content="Account linking with Tumeng will end on September 12th, 2022.
+The following information will be deleted at that time.If you are linking your account
+
+Information to be deleted from Tumeng
+
+User ID ..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" />
+<link rel="canonical" href="https://www.pixiv.help/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/8862096131353-Tumeng-%E3%83%88%E3%82%A5%E3%83%A2%E3%83%B3-%E9%80%A3%E6%90%BA%E3%81%AE%E6%A9%9F%E8%83%BD%E6%8F%90%E4%BE%9B%E7%B5%82%E4%BA%86%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%83%85%E5%A0%B1%E3%81%8C%E6%B6%88%E3%81%88%E3%81%A6-%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E6%83%85%E5%A0%B1%E3%81%8C%E6%AE%8B%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8B-" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/8862096131353-Tumeng-%ED%88%AC%EB%A9%8D-%EC%97%B0%EB%8F%99-%EA%B8%B0%EB%8A%A5-%EC%A0%9C%EA%B3%B5%EC%9D%B4-%EC%A2%85%EB%A3%8C%EB%90%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EB%82%A8%EB%82%98%EC%9A%94-" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/8862096131353-%E5%9C%A8-%E7%BB%91%E5%AE%9ATumeng-%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9D%9F%E5%90%8E-%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E4%BC%9A%E5%88%A0%E9%99%A4-%E8%80%8C%E5%93%AA%E4%BA%9B%E4%BC%9A%E4%BF%9D%E7%95%99-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/8862096131353-%E5%9C%A8-%E7%B6%81%E5%AE%9ATumeng-%E5%8A%9F%E8%83%BD%E7%B5%90%E6%9D%9F%E5%BE%8C-%E5%93%AA%E4%BA%9B%E8%B3%87%E8%A8%8A%E5%B0%87%E6%9C%83%E5%88%AA%E9%99%A4-%E5%93%AA%E4%BA%9B%E8%B3%87%E8%A8%8A%E5%8F%88%E6%9C%83%E4%BF%9D%E7%95%99%E5%91%A2-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="Home" href="/hc/en-us">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="Logo">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">Contact Us</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">English (US)</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F8862096131353-Tumeng-%25E3%2583%2588%25E3%2582%25A5%25E3%2583%25A2%25E3%2583%25B3-%25E9%2580%25A3%25E6%2590%25BA%25E3%2581%25AE%25E6%25A9%259F%25E8%2583%25BD%25E6%258F%2590%25E4%25BE%259B%25E7%25B5%2582%25E4%25BA%2586%25E3%2581%25A7%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258C%25E6%25B6%2588%25E3%2581%2588%25E3%2581%25A6-%25E3%2581%25A9%25E3%2581%25AE%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AA%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258C%25E6%25AE%258B%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2599%25E3%2581%258B-" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F8862096131353-Tumeng-%25ED%2588%25AC%25EB%25A9%258D-%25EC%2597%25B0%25EB%258F%2599-%25EA%25B8%25B0%25EB%258A%25A5-%25EC%25A0%259C%25EA%25B3%25B5%25EC%259D%25B4-%25EC%25A2%2585%25EB%25A3%258C%25EB%2590%2598%25EB%25A9%25B4-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EC%2582%25AC%25EB%259D%25BC%25EC%25A7%2580%25EA%25B3%25A0-%25EC%2596%25B4%25EB%2596%25A4-%25EC%25A0%2595%25EB%25B3%25B4%25EA%25B0%2580-%25EB%2582%25A8%25EB%2582%2598%25EC%259A%2594-" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F8862096131353-%25E5%259C%25A8-%25E7%25BB%2591%25E5%25AE%259ATumeng-%25E5%258A%259F%25E8%2583%25BD%25E7%25BB%2593%25E6%259D%259F%25E5%2590%258E-%25E5%2593%25AA%25E4%25BA%259B%25E4%25BF%25A1%25E6%2581%25AF%25E4%25BC%259A%25E5%2588%25A0%25E9%2599%25A4-%25E8%2580%258C%25E5%2593%25AA%25E4%25BA%259B%25E4%25BC%259A%25E4%25BF%259D%25E7%2595%2599-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F8862096131353-%25E5%259C%25A8-%25E7%25B6%2581%25E5%25AE%259ATumeng-%25E5%258A%259F%25E8%2583%25BD%25E7%25B5%2590%25E6%259D%259F%25E5%25BE%258C-%25E5%2593%25AA%25E4%25BA%259B%25E8%25B3%2587%25E8%25A8%258A%25E5%25B0%2587%25E6%259C%2583%25E5%2588%25AA%25E9%2599%25A4-%25E5%2593%25AA%25E4%25BA%259B%25E8%25B3%2587%25E8%25A8%258A%25E5%258F%2588%25E6%259C%2583%25E4%25BF%259D%25E7%2595%2599%25E5%2591%25A2-" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">Back to pixiv.net</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv Help Center">
+      
+        <a href="/hc/en-us">pixiv Help Center</a>
+      
+    </li>
+  
+    <li title="About Linked services">
+      
+        <a href="/hc/en-us/categories/900000194306-About-Linked-services">About Linked services</a>
+      
+    </li>
+  
+    <li title="About Tumeng linkage">
+      
+        <a href="/hc/en-us/sections/900000441143-About-Tumeng-linkage">About Tumeng linkage</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="900000194306" />
+<input type="search" name="query" id="query" placeholder="Search" aria-label="Search" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">Articles in this section</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002647383-What-is-Tumeng-" class="sidenav-item ">What is Tumeng?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" class="sidenav-item current-article">What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002647403-What-can-I-do-with-Tumeng-linkage-" class="sidenav-item ">What can I do with Tumeng linkage?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002647503-How-can-I-post-work-to-Tumeng-" class="sidenav-item ">How can I post work to Tumeng?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002710566-What-kind-of-work-can-be-published-on-Tumeng-" class="sidenav-item ">What kind of work can be published on Tumeng?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002710626-What-criteria-does-Tumeng-use-when-reviewing-account-profiles-and-works-for-publishing-" class="sidenav-item ">What criteria does Tumeng use when reviewing account profiles and works for publishing?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002710866-How-can-I-check-the-status-of-works-on-Tumeng-" class="sidenav-item ">How can I check the status of works on Tumeng?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002710826-Are-there-times-when-the-linked-accounts-and-works-once-published-on-Tumeng-are-reviewed-again-removed-etc-" class="sidenav-item ">Are there times when the linked accounts and works once published on Tumeng are reviewed again, removed, etc?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002710766-Can-I-check-how-a-posted-work-is-displayed-on-Tumeng-" class="sidenav-item ">Can I check how a posted work is displayed on Tumeng?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/en-us/articles/900002647603-What-kind-of-information-is-displayed-on-Tumeng-when-using-Tumeng-linkage-" class="sidenav-item ">What kind of information is displayed on Tumeng when using Tumeng linkage?</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/en-us/sections/900000441143-About-Tumeng-linkage" class="article-sidebar-item">See more</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed?" class="article-title">
+          What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed?
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p><span>Account linking with Tumeng will end on September 12th, 2022.</span></p>
+<p><span>The following information will be deleted at that time.<br><br></span><strong>If you are linking your account</strong></p>
+<ul>
+<li><span>Information to be deleted from Tumeng</span></li>
+<ul>
+<li><span>User ID (The digits that appear at the end of the URL on the profile page)</span></li>
+<li><span>Nickname and introduction</span></li>
+<li><span>Profile image</span></li>
+</ul>
+<li><span>Information to be deleted from pixiv</span></li>
+<ul>
+<li><span>Number of followers that came from your account on Tumeng</span></li>
+</ul>
+</ul>
+<p><strong>If you have a Tumeng-specific profile</strong></p>
+<ul>
+<li><span>The following information will be deleted from both Tumeng and pixiv</span></li>
+<ul>
+<li><span>The nickname and introduction in your Tumeng profile</span></li>
+<li><span>The profile image in your Tumeng profile</span></li>
+</ul>
+</ul>
+<p><strong>If you are sharing works on Tumeng</strong></p>
+<ul>
+<li><span>Information to be deleted from Tumeng</span></li>
+<ul>
+<li><span>User ID (The digits that appear at the end of the URL on the profile page)</span></li>
+<li><span>Works’ images, titles, descriptions, and tags</span></li>
+<li><span>Works’ number of comments, bookmarks, and likes</span></li>
+</ul>
+<li><span>Information to be deleted from pixiv</span></li>
+<ul>
+<li><span>The number of likes, comments, and bookmarks received on Tumeng</span></li>
+</ul>
+</ul>
+<p><span>No information that was shared with Tumeng will remain on Tumeng.</span></p>
+<p><span>The deleted information will be limited to the information shared with Tumeng. Accounts that are linked with pixiv or works posted to pixiv will not have the data of any interactions that occurred on pixiv deleted. The only information that will be deleted from pixiv is limited to what is listed above.</span></p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=What+sort+of+information+will+be+deleted+and+what+sort+of+information+will+remain+when+the+account+linking+with+Tumeng+is+removed%3F&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=en&text=What+sort+of+information+will+be+deleted+and+what+sort+of+information+will+remain+when+the+account+linking+with+Tume...&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=What+sort+of+information+will+be+deleted+and+what+sort+of+information+will+remain+when+the+account+linking+with+Tumeng+is+removed%3F&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fen-us%2Farticles%2F8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">Was this article helpful?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/8862096131353/vote" data-value="null" data-label="0 out of 0 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/8862096131353/vote" data-value="null" data-label="0 out of 0 found this helpful" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="8862096131353" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/8862096131353/vote" data-value="null" data-label="0 out of 0 found this helpful">0 out of 0 found this helpful</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">Return to top<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">Related articles</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCH%2BNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJmL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMjY0NzQyMy1XaGF0LXNvcnQtb2YtaW5mb3JtYXRpb24taXMtc2hhcmVkLXRvLVR1bWVuZy10aHJvdWdoLXRoZS1saW5rYWdlLQY7CFQ6CXJhbmtpBg%3D%3D--c463b1ce8ed27053d79b1e0fe8fb61b60b26d9c1" rel="nofollow">What sort of information is shared to Tumeng through the linkage?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCFeNVozRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSI0L2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMjY0NzM4My1XaGF0LWlzLVR1bWVuZy0GOwhUOglyYW5raQc%3D--d3fae5011579db8183274291af7971fc094890b7" rel="nofollow">What is Tumeng?</a>
+        </li>
+      
+        <li>
+          <a href="/hc/en-us/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCq5S4zRADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCBmFF14PCDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoIdXJsSSJgL2hjL2VuLXVzL2FydGljbGVzLzkwMDAwMTkzNzcwNi1DYW4tSS1lZGl0LXRoZS1jb3Zlci1vZi1hLW5vdmVsLXRoYXQtcy1hbHJlYWR5LWJlZW4tcG9zdGVkLQY7CFQ6CXJhbmtpCA%3D%3D--edc8e332e4537d835a4aa98168fce8a8223c52d2" rel="nofollow">Can I edit the cover of a novel that&#39;s already been posted?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>Please contact us if you do not solve problem</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">Contact Us</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>Services</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv Comic</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv Novel</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv Encyclopedia</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv Premium</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>About pixiv</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">Terms of Use</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">Guideline</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">Privacy Policy</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">Advertise on pixiv</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">Contact us</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Info</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">Info</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>Company Info</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">About pixiv Inc.</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">Careers</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.f4ae3571388f5dcd34cd.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-" data-theme="hc" data-locale="en-us" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:28c-4_vxMaSDeCd2jsULoMv464zXD5gSaOpeHhK208_UAaa80vAgcsQTiSPLEAxgwGrZ7vA4Sqc3cPVEKCWWeg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCBmFF14PCDoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKZW4tdXMGOwZU--216e358c6b4cf801bd6e2451ac1f20a2f892f0cf","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"8862096131353","current_record_url":"/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-","current_record_title":"What sort of information will be deleted and what sort of information will remain when the account linking with Tumeng is removed?","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/en-us/articles/8862096131353-What-sort-of-information-will-be-deleted-and-what-sort-of-information-will-remain-when-the-account-linking-with-Tumeng-is-removed-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/en-us","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=en-us","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737ef514094d3de3',m:'3fwa2.WDRcrKZIxnT2Q9Z7rWHwUh0N5KKmqsNp6qaP4-1660032018-0-ARXPi8RH1Aa2lQOASfC5Myv96N4Y4aRYLqn8qwZo1hu7jrw592KhgQUGd45g+cYutHhcxJfHk090sfnMydIOdwzCPHMPf8R1NUqSjhQ/7sULz55xP2mhjagwPDMCuA+xBd/LZmnIz0rrie3BFn/5XAFVp8Qyx8icg49Nu43gQqXCdoo5bl3xKGIvWy+wzNInq+VOaxiAsrqbYFxtHPLIL/io03gLT65UzPDIiT2+AsEQz9LBQeMKNlXYtserAuEZH346Ae++WQ/z4WvqZ0gqk42Mg1NfQXmE16W4nhvuCjNLzKFuTY1UjcBYSQ7+71TDm7mkMyBgZoRU/0p6TafzSDU=',s:[0xcf2e9fb411,0x24e4572f42],}})();</script></body>
+</html>

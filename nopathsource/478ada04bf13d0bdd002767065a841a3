@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>pixiv 帮助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:1ibBD-Qx582wT836edASAxM8g3EUF9IWzMc3mn-p2NiepJ7syrLiP74RpF3uTvRyu0jzA8xLCqfk9QhHTqtHcw" />
+
+  <link rel="canonical" href="https://www.pixiv.help/hc/zh-cn" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主页" href="/hc/zh-cn">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="徽标">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">帮助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">简体中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fzh-cn%252Farticles%252F4402401171609-%2525E6%252588%252591%2525E5%25258F%252591%2525E7%25258E%2525B0%2525E4%2525BA%252586%2525E4%2525B8%252580%2525E4%2525B8%2525AA%2525E5%2525A4%252596%2525E8%2525A7%252582%2525E5%252592%25258C%2525E5%252586%252585%2525E5%2525AE%2525B9%2525E9%252583%2525BD%2525E9%252585%2525B7%2525E4%2525BC%2525BCpixiv%2525E7%25259A%252584%2525E5%25258F%2525AF%2525E7%252596%252591%2525E7%2525BD%252591%2525E7%2525AB%252599" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fzh-cn%252Farticles%252F4402401171609-%2525E6%252588%252591%2525E5%25258F%252591%2525E7%25258E%2525B0%2525E4%2525BA%252586%2525E4%2525B8%252580%2525E4%2525B8%2525AA%2525E5%2525A4%252596%2525E8%2525A7%252582%2525E5%252592%25258C%2525E5%252586%252585%2525E5%2525AE%2525B9%2525E9%252583%2525BD%2525E9%252585%2525B7%2525E4%2525BC%2525BCpixiv%2525E7%25259A%252584%2525E5%25258F%2525AF%2525E7%252596%252591%2525E7%2525BD%252591%2525E7%2525AB%252599" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fzh-cn%252Farticles%252F4402401171609-%2525E6%252588%252591%2525E5%25258F%252591%2525E7%25258E%2525B0%2525E4%2525BA%252586%2525E4%2525B8%252580%2525E4%2525B8%2525AA%2525E5%2525A4%252596%2525E8%2525A7%252582%2525E5%252592%25258C%2525E5%252586%252585%2525E5%2525AE%2525B9%2525E9%252583%2525BD%2525E9%252585%2525B7%2525E4%2525BC%2525BCpixiv%2525E7%25259A%252584%2525E5%25258F%2525AF%2525E7%252596%252591%2525E7%2525BD%252591%2525E7%2525AB%252599" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Fsignin%3Freturn_to%3Dhttps%253A%252F%252Fwww.pixiv.help%252Fhc%252Fzh-cn%252Farticles%252F4402401171609-%2525E6%252588%252591%2525E5%25258F%252591%2525E7%25258E%2525B0%2525E4%2525BA%252586%2525E4%2525B8%252580%2525E4%2525B8%2525AA%2525E5%2525A4%252596%2525E8%2525A7%252582%2525E5%252592%25258C%2525E5%252586%252585%2525E5%2525AE%2525B9%2525E9%252583%2525BD%2525E9%252585%2525B7%2525E4%2525BC%2525BCpixiv%2525E7%25259A%252584%2525E5%25258F%2525AF%2525E7%252596%252591%2525E7%2525BD%252591%2525E7%2525AB%252599" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <section class="section hero">
+  <div class="help-head">我们可以帮您什么忙吗？</div>
+  <div class="hero-inner">
+    <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/zh-cn/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"><input type="search" name="query" id="query" placeholder="搜索帮助" autocomplete="off" aria-label="搜索帮助"></form>
+  </div>
+</section>
+
+<ul class="search-topic"><h2>常见疑问</h2>：
+  <a href="/hc/search?utf8=✓&query=密码"><li>密码丢失</li></a>
+  <a href="/hc/search?utf8=✓&query=高级会员"><li>无法使用高级会员功能</li></a>
+  <a href="/hc/search?utf8=✓&query=无法投稿"><li>无法投稿作品</li></a>
+  <a href="/hc/search?utf8=✓&query=无法浏览"><li>无法浏览作品</li></a>
+</ul>
+<div class="container">
+  <div class="top-questions"><h3>常见疑问</h3>
+    <ul>
+      <a href="/hc/articles/235583008/"><li>密码丢失</li></a>
+      <a href="/hc/articles/115000679588"><li>收到了「pixiv新的登录」通知邮件</li></a>
+      <a href="/hc/articles/235727568"><li>忘记了高级会员账号怎么办？</li></a>
+      <a href="/hc/articles/235582768"><li>pixiv的注册认证邮件没有收到</li></a>
+      <a href="/hc/articles/235644187"><li>pixiv的邮箱地址、密码变更</li></a>
+      <a href="/hc/articles/231827788"><li>如果想变更pixiv高级会员的支付方式</li></a>
+    </ul>
+  </div>
+  <section class="section knowledge-base">
+    <section class="categories blocks">
+      <ul class="blocks-list">
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065473-%E5%85%B3%E4%BA%8Epixiv' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于pixiv</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064314-%E5%85%B3%E4%BA%8E%E6%B3%A8%E5%86%8C%E4%BC%9A%E5%91%98' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于注册会员</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065433-%E5%85%B3%E4%BA%8EID-%E5%AF%86%E7%A0%81-%E7%99%BB%E5%BD%95' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于ID/密码/登录</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064034-%E5%85%B3%E4%BA%8Epixiv%E9%AB%98%E7%BA%A7%E4%BC%9A%E5%91%98' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于pixiv高级会员</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064074-pixiv-PREMIUM%E4%BC%9A%E5%91%98%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">pixiv PREMIUM会员功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064114-%E5%85%B3%E4%BA%8E%E6%8A%95%E7%A8%BF%E4%B8%8E%E7%AE%A1%E7%90%86%E4%BD%9C%E5%93%81' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于投稿与管理作品</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064094-%E5%85%B3%E4%BA%8E%E6%90%9C%E7%B4%A2%E4%BD%9C%E5%93%81' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于搜索作品</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065173-%E6%B5%8F%E8%A7%88%E4%BD%9C%E5%93%81' class="blocks-item-link">
+                <h4 class="blocks-item-title">浏览作品</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065393-%E7%BC%96%E8%BE%91%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF' class="blocks-item-link">
+                <h4 class="blocks-item-title">编辑个人信息</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065453-%E8%B4%A6%E5%8F%B7%E5%AE%89%E5%85%A8%E5%8F%8A%E9%9A%90%E7%A7%81' class="blocks-item-link">
+                <h4 class="blocks-item-title">账号安全及隐私</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064334-pixiv%E7%9B%B8%E5%85%B3%E6%9C%8D%E5%8A%A1' class="blocks-item-link">
+                <h4 class="blocks-item-title">pixiv相关服务</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064174-%E6%9C%89%E5%85%B3-%E8%B5%9E-' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关「赞！」</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065313-%E6%9C%89%E5%85%B3%E6%94%B6%E8%97%8F%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关收藏功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065293-%E6%9C%89%E5%85%B3%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关通知功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065273-%E6%9C%89%E5%85%B3%E9%BB%91%E5%90%8D%E5%8D%95%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关黑名单功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001061033-%E6%9C%89%E5%85%B3%E5%85%B3%E6%B3%A8%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关关注功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064154-%E6%9C%89%E5%85%B3%E5%A5%BDP%E5%8F%8B%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关好P友功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065073-%E6%9C%89%E5%85%B3%E7%A7%81%E4%BF%A1%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关私信功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065093-%E6%9C%89%E5%85%B3%E6%8E%92%E8%A1%8C%E6%A6%9C' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关排行榜</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065373-%E6%9C%89%E5%85%B3%E7%BF%BB%E8%AF%91%E6%8F%90%E6%A1%88' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关翻译提案</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/900000194306-%E5%85%B3%E4%BA%8E%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%B8%83%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于跨平台发布功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001063954-%E6%9C%89%E5%85%B3%E7%89%B9%E8%BE%91' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关特辑</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001063974-%E6%9C%89%E5%85%B3%E6%B4%BB%E5%8A%A8%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关活动功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065113-%E6%9C%89%E5%85%B3%E7%BE%A4%E7%BB%84%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关群组功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001065133-%E6%9C%89%E5%85%B3%E7%9B%B4%E6%92%AD%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关直播功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064014-%E6%9C%89%E5%85%B3pixiv%E7%82%B9%E6%95%B0' class="blocks-item-link">
+                <h4 class="blocks-item-title">有关pixiv点数</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/204234107-%E4%B8%BE%E6%8A%A5%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA' class="blocks-item-link">
+                <h4 class="blocks-item-title">举报违规行为</h4>
+                <p class="blocks-item-description">举报侵害版权、不良信息或骚扰行为</p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/360001064254-%E5%88%A0%E9%99%A4pixiv%E8%B4%A6%E5%8F%B7' class="blocks-item-link">
+                <h4 class="blocks-item-title">删除pixiv账号</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/900000133123-%E5%85%B3%E4%BA%8E%E7%BA%A6%E7%A8%BF%E5%8A%9F%E8%83%BD' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于约稿功能</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+          
+            <li class="blocks-item">
+              <a href='/hc/zh-cn/categories/900001239443-%E5%85%B3%E4%BA%8E%E5%AE%98%E6%96%B9%E6%AF%94%E8%B5%9B' class="blocks-item-link">
+                <h4 class="blocks-item-title">关于官方比赛</h4>
+                <p class="blocks-item-description"></p>
+              </a>
+            </li>
+          
+        
+      </ul>
+      
+    </section>
+
+    
+  </section>
+
+  
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服务</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫画</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小说</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全书</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高级会员</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>关于使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">使用条款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">本站方针</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">隐私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">刊登广告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">联系我们</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">运营公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-cn.19d44ffc81c4de10f643.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-cn/articles/4402401171609-%E6%88%91%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%96%E8%A7%82%E5%92%8C%E5%86%85%E5%AE%B9%E9%83%BD%E9%85%B7%E4%BC%BCpixiv%E7%9A%84%E5%8F%AF%E7%96%91%E7%BD%91%E7%AB%99" data-theme="hc" data-locale="zh-cn" data-action="signin" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-cn","csrf_token":"hc:hcobject:server:-5IHvI0u93lOqwaRrVnr63gI8GpmQWwF3XcqtIma3I-zEFhfo63yi0D1bzY6xw2a0HyAGL4dtLT1RRVpuJhDJA","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"front_page_viewed","data":"BAh7BjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjoGRVQ6C2xvY2FsZUkiCnpoLWNuBjsLVA==--a3e542ba55caa32065ea774ff5649ccb470006b8","url":"https://www.pixiv.help/hc/activity"},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":null,"authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":true,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-cn","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-cn","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-cn","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-cn","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737ef66d7c03b435',m:'b_lU1Bh.DNBbEDlvmadNmB4u8NdhmGDcxBpRB0EIrwY-1660032074-0-AUNfS6o8SqiXyVrBAIlhYVsjzJh2gXofsCDYaaH7fb5lfknd9Ngh/VJnnXtueX8mrZd2msv7KUrUQJaFMbYho7VnMIfY5pOF3ex5DyQFXBwEgadGIi0MpdD+4RY8QHY/aTFbQeEBvy00YZGiRN1qtufPS925F3VkW+B26gGdr9KgxR717IGhRXYK4kwWeUnL1SxzaiMrtdc4cYTcH4PLsziwdvJXLnJ08rYFGCDk7mFxG4ZcuhmOqQrzE8Jl3ylZTpKQGkcd2EPGw1PuU4WXRDoQGsCSAscAPLuNP5gnIwxHj1tVaKuPnE4i/DMd/XNLnl3lORo2m3hQGFxAkfcmb3lkJ0hTQ5TgMug3LGz9mnG38/2vgGq3feOucKV+YXjoUZpCWFY0v/bB9QY1Wd7T/tanKtetBHyzX99sbaZAxQU9QJStetWd8Y6Th7CiWhlXwEowCEF+DfU0G2kO063lWp8WwAIXjP+YNZYuyidxhe0dC4x/w24y1AuaRKYypTD198lvrmx3YM2V2NAaPuotiqKoKeXKulZmPEv/FcY6hEsgKQrQeT50jEDEufnMrDQai4x2LV8AkzYLYGBu5+NSNT7/OU2AKbRjff3uAHQZSRdMTUbxh3j2R0n6Ux4JUTsHpg==',s:[0x5dd9c4b5f6,0x5974b4b47b],}})();</script></body>
+</html>

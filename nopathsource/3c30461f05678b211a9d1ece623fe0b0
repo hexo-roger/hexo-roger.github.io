@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>과거에 투고했던 소설 작품을 소설 시리즈에 추가하고 싶어요 &ndash; pixiv 도움말</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:bdOhNqHPW6KD39yhaThk1xr8Sjd2JP5jw6uvnONI_sZd4_cA-8IU_IINzzfkhzHn1mEWgUqYWnURlPV-PAjxzw" />
+
+  <meta name="description" content="투고 완료한 소설 작품을 시리즈에 추가하고 싶을 때는 아래의 순서대로 추가할 수 있습니다.   PC 버전 소설 시리즈 편집 화면에서 추가하기  대쉬보드에서 ‘작품’ → ‘소설’ → ‘시리즈’로 이동합니다. 작품을 추가하고 싶은 기존 시리즈의 연필..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 도움말" />
+<meta property="og:title" content="과거에 투고했던 소설 작품을 소설 시리즈에 추가하고 싶어요" />
+<meta property="og:description" content="투고 완료한 소설 작품을 시리즈에 추가하고 싶을 때는 아래의 순서대로 추가할 수 있습니다.
+ 
+PC 버전
+소설 시리즈 편집 화면에서 추가하기
+
+대쉬보드에서 ‘작품’ → ‘소설’ → ‘시리즈’로 이동합니다.
+작품을 추가하고 싶은 기존 시리즈의 연필 마크를 클릭합니다.
+소설 시리즈 편집 화면이 열리면 ‘작품’ 밑의 [ + ]버튼을 클릭합니다.
+과거에 투고..." />
+<meta property="og:url" content="https://www.pixiv.help/hc/ko/articles/360000237602" />
+<link rel="canonical" href="https://www.pixiv.help/hc/ko/articles/360000237602-%EA%B3%BC%EA%B1%B0%EC%97%90-%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/360000237602-I-want-to-add-an-already-posted-novel-work-to-a-novel-series" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/360000237602-%E9%81%8E%E5%8E%BB%E3%81%AB%E6%8A%95%E7%A8%BF%E3%81%97%E3%81%9F%E5%B0%8F%E8%AA%AC%E4%BD%9C%E5%93%81%E3%82%92%E5%B0%8F%E8%AA%AC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%9F%E3%81%84" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/360000237602-%EA%B3%BC%EA%B1%B0%EC%97%90-%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/360000237602-%E6%83%B3%E6%8A%8A%E5%B7%B2%E6%8A%95%E7%A8%BF%E7%9A%84%E5%B0%8F%E8%AF%B4%E4%BD%9C%E5%93%81%E5%8A%A0%E8%BF%9B%E7%B3%BB%E5%88%97" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/360000237602-%E6%83%B3%E6%8A%8A%E5%B7%B2%E6%8A%95%E7%A8%BF%E7%9A%84%E5%B0%8F%E8%AA%AA%E4%BD%9C%E5%93%81%E5%8A%A0%E9%80%B2%E7%B3%BB%E5%88%97" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="홈" href="/hc/ko">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="로고">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">문의</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">한국어</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F360000237602-I-want-to-add-an-already-posted-novel-work-to-a-novel-series" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F360000237602-%25E9%2581%258E%25E5%258E%25BB%25E3%2581%25AB%25E6%258A%2595%25E7%25A8%25BF%25E3%2581%2597%25E3%2581%259F%25E5%25B0%258F%25E8%25AA%25AC%25E4%25BD%259C%25E5%2593%2581%25E3%2582%2592%25E5%25B0%258F%25E8%25AA%25AC%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25AB%25E8%25BF%25BD%25E5%258A%25A0%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F360000237602-%25E6%2583%25B3%25E6%258A%258A%25E5%25B7%25B2%25E6%258A%2595%25E7%25A8%25BF%25E7%259A%2584%25E5%25B0%258F%25E8%25AF%25B4%25E4%25BD%259C%25E5%2593%2581%25E5%258A%25A0%25E8%25BF%259B%25E7%25B3%25BB%25E5%2588%2597" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+                <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Farticles%2F360000237602-%25E6%2583%25B3%25E6%258A%258A%25E5%25B7%25B2%25E6%258A%2595%25E7%25A8%25BF%25E7%259A%2584%25E5%25B0%258F%25E8%25AA%25AA%25E4%25BD%259C%25E5%2593%2581%25E5%258A%25A0%25E9%2580%25B2%25E7%25B3%25BB%25E5%2588%2597" dir="ltr" rel="nofollow" role="menuitem">繁體中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">pixiv로 돌아가기</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 도움말">
+      
+        <a href="/hc/ko">pixiv 도움말</a>
+      
+    </li>
+  
+    <li title="작품 투고/관리에 대하여">
+      
+        <a href="/hc/ko/categories/360001064114-%EC%9E%91%ED%92%88-%ED%88%AC%EA%B3%A0-%EA%B4%80%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">작품 투고/관리에 대하여</a>
+      
+    </li>
+  
+    <li title="소설 시리즈에 대하여">
+      
+        <a href="/hc/ko/sections/360000068761-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC">소설 시리즈에 대하여</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/ko/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064114" />
+<input type="search" name="query" id="query" placeholder="검색" aria-label="검색" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">이 섹션의 문서</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/ko/articles/900000378803-%EC%86%8C%EC%84%A4%EC%9D%98-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%BD%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설의 단어 변환 기능을 이용하여 읽고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900000378663-%EC%9E%90%EC%8B%A0%EC%9D%98-%EC%86%8C%EC%84%A4%EC%97%90-%EB%8B%A8%EC%96%B4-%EB%B3%80%ED%99%98%EC%9D%84-%EC%84%A4%EC%A0%95%ED%95%98%EB%A0%A4%EB%A9%B4-" class="sidenav-item ">자신의 소설에 단어 변환을 설정하려면?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900000361863-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%9D%98-%EC%84%A4%EC%A0%95-%EC%9E%90%EB%A3%8C%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">소설 시리즈의 설정 자료는 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/900000361543-%EC%84%A4%EC%A0%95-%EC%9E%90%EB%A3%8C%EC%97%90-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%83%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">설정 자료에 카테고리, 단어를 새로 만들고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000653601-%ED%88%AC%EA%B3%A0-%EC%99%84%EB%A3%8C%ED%95%9C-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%9D%98-%EC%84%A4%EC%A0%95%EC%9D%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">투고 완료한 소설 시리즈의 설정을 변경하고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000653441-%EC%9E%A5%EB%A5%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94-" class="sidenav-item ">장르란 무엇인가요?</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000237382-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A5%BC-%EC%83%88%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설 시리즈를 새로 만들고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000237562-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설 시리즈를 삭제하고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000237622-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%9C-%EC%9E%91%ED%92%88%EC%9D%98-%EC%88%9C%EC%84%9C%EB%A5%BC-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">소설 시리즈에 추가한 작품의 순서를 바꾸고 싶어요</a>
+            </li>
+          
+            <li>
+              <a href="/hc/ko/articles/360000236701-%EC%83%88%EB%A1%9C-%ED%88%AC%EA%B3%A0%ED%95%98%EB%8A%94-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" class="sidenav-item ">새로 투고하는 소설 작품을 소설 시리즈에 추가하고 싶어요</a>
+            </li>
+          
+        </ul>
+        
+          <a href="/hc/ko/sections/360000068761-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC" class="article-sidebar-item">더보기</a>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="과거에 투고했던 소설 작품을 소설 시리즈에 추가하고 싶어요" class="article-title">
+          과거에 투고했던 소설 작품을 소설 시리즈에 추가하고 싶어요
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>투고 완료한 소설 작품을 시리즈에 추가하고 싶을 때는 아래의 순서대로 추가할 수 있습니다.</p>
+<p>&nbsp;</p>
+<h2 id="h_01EM0BYCD4AXD8BPE256Q8F0Y7">PC 버전</h2>
+<h3>소설 시리즈 편집 화면에서 추가하기</h3>
+<ol>
+<li>대쉬보드에서 ‘작품’ → ‘소설’ → ‘시리즈’로 이동합니다.</li>
+<li>작품을 추가하고 싶은 기존 시리즈의 연필 마크를 클릭합니다.</li>
+<li>소설 시리즈 편집 화면이 열리면 ‘작품’ 밑의 [ + ]버튼을 클릭합니다.</li>
+<li>과거에 투고한 작품들이 표시되므로 시리즈에 추가하고 싶은 작품을 선택해 주세요. 여러 개 선택할 수 있습니다.</li>
+<li>‘확정’ 버튼을 클릭합니다.</li>
+<li>소설 시리즈 편집 화면에서, ‘변경 내용을 저장’을 클릭하면 추가가 완료됩니다.</li>
+</ol>
+<h2 id="h_01EM0BYM3N95BGQEKDYFEAP0SH">모바일 버전</h2>
+<h3>소설 시리즈 편집 화면에서 추가하기</h3>
+<ol>
+<li>대쉬보드에서 ‘작품’ → ‘소설’ → ‘시리즈’로 이동합니다.</li>
+<li>작품을 추가하고 싶은 기존 시리즈의 연필 마크를 탭 합니다.</li>
+<li>소설 시리즈 편집 화면이 열리면 ‘작품’ 밑의 [ + ]버튼을 탭 합니다.</li>
+<li>과거에 투고한 작품들이 표시되므로 시리즈에 추가하고 싶은 작품을 선택해 주세요. 여러 개 선택할 수 있습니다.</li>
+<li>‘확정’ 버튼을 탭 합니다.</li>
+<li>소설 시리즈 편집 화면에서, ‘변경 내용을 저장’을 탭 하면 추가가 완료됩니다.</li>
+</ol></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%EA%B3%BC%EA%B1%B0%EC%97%90+%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98+%EC%86%8C%EC%84%A4+%EC%9E%91%ED%92%88%EC%9D%84+%EC%86%8C%EC%84%A4+%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90+%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%96%B4%EC%9A%94&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F360000237602-%25EA%25B3%25BC%25EA%25B1%25B0%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2596%2588%25EB%258D%2598-%25EC%2586%258C%25EC%2584%25A4-%25EC%259E%2591%25ED%2592%2588%25EC%259D%2584-%25EC%2586%258C%25EC%2584%25A4-%25EC%258B%259C%25EB%25A6%25AC%25EC%25A6%2588%25EC%2597%2590-%25EC%25B6%2594%25EA%25B0%2580%25ED%2595%2598%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=ko&text=%EA%B3%BC%EA%B1%B0%EC%97%90+%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98+%EC%86%8C%EC%84%A4+%EC%9E%91%ED%92%88%EC%9D%84+%EC%86%8C%EC%84%A4+%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90+%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%96%B4%EC%9A%94&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F360000237602-%25EA%25B3%25BC%25EA%25B1%25B0%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2596%2588%25EB%258D%2598-%25EC%2586%258C%25EC%2584%25A4-%25EC%259E%2591%25ED%2592%2588%25EC%259D%2584-%25EC%2586%258C%25EC%2584%25A4-%25EC%258B%259C%25EB%25A6%25AC%25EC%25A6%2588%25EC%2597%2590-%25EC%25B6%2594%25EA%25B0%2580%25ED%2595%2598%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%EA%B3%BC%EA%B1%B0%EC%97%90+%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98+%EC%86%8C%EC%84%A4+%EC%9E%91%ED%92%88%EC%9D%84+%EC%86%8C%EC%84%A4+%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90+%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%96%B4%EC%9A%94&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fko%2Farticles%2F360000237602-%25EA%25B3%25BC%25EA%25B1%25B0%25EC%2597%2590-%25ED%2588%25AC%25EA%25B3%25A0%25ED%2596%2588%25EB%258D%2598-%25EC%2586%258C%25EC%2584%25A4-%25EC%259E%2591%25ED%2592%2588%25EC%259D%2584-%25EC%2586%258C%25EC%2584%25A4-%25EC%258B%259C%25EB%25A6%25AC%25EC%25A6%2588%25EC%2597%2590-%25EC%25B6%2594%25EA%25B0%2580%25ED%2595%2598%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">도움이 되었습니까?</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360000237602" data-upvote-count="32" data-vote-count="38" data-vote-sum="26" data-vote-url="/hc/ko/articles/360000237602/vote" data-value="null" data-label="38명 중 32명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="예" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360000237602" data-upvote-count="32" data-vote-count="38" data-vote-sum="26" data-vote-url="/hc/ko/articles/360000237602/vote" data-value="null" data-label="38명 중 32명이 도움이 되었다고 했습니다." data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="아니요" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360000237602" data-upvote-count="32" data-vote-count="38" data-vote-sum="26" data-vote-url="/hc/ko/articles/360000237602/vote" data-value="null" data-label="38명 중 32명이 도움이 되었다고 했습니다.">38명 중 32명이 도움이 되었다고 했습니다.</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">맨 위로 돌아가기<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">관련 문서</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCDawr9FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCCKwr9FTADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB4C9oYy9rby9hcnRpY2xlcy8zNjAwMDAyMzc2MjItJUVDJTg2JThDJUVDJTg0JUE0LSVFQyU4QiU5QyVFQiVBNiVBQyVFQyVBNiU4OCVFQyU5NyU5MC0lRUMlQjYlOTQlRUElQjAlODAlRUQlOTUlOUMtJUVDJTlFJTkxJUVEJTkyJTg4JUVDJTlEJTk4LSVFQyU4OCU5QyVFQyU4NCU5QyVFQiVBNSVCQy0lRUIlQjAlOTQlRUElQkUlQjglRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kG--9f933d1e7d1d08b9116fcdcbe9190620a5c96093" rel="nofollow">소설 시리즈에 추가한 작품의 순서를 바꾸고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCEavr9FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCCKwr9FTADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBny9oYy9rby9hcnRpY2xlcy8zNjAwMDAyMzczODItJUVDJTg2JThDJUVDJTg0JUE0LSVFQyU4QiU5QyVFQiVBNiVBQyVFQyVBNiU4OCVFQiVBNSVCQy0lRUMlODMlODglRUIlQTElOUMtJUVCJUE3JThDJUVCJTkzJUE0JUVBJUIzJUEwLSVFQyU4QiVCNiVFQyU5NiVCNCVFQyU5QSU5NAY7CFQ6CXJhbmtpBw%3D%3D--98035a6fc2108b12fd47cb45349452a6c752ab9a" rel="nofollow">소설 시리즈를 새로 만들고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCCEJttFTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCCKwr9FTADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB4C9oYy9rby9hcnRpY2xlcy8zNjAwMDA2NTM2MDEtJUVEJTg4JUFDJUVBJUIzJUEwLSVFQyU5OSU4NCVFQiVBMyU4QyVFRCU5NSU5Qy0lRUMlODYlOEMlRUMlODQlQTQtJUVDJThCJTlDJUVCJUE2JUFDJUVDJUE2JTg4JUVDJTlEJTk4LSVFQyU4NCVBNCVFQyVBMCU5NSVFQyU5RCU4NC0lRUIlQjMlODAlRUElQjIlQkQlRUQlOTUlOTglRUElQjMlQTAtJUVDJThCJUI2JUVDJTk2JUI0JUVDJTlBJTk0BjsIVDoJcmFua2kI--282ee7ccb2c1b6b9d4c90688d62675070166bc5d" rel="nofollow">투고 완료한 소설 시리즈의 설정을 변경하고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGwrCJ2sr9FTADoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCCKwr9FTADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIB%2FC9oYy9rby9hcnRpY2xlcy8zNjAwMDAyMzY3MDEtJUVDJTgzJTg4JUVCJUExJTlDLSVFRCU4OCVBQyVFQSVCMyVBMCVFRCU5NSU5OCVFQiU4QSU5NC0lRUMlODYlOEMlRUMlODQlQTQtJUVDJTlFJTkxJUVEJTkyJTg4JUVDJTlEJTg0LSVFQyU4NiU4QyVFQyU4NCVBNC0lRUMlOEIlOUMlRUIlQTYlQUMlRUMlQTYlODglRUMlOTclOTAtJUVDJUI2JTk0JUVBJUIwJTgwJUVEJTk1JTk4JUVBJUIzJUEwLSVFQyU4QiVCNiVFQyU5NiVCNCVFQyU5QSU5NAY7CFQ6CXJhbmtpCQ%3D%3D--3abaedbae179cf1e1e0c55427d777416c8e59877" rel="nofollow">새로 투고하는 소설 작품을 소설 시리즈에 추가하고 싶어요</a>
+        </li>
+      
+        <li>
+          <a href="/hc/ko/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEN6wLDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGwrCCKwr9FTADoLbG9jYWxlSSIHa28GOgZFVDoIdXJsSSIBfy9oYy9rby9hcnRpY2xlcy8yMzU2NDYwMDctJUVDJTk3JUIwJUVCJUEwJUI5JUVDJUEwJTlDJUVEJTk1JTlDJUVDJTlEJUI0JUVCJTlFJTgwLSVFQiVBQyVCNCVFQyU5NyU4NyVFQyU5RCVCOCVFQSVCMCU4MCVFQyU5QSU5NC0GOwhUOglyYW5raQo%3D--5ebcc719cca0f7fbac64842907a83144ec1f7af8" rel="nofollow">연령제한이란 무엇인가요?</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>해결되지 않는 경우, 이쪽으로 문의해 주시기 바랍니다.</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">문의</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>서비스</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv COMIC</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv소설</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank rel="noopener"">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://dic.pixiv.net/" target="_blank" rel="noopener">픽시브 백과사전</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv프리미엄</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>이용에 관하여</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank">이용규약</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank">가이드라인</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank">개인정보보호정책</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank">광고게재</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" class="ga_click_footer_support">서포트</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>공지</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">공지</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank rel="noopener"">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>회사정보</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank">운영회사</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank">채용정보</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/ko.eac819670549abfe0faa.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/ko/articles/360000237602-%EA%B3%BC%EA%B1%B0%EC%97%90-%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" data-theme="hc" data-locale="ko" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"ko","csrf_token":"hc:hcobject:server:V1ZjwtiSaElCjEMeFpmMe5mhIEEarRFCqOGIekdNqbtnZjX0gp8nF0NeUIibJtlLVTx89yYRtVR63tKYmA2msg","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIHa28GOgZFVDoPYXJ0aWNsZV9pZGwrCCKwr9FTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIHa28GOwZU--208d9ecedc9df7abb230b1d724559bbd0ef24413","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"360000237602","current_record_url":"/hc/ko/articles/360000237602-%EA%B3%BC%EA%B1%B0%EC%97%90-%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94","current_record_title":"과거에 투고했던 소설 작품을 소설 시리즈에 추가하고 싶어요","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/ko/articles/360000237602-%EA%B3%BC%EA%B1%B0%EC%97%90-%ED%88%AC%EA%B3%A0%ED%96%88%EB%8D%98-%EC%86%8C%EC%84%A4-%EC%9E%91%ED%92%88%EC%9D%84-%EC%86%8C%EC%84%A4-%EC%8B%9C%EB%A6%AC%EC%A6%88%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/ko","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=ko","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=ko","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=ko","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737f071cff6bb41f',m:'rqJnzQITgCcwV0y0hva9XsM1CB3i5DdF7aoqmGROPUY-1660032757-0-AW0GWsWy4AHTK5h2UB/7LNHXpddR4vEUz3Ko1tN5erG8rVyI2n9ah5GPiubUMUp0n5UN11OXmcv8JicpI2Mvsv8TUf2DiujXKerz7raxy1LNDWKgdtiSI65t+UDicXFIIdjhxFpmNNUsXGwiCmF9FDAh3ZN/0XjLudqPOa7IPunHvXcllEVFqNCnpylxnFz9y9vw83p39pWovB9i/rv+6MQLmTbs8W/u8IeNLa5sqe0Aon3lpsac2OZTeZ4uspV0YNvjvdrm7iCHxzDd9YvGgbzKWolVmKMtuORWDvGmPtHzCO3ijzikLdzURgEpRIQfb6AL6YQhWgIe5y4sGtkQAReD9CAilA8lHNoMoIAcqdGiWYYzh8nOqIO9RfBPULs5GPh1OXNrBb1yk0p+JEB0yc4D6MMHm/TSNmZzflfA60KMe/Nw0tK+JZoI1nqE3S8lLBQJe0FxIy9r2tnc4Vcr0MI=',s:[0x3a292eff40,0x079880b5d3],}})();</script></body>
+</html>

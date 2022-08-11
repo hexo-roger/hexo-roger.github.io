@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="zh-TW">
+<head>
+  <meta charset="utf-8" />
+  <!-- v21482 -->
+
+  <title>想要刪除不小心按錯的「讚！」 &ndash; pixiv 幫助</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:5BtrLwHkI9YJD_tEoWyhTX5pvfOYJaE9Ji2rYXKM6QrXY_paETPqVGzWFoqu6KsMocurzo9Cqo_jd8NA2jV1pA" />
+
+  <meta name="description" content="一天只能對同一件作品按一次「讚！」。而按過的「讚！」將無法刪除。請在按「讚！」前多加注意。" /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="pixiv 幫助" />
+<meta property="og:title" content="想要刪除不小心按錯的「讚！」" />
+<meta property="og:description" content="一天只能對同一件作品按一次「讚！」。而按過的「讚！」將無法刪除。請在按「讚！」前多加注意。" />
+<meta property="og:url" content="https://www.pixiv.help/hc/zh-tw/articles/235647427" />
+<link rel="canonical" href="https://www.pixiv.help/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-" />
+<link rel="alternate" hreflang="en" href="https://www.pixiv.help/hc/en-us/articles/235647427-How-do-I-unlike-something-" />
+<link rel="alternate" hreflang="ja" href="https://www.pixiv.help/hc/ja/articles/235647427-%E9%96%93%E9%81%95%E3%81%88%E3%81%A6%E4%BB%98%E3%81%91%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F-%E3%81%84%E3%81%84%E3%81%AD-%E3%82%92%E5%89%8A%E9%99%A4%E3%81%97%E3%81%9F%E3%81%84" />
+<link rel="alternate" hreflang="ko" href="https://www.pixiv.help/hc/ko/articles/235647427-%EC%9E%98%EB%AA%BB-%EB%88%84%EB%A5%B8-%EC%A2%8B%EC%95%84%EC%9A%94-%EB%A5%BC-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%9A%94" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.pixiv.help/hc/zh-cn/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%A0%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%94%99%E7%9A%84-%E8%B5%9E-" />
+<link rel="alternate" hreflang="zh" href="https://www.pixiv.help/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-" />
+  
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-eee6d8d7fa05e7e79d4f3bfce1e548f7.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-cf937686d5b6669242017892da7bad78.css" />
+  <link rel="stylesheet" type="text/css" href="//p25.zdassets.com/hc/theming_assets/1128206/2857147/style.css?digest=4882962470425">
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-86692567-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJCVB2C');</script>
+<!-- End Google Tag Manager -->
+  <script type="text/javascript" src="//p25.zdassets.com/hc/theming_assets/1128206/2857147/script.js?digest=4882962470425"></script>
+<script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body class="">
+  
+  
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJCVB2C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+  <div class="logo">
+    <a title="主頁" href="/hc/zh-tw">
+    <img src="//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif" alt="標誌">
+    </a>
+  </div>
+  <div class="nav-wrapper">
+    <a href="https://www.pixiv.net/support.php" class="ga_click_header_support">幫助中心</a>
+    <span class="pc-header">
+      <div class="footer-language-selector">
+        
+          <div class="dropdown language-selector" aria-haspopup="true">
+            <a class="dropdown-toggle">繁體中文</a>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/en-us?return_to=%2Fhc%2Fen-us%2Farticles%2F235647427-How-do-I-unlike-something-" dir="ltr" rel="nofollow" role="menuitem">English (US)</a>
+              
+                <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Farticles%2F235647427-%25E9%2596%2593%25E9%2581%2595%25E3%2581%2588%25E3%2581%25A6%25E4%25BB%2598%25E3%2581%2591%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F-%25E3%2581%2584%25E3%2581%2584%25E3%2581%25AD-%25E3%2582%2592%25E5%2589%258A%25E9%2599%25A4%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584" dir="ltr" rel="nofollow" role="menuitem">日本語</a>
+              
+                <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Farticles%2F235647427-%25EC%259E%2598%25EB%25AA%25BB-%25EB%2588%2584%25EB%25A5%25B8-%25EC%25A2%258B%25EC%2595%2584%25EC%259A%2594-%25EB%25A5%25BC-%25EC%2582%25AD%25EC%25A0%259C%25ED%2595%2598%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594" dir="ltr" rel="nofollow" role="menuitem">한국어</a>
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn%2Farticles%2F235647427-%25E6%2583%25B3%25E8%25A6%2581%25E5%2588%25A0%25E9%2599%25A4%25E4%25B8%258D%25E5%25B0%258F%25E5%25BF%2583%25E6%258C%2589%25E9%2594%2599%25E7%259A%2584-%25E8%25B5%259E-" dir="ltr" rel="nofollow" role="menuitem">简体中文</a>
+              
+            </span>
+          </div>
+        
+      </div>
+    </span>
+    <span class="sp-header">
+    </span>
+    <a href="https://www.pixiv.net/">回到pixiv</a>
+  </div>
+</header>
+
+  <main role="main">
+    <div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="pixiv 幫助">
+      
+        <a href="/hc/zh-tw">pixiv 幫助</a>
+      
+    </li>
+  
+    <li title="有關「讚！」">
+      
+        <a href="/hc/zh-tw/categories/360001064174-%E6%9C%89%E9%97%9C-%E8%AE%9A-">有關「讚！」</a>
+      
+    </li>
+  
+    <li title="關於「讚！」">
+      
+        <a href="/hc/zh-tw/sections/207243007-%E9%97%9C%E6%96%BC-%E8%AE%9A-">關於「讚！」</a>
+      
+    </li>
+  
+</ol>
+
+    <form role="search" class="search" data-search="" action="/hc/zh-tw/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="category" id="category" value="360001064174" />
+<input type="search" name="query" id="query" placeholder="搜尋" aria-label="搜尋" /></form>
+  </nav>
+
+  <div class="article-container" id="article-container">
+    <section class="article-sidebar">
+      <section class="section-articles collapsible-sidebar">
+        <h3 class="collapsible-sidebar-title sidenav-title">此段落內的文章</h3>
+        <ul>
+          
+            <li>
+              <a href="/hc/zh-tw/articles/235585628--%E8%AE%9A-%E6%98%AF%E4%BB%80%E9%BA%BC-" class="sidenav-item ">「讚！」是什麼？</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-tw/articles/235585708-%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E8%AA%B0%E7%B5%A6%E6%88%91%E9%BB%9E%E4%BA%86-%E8%B4%8A-" class="sidenav-item ">我想知道誰給我點了「贊！」</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-" class="sidenav-item current-article">想要刪除不小心按錯的「讚！」</a>
+            </li>
+          
+            <li>
+              <a href="/hc/zh-tw/articles/235647407-%E9%BB%9E-%E8%AE%9A-%E5%BE%8C%E6%9C%83%E6%80%8E%E9%BA%BC%E6%A8%A3%E5%91%A2-" class="sidenav-item ">點「讚！」後會怎麼樣呢？</a>
+            </li>
+          
+        </ul>
+        
+      </section>
+    </section>
+
+    <article class="article">
+      <header class="article-header">
+        <h1 title="想要刪除不小心按錯的「讚！」" class="article-title">
+          想要刪除不小心按錯的「讚！」
+          
+        </h1>
+
+        
+      </header>
+
+      <section class="article-info">
+        <div class="article-content">
+          <div class="article-body"><p>一天只能對同一件作品按一次「讚！」。而按過的「讚！」將無法刪除。請在按「讚！」前多加注意。</p></div>
+
+          <div class="article-attachments">
+            <ul class="attachments">
+              
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="article-footer">
+          <div class="article-share">
+  <ul class="share">
+    <li><a href="https://www.facebook.com/share.php?title=%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84%E3%80%8C%E8%AE%9A%EF%BC%81%E3%80%8D&u=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-tw%2Farticles%2F235647427-%25E6%2583%25B3%25E8%25A6%2581%25E5%2588%25AA%25E9%2599%25A4%25E4%25B8%258D%25E5%25B0%258F%25E5%25BF%2583%25E6%258C%2589%25E9%258C%25AF%25E7%259A%2584-%25E8%25AE%259A-" class="share-facebook">Facebook</a></li>
+    <li><a href="https://twitter.com/share?lang=zh&text=%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84%E3%80%8C%E8%AE%9A%EF%BC%81%E3%80%8D&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-tw%2Farticles%2F235647427-%25E6%2583%25B3%25E8%25A6%2581%25E5%2588%25AA%25E9%2599%25A4%25E4%25B8%258D%25E5%25B0%258F%25E5%25BF%2583%25E6%258C%2589%25E9%258C%25AF%25E7%259A%2584-%25E8%25AE%259A-" class="share-twitter">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/shareArticle?mini=true&source=pixiv&title=%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84%E3%80%8C%E8%AE%9A%EF%BC%81%E3%80%8D&url=https%3A%2F%2Fwww.pixiv.help%2Fhc%2Fzh-tw%2Farticles%2F235647427-%25E6%2583%25B3%25E8%25A6%2581%25E5%2588%25AA%25E9%2599%25A4%25E4%25B8%258D%25E5%25B0%258F%25E5%25BF%2583%25E6%258C%2589%25E9%258C%25AF%25E7%259A%2584-%25E8%25AE%259A-" class="share-linkedin">LinkedIn</a></li>
+  </ul>
+
+</div>
+          
+        </div>
+        
+          <div class="article-votes">
+            <span class="article-votes-question">這篇文章是否有幫助？</span>
+            <div class="article-votes-controls" role='radiogroup'>
+              <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="235647427" data-upvote-count="1038" data-vote-count="2456" data-vote-sum="-380" data-vote-url="/hc/zh-tw/articles/235647427/vote" data-value="null" data-label="2456 人中有 1038 人覺得有幫助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="是" href="#"></a>
+              <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="235647427" data-upvote-count="1038" data-vote-count="2456" data-vote-sum="-380" data-vote-url="/hc/zh-tw/articles/235647427/vote" data-value="null" data-label="2456 人中有 1038 人覺得有幫助" data-selected-class="null" aria-selected="false" role="radio" rel="nofollow" title="否" href="#"></a>
+            </div>
+            <small class="article-votes-count">
+              <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="235647427" data-upvote-count="1038" data-vote-count="2456" data-vote-sum="-380" data-vote-url="/hc/zh-tw/articles/235647427/vote" data-value="null" data-label="2456 人中有 1038 人覺得有幫助">2456 人中有 1038 人覺得有幫助</span>
+            </small>
+          </div>
+        
+        
+        <div class="article-return-to-top">
+          <a href="#article-container">返回頂端<span class="icon-arrow-up"></span></a>
+        </div>
+      </footer>
+
+      <section class="article-relatives">
+        <div data-recent-articles></div>
+        
+  <section class="related-articles">
+    
+      <h3 class="related-articles-title">相關文章</h3>
+    
+    <ul>
+      
+        <li>
+          <a href="/hc/zh-tw/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEr7ELDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEw7ELDjoLbG9jYWxlSSIKemgtdHcGOgZFVDoIdXJsSSJtL2hjL3poLXR3L2FydGljbGVzLzIzNTY0NzQwNy0lRTklQkIlOUUtJUU4JUFFJTlBLSVFNSVCRSU4QyVFNiU5QyU4MyVFNiU4MCU4RSVFOSVCQSVCQyVFNiVBOCVBMyVFNSU5MSVBMi0GOwhUOglyYW5raQY%3D--22b6b5f7121a56b35f66c08459fb07672300166c" rel="nofollow">點「讚！」後會怎麼樣呢？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-tw/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkErMAKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEw7ELDjoLbG9jYWxlSSIKemgtdHcGOgZFVDoIdXJsSSJ%2BL2hjL3poLXR3L2FydGljbGVzLzIzNTU4NTcwOC0lRTYlODglOTElRTYlODMlQjMlRTclOUYlQTUlRTklODElOTMlRTglQUElQjAlRTclQjUlQTYlRTYlODglOTElRTklQkIlOUUlRTQlQkElODYtJUU4JUI0JThBLQY7CFQ6CXJhbmtpBw%3D%3D--71904611ed766ba503b4bc01325128366e6b0486" rel="nofollow">我想知道誰給我點了「贊！」</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-tw/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEXMAKDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEw7ELDjoLbG9jYWxlSSIKemgtdHcGOgZFVDoIdXJsSSJJL2hjL3poLXR3L2FydGljbGVzLzIzNTU4NTYyOC0tJUU4JUFFJTlBLSVFNiU5OCVBRiVFNCVCQiU4MCVFOSVCQSVCQy0GOwhUOglyYW5raQg%3D--83cd56d2f630e61911a397114b4defaf2a37b179" rel="nofollow">「讚！」是什麼？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-tw/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkEl7ALDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEw7ELDjoLbG9jYWxlSSIKemgtdHcGOgZFVDoIdXJsSSIBpi9oYy96aC10dy9hcnRpY2xlcy8yMzU2NDcxMjctJUU2JTg4JTkxJUU3JUI1JUE2JUU0JUJEJTlDJUU1JTkzJTgxJUU2JUI3JUJCJUU1JThBJUEwJUU0JUJBJTg2JUU2JTlCJUI4JUU3JUIwJUJELSVFNCVCRCU5QyVFOCU4MCU4NSVFNiU5QyU4MyVFNyU5RiVBNSVFOSU4MSU5MyVFNSU5NyU4RS0GOwhUOglyYW5raQk%3D--6ffac5318f5a29432a93298c0aa4e230eeaeb519" rel="nofollow">我給作品添加了書簽，作者會知道嗎？</a>
+        </li>
+      
+        <li>
+          <a href="/hc/zh-tw/related/click?data=BAh7CjobZGVzdGluYXRpb25fYXJ0aWNsZV9pZGkE968LDjoYcmVmZXJyZXJfYXJ0aWNsZV9pZGkEw7ELDjoLbG9jYWxlSSIKemgtdHcGOgZFVDoIdXJsSSJQL2hjL3poLXR3L2FydGljbGVzLzIzNTY0Njk2Ny0lRTYlOUIlQjglRTclQjAlQkQlRTYlOTglQUYlRTQlQkIlODAlRTklQkElQkMtBjsIVDoJcmFua2kK--84fee720a920ecc37aa886cdd562c8478e67f78c" rel="nofollow">書簽是什麼？</a>
+        </li>
+      
+    </ul>
+  </section>
+
+
+      </section>
+      <section class="support-mail">
+          <p><i class="fa fa-question-circle" aria-hidden="true"></i>問題仍然無法解決，請通過回饋與諮詢頁面與我們聯繫。</p>
+          <a href="https://www.pixiv.net/support.php?mode=inquiry&service=pixiv" target="_blank" class="button btn-support-mail ga_click_article_support">幫助中心</a>
+      </section>
+      
+    </article>
+  </div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    	        <dl class="links">
+            <dt>服務</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://comic.pixiv.net/" target="_blank" rel="noopener">pixiv漫畫</a></li>
+                    <li><a href="https://novel.pixiv.net/" target="_blank" rel="noopener">pixiv小說</a></li>
+                    <li><a href="https://factory.pixiv.net/" target="_blank" rel="noopener">pixivFACTORY</a>｜<a href="https://factory.pixiv.net/books" target="_blank" rel="noopener">BOOKS</a></li>
+                    <li><a href="https://booth.pm" target="_blank" rel="noopener">BOOTH</a></li>
+                    <li><a href="https://www.pixiv.net/fanbox" target="_blank" rel="noopener">pixiv FANBOX</a></li>
+                    <li><a href="https://www.pixivision.net/" target="_blank" rel="noopener">pixivision</a></li>
+                    <li><a href="https://sketch.pixiv.net/" target="_blank" rel="noopener">pixiv Sketch</a></li>
+                    <li><a href="https://sensei.pixiv.net/" target="_blank" rel="noopener">sensei</a></li>
+                    <li><a href="https://en-dic.pixiv.net/" target="_blank" rel="noopener">pixiv百科全書</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>&nbsp;</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://studio.vroid.com/" target="_blank" rel="noopener">VRoid Studio</a></li>
+                    <li><a href="https://hub.vroid.com/" target="_blank" rel="noopener">VRoid Hub</a></li>
+                    <li><a href="https://pixiv-waengallery.com/" target="_blank" rel="noopener">pixiv WAEN GALLERY</a></li>
+                    <li><a href="https://www.pixiv.net/premium.php"  target="_blank" rel="noopener">pixiv高級會員</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>關於使用方法</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://policies.pixiv.net/"  target="_blank" rel="noopener">使用條款</a></li>
+                    <li><a href="https://www.pixiv.net/guideline.php"  target="_blank" rel="noopener">本站方針</a></li>
+                    <li><a href="https://policies.pixiv.net/#privacy"  target="_blank" rel="noopener">隱私政策</a></li>
+                    <li><a href="https://www.pixiv.net/ads/"  target="_blank" rel="noopener">刊登廣告</a></li>
+                    <li><a href="https://www.pixiv.net/support.php"  target="_blank" rel="noopener" class="ga_click_footer_support">聯繫我們</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公告</dt>
+            <dd>
+                <ul>
+                    <li></li>
+                    <li><a href="https://www.pixiv.net/info.php"  target="_blank" rel="noopener">公告</a></li>
+                    <li><a href="https://inside.pixiv.blog/" target="_blank" rel="noopener">pixiv inside</a></li>
+                    <li><a href="https://twitter.com/pixiv" target="_blank" rel="noopener">Twitter</a></li>
+                    <li><a href="https://www.facebook.com/pixiv" target="_blank" rel="noopener">Facebook</a></li>
+                    <li><a href="https://instagram.com/pixiv" target="_blank" rel="noopener">Instagram</a></li>
+                    <li><a href="https://www.plurk.com/pixiv_tw" target="_blank" rel="noopener">Plurk</a></li>
+                    <li><a href="https://weibo.com/2230227495" target="_blank" rel="noopener">weibo</a></li>
+                </ul>
+            </dd>
+        </dl>
+        <dl class="links">
+            <dt>公司信息</dt>
+            <dd>
+                <ul>
+                    <li><a href="https://www.pixiv.co.jp/" target="_blank" rel="noopener">運營公司</a></li>
+                    <li><a href="https://recruit.pixiv.net/recruit-job-en.html" target="_blank" rel="noopener">招募人才</a></li>
+                </ul>
+            </dd>
+        </dl>
+  </div>
+</footer>
+
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/zh-tw.92ab285699e9cd052a96.js"></script>
+  <script src="https://pixiv.zendesk.com/auth/v2/host.js" data-brand-id="2857147" data-return-to="https://www.pixiv.help/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-" data-theme="hc" data-locale="zh-tw" data-auth-origin="2857147,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"pixiv","environment":"production","name":"pixiv"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"zh-tw","csrf_token":"hc:hcobject:server:IZg3Rqa_q_S1ejKISbNxktcdeYnjHt3LLOGO4xzFiQsS4KYztmhidtCj30ZGN3vTCL9vtPR51nnpu-bCtHwVpQ","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKemgtdHcGOgZFVDoPYXJ0aWNsZV9pZGkEw7ELDjoKX21ldGF7CzoPYWNjb3VudF9pZGkDDjcROhNoZWxwX2NlbnRlcl9pZGkE+5/xCzoNYnJhbmRfaWRpA7uYKzoMdXNlcl9pZDA6E3VzZXJfcm9sZV9uYW1lSSIOQU5PTllNT1VTBjsGVDsASSIKemgtdHcGOwZU--a32d758af906601cd70b08c0fcf3c54cb097a313","url":"https://www.pixiv.help/hc/activity"},"current_record_id":"235647427","current_record_url":"/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-","current_record_title":"想要刪除不小心按錯的「讚！」","search_results_count":null,"current_text_direction":"ltr","current_brand":{"id":2857147,"account_id":1128206,"name":"pixiv","active":true,"deleted_at":null,"created_at":"2016-10-18T05:36:32Z","updated_at":"2018-11-30T05:03:11Z","route_id":1167432,"signature_template":"{{agent.signature}}"},"current_brand_url":"https://pixiv.zendesk.com","current_host_mapping":"www.pixiv.help","current_path":"/hc/zh-tw/articles/235647427-%E6%83%B3%E8%A6%81%E5%88%AA%E9%99%A4%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8C%89%E9%8C%AF%E7%9A%84-%E8%AE%9A-","authentication_domain":"https://pixiv.zendesk.com","show_autocomplete_breadcrumbs":true,"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_end_user_attachments":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","manage_content_url":"https://www.pixiv.help/hc/zh-tw","arrange_content_url":"https://www.pixiv.help/hc/admin/arrange_contents?locale=zh-tw","general_settings_url":"https://www.pixiv.help/hc/admin/general_settings?locale=zh-tw","user_segments_url":"https://pixiv.zendesk.com/knowledge/user_segments?brand_id=2857147","has_gather":true,"has_community_enabled":false,"has_community_badges":true,"has_gather_content_tags":false,"has_guide_content_tags":false,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"has_answer_bot_web_form_modal_v2":false,"has_assign_badge_modal_v2":false,"has_edit_user_profile_v2":false,"has_change_password_modal_v2":false,"has_garden_modals":false,"billing_url":"/access/return_to?return_to=https%3A%2F%2Fpixiv.zendesk.com%2Fadmin%2Fbilling%2Fsubscription","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_alternate_templates":true,"arrange_articles_url":"https://pixiv.zendesk.com/knowledge/arrange?brand_id=2857147","article_verification_url":"https://pixiv.zendesk.com/knowledge/verification?brand_id=2857147","has_article_verification":true,"guide_language_settings_url":"https://www.pixiv.help/hc/admin/language_settings?locale=zh-tw","docs_importer_url":"https://pixiv.zendesk.com/knowledge/import_articles?brand_id=2857147","community_badges_url":"https://pixiv.zendesk.com/knowledge/community_badges?brand_id=2857147","community_settings_url":"https://pixiv.zendesk.com/knowledge/community_settings?brand_id=2857147","gather_plan_state":"subscribed","search_settings_url":"https://pixiv.zendesk.com/knowledge/search_settings?brand_id=2857147","has_multibrand_search_in_plan":true,"theming_api_version":1,"theming_settings":{"color_1":"#0096fa","color_2":"#ffffff","color_3":"#333333","color_4":"#0096fa","color_5":"#ffffff","font_1":"'Helvetica Neue', Arial, Helvetica, sans-serif","font_2":"'Helvetica Neue', Arial, Helvetica, sans-serif","logo":"//theme.zdassets.com/theme_assets/1128206/3ba70c55ddd666c31bb10f918c061a50f6308689.gif","favicon":"//theme.zdassets.com/theme_assets/1128206/b66b41d0e68525a593f5e2a0acec910f3570e6d4.ico","homepage_background_image":"//theme.zdassets.com/theme_assets/1128206/80b6f5b5ab7e64e47b3098214dafde1deed3b0ec.svg","community_background_image":"//theme.zdassets.com/theme_assets/1128206/ea0fc49e94c74884940bd530924916ea87035a5f.svg","community_image":"//theme.zdassets.com/theme_assets/1128206/e58c5e8c3ebf94cbbc4d3669def0adbd7d0ff479.svg"},"has_pci_credit_card_custom_field":true,"current_brand_id":2857147,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[],"user_photo_editing_enabled":true,"has_end_user_apps":true,"has_request_list_custom_fields":false,"has_docs_importer":false,"has_sunco_widget_kill_switch":false,"gather_user_image_upload_via_aus":false,"user_preferred_locale":"ja","version":"v21482"};
+  HelpCenter.analytics = {"has_user_session_cookie_enabled":false};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-6187d34f065d5443b8e98b7b814cb255.js"></script>
+    <script src="//static.zdassets.com/hc/assets/hc_analytics-a22de49efa44ef77583fc365004a2200.js"></script>
+  
+<script>(function(){window['__CF$cv$params']={r:'737eec2c9f0fb46c',m:'LuqUX_nuJH1FSLu2hDDLpfVVuQRZhV3WQCydfh58BEM-1660031654-0-AT2OxGJRim8DFIKrWQQF9B+rAnUD8ijZHVmEIDK2vZjM8X6sz+JoZYQz5uyQgdPFwpleJZmXE6FchFIqjFPfZVPDoU7jfBTvlRZMGgN+/rsV16bHKLrAJwG8ZvL65b/y4NrDt/xMhmUMLPgWYRP3iUTTXBHyUdUsjnLKE3rwc0ufsHi+YnD2SeQO712N31pNRIsnIXt2hAMmCkbsvLRUkDmh8dI5XwCMwzSxpalBS4fP5ymgbnIgax3QzTNNRYRanHTvZrFFZ+RNE1dWajltlUf+zRN3Mz5KdRDIRv74zIdK',s:[0x91e8b4275e,0x8d38cc05db],}})();</script></body>
+</html>
